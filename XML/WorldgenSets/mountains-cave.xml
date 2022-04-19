@@ -117,27 +117,4 @@
       </quaternion>
     </rotation>
   </object>
-  <object>
-    <prefab>fauna_crabsquid</prefab>
-    <position>
-      <x>931</x>
-      <y>-350</y>
-      <z>1428</z>
-    </position>
-    <rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-    </rotation>
-    <scale>
-      <x>0.4</x>
-      <y>0.4</y>
-      <z>0.4</z>
-    </scale>
-	<objectManipulation>
-		<RemoveComponent>EMPAttack</RemoveComponent>
-		<RemoveComponent>AttackCyclops</RemoveComponent>
-		<DamageScalar>0.4</DamageScalar>
-	</objectManipulation>
-  </object>
 </Root>
