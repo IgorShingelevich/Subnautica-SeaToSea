@@ -1,5 +1,5 @@
 <Root>
-  <object>
+  <customprefab>
     <prefab>databox</prefab>
     <tech>SeamothVoidStealth</tech>
     <position>
@@ -18,8 +18,8 @@
         <w>0.366744309663773</w>
       </quaternion>
     </rotation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>026c39c1-d0cc-442c-aa42-e574c9c281b2</prefab>
     <position>
       <x>960.780212402344</x>
@@ -37,8 +37,8 @@
         <w>0.537417829036713</w>
       </quaternion>
     </rotation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>256a06d3-b861-487a-b8ac-050daa0d683d</prefab>
     <position>
       <x>970.35595703125</x>
@@ -56,8 +56,8 @@
         <w>0.661064982414246</w>
       </quaternion>
     </rotation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>crate</prefab>
 	<item>PlasteelIngot</item>
     <position>
@@ -76,8 +76,8 @@
         <w>-0.812703669071198</w>
       </quaternion>
     </rotation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>crate</prefab>
 	<item>BigFilteredWater</item>
     <position>
@@ -96,8 +96,8 @@
         <w>0.53003454208374</w>
       </quaternion>
     </rotation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>crate</prefab>
 	<item>FirstAidKit</item>
     <position>
@@ -116,5 +116,5 @@
         <w>0.0157941617071629</w>
       </quaternion>
     </rotation>
-  </object>
+  </customprefab>
 </Root>

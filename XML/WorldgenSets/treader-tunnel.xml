@@ -1,5 +1,5 @@
 <Root>
-  <object>
+  <customprefab>
     <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
     <position>
       <x>-1259.26965332031</x>
@@ -23,8 +23,8 @@
       <z>1</z>
     </scale>
     <tech>MelonPlant</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
     <position>
       <x>-1259.45458984375</x>
@@ -48,8 +48,8 @@
       <z>1</z>
     </scale>
     <tech>MelonPlant</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
     <position>
       <x>-1258.09167480469</x>
@@ -73,8 +73,8 @@
       <z>1</z>
     </scale>
     <tech>MelonPlant</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
     <position>
       <x>-1257.55395507813</x>
@@ -98,5 +98,5 @@
       <z>1</z>
     </scale>
     <tech>MelonPlant</tech>
-  </object>
+  </customprefab>
 </Root>
