@@ -1,0 +1,17 @@
+<Root>
+  <generator>
+    <type>ReikaKalseki.SeaToSea.VoidSpikes</type>
+	<count>24</count>
+	<scaleY>6</scaleY>
+	<scaleXZ>6</scaleXZ>
+	<oreRichness>1.2</oreRichness>
+	<generateAux>true</generateAux>
+	<fishCount>240</fishCount>
+	<generateLeviathan>false</generateLeviathan>
+    <position>
+      <x>457.270294189453</x>
+      <y>-894.307708740234</y>
+      <z>-2261.071594238281</z>
+    </position>
+  </generator>
+</Root>
