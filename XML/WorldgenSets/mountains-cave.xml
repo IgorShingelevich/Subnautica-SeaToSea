@@ -37,6 +37,9 @@
         <w>0.537417829036713</w>
       </quaternion>
     </rotation>
+	<objectManipulation>
+		<CleanupDegasiProp></CleanupDegasiProp>
+	</objectManipulation>
   </customprefab>
   <customprefab>
     <prefab>256a06d3-b861-487a-b8ac-050daa0d683d</prefab>
@@ -56,6 +59,9 @@
         <w>0.661064982414246</w>
       </quaternion>
     </rotation>
+	<objectManipulation>
+		<CleanupDegasiProp></CleanupDegasiProp>
+	</objectManipulation>
   </customprefab>
   <customprefab>
     <prefab>crate</prefab>
@@ -79,7 +85,7 @@
   </customprefab>
   <customprefab>
     <prefab>crate</prefab>
-	<item>BigFilteredWater</item>
+	<item>Knife</item>
     <position>
       <x>962.268676757813</x>
       <y>-352.91259765625</y>
