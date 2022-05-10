@@ -1,5 +1,5 @@
 <Root>
-  <object>
+  <customprefab>
     <prefab>255ed3c3-1973-40c0-9917-d16dd9a7018d</prefab>
     <position>
       <x>956.554077148438</x>
@@ -25,8 +25,8 @@
 	<objectManipulation>
 		<CleanupDegasiProp></CleanupDegasiProp>
 	</objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>775feb4c-dab9-4322-b4a5-a4289ca1cf6a</prefab>
     <position>
       <x>955.320983886719</x>
@@ -116,12 +116,13 @@
 			<item>
 				<type>tech</type>
 				<name>Beacon</name>
-				<amount>1</amount>
+				<min>1</min>
+				<max>3</max>
 			</item>
 		</AddLockerContents>
 	</objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>8fb8a082-d40a-4473-99ec-1ded36cc6813</prefab>
     <position>
       <x>959.599426269531</x>
@@ -145,8 +146,8 @@
       <z>1</z>
     </scale>
     <tech>StarshipCargoCrate</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>crate</prefab>
 	<item>PowerCell</item>
     <position>
@@ -170,8 +171,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>8fb8a082-d40a-4473-99ec-1ded36cc6813</prefab>
     <position>
       <x>955.407409667969</x>
@@ -195,8 +196,8 @@
       <z>1</z>
     </scale>
     <tech>StarshipCargoCrate</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>284573d8-9a80-4867-a09a-85df573c29ef</prefab>
     <position>
       <x>954.482666015625</x>
@@ -220,8 +221,8 @@
       <z>1</z>
     </scale>
     <tech>SeamothFragment</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>MOUNTAIN_CRYSTAL</prefab>
     <position>
       <x>968.511352539063</x>
@@ -245,8 +246,8 @@
       <z>1</z>
     </scale>
     <tech>MOUNTAIN_CRYSTAL</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>MOUNTAIN_CRYSTAL</prefab>
     <position>
       <x>968.553527832031</x>
@@ -270,8 +271,8 @@
       <z>1</z>
     </scale>
     <tech>MOUNTAIN_CRYSTAL</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>MOUNTAIN_CRYSTAL</prefab>
     <position>
       <x>968.703063964844</x>
@@ -295,8 +296,8 @@
       <z>1</z>
     </scale>
     <tech>MOUNTAIN_CRYSTAL</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>292ba610-ed40-461f-826b-7b2645b37b5f</prefab>
     <position>
       <x>957.448547363281</x>
@@ -320,8 +321,8 @@
       <z>1</z>
     </scale>
     <tech>SeamothFragment</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>9f855246-76c4-438b-8e4d-9cd6d7ce4224</prefab>
     <position>
       <x>964.451904296875</x>
@@ -345,8 +346,8 @@
       <z>1</z>
     </scale>
     <tech>DrillableTitanium</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>pda</prefab>
 	<page>mountaincave</page>
     <position>
@@ -365,8 +366,8 @@
         <w>-0.971582055091858</w>
       </quaternion>
     </rotation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>pda</prefab>
 	<page>mountainpod</page>
     <position>
@@ -385,5 +386,5 @@
         <w>-0.987303197383881</w>
       </quaternion>
     </rotation>
-  </object>
+  </customprefab>
 </Root>
