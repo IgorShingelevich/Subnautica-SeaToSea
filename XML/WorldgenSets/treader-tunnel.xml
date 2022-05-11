@@ -1,5 +1,5 @@
 <Root>
-  <object>
+  <customprefab>
     <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
     <position>
       <x>-1257.55395507813</x>
@@ -28,8 +28,8 @@
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
     </objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
     <position>
       <x>-1258.09167480469</x>
@@ -58,8 +58,8 @@
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
     </objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
     <position>
       <x>-1259.45458984375</x>
@@ -88,8 +88,8 @@
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
     </objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
     <position>
       <x>-1259.26965332031</x>
@@ -118,8 +118,8 @@
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
     </objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>57f06434-b847-4f08-9dac-cabb339ad526</prefab>
     <position>
       <x>-1260.58764648438</x>
@@ -142,8 +142,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c592f5bc-723a-43ba-8259-0d7e270bfa3b</prefab>
     <position>
       <x>-1257.09411621094</x>
@@ -166,8 +166,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c592f5bc-723a-43ba-8259-0d7e270bfa3b</prefab>
     <position>
       <x>-1257.72790527344</x>
@@ -190,8 +190,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>a1e2f322-7080-48ca-8eaf-a05afff8585d</prefab>
     <position>
       <x>-1268.2158203125</x>
@@ -217,8 +217,8 @@
 	<objectManipulation>
 		<RemoveMachinesFromTreaderProp></RemoveMachinesFromTreaderProp>
 	</objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c9d84dfd-6802-41bd-a7b1-34d9b3a31531</prefab>
     <position>
       <x>-1258.21569824219</x>
@@ -242,8 +242,8 @@
       <z>1</z>
     </scale>
     <tech>FarmingTray</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>57f06434-b847-4f08-9dac-cabb339ad526</prefab>
     <position>
       <x>-1267.64965820313</x>
@@ -266,8 +266,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>57f06434-b847-4f08-9dac-cabb339ad526</prefab>
     <position>
       <x>-1268.9169921875</x>
@@ -290,8 +290,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>60bf17dd-1936-47c2-bcd7-394ba7bfc440</prefab>
     <position>
       <x>-1268.64392089844</x>
@@ -314,8 +314,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>6cafbcb5-6cb7-4e0f-9934-03133a3772b6</prefab>
     <position>
       <x>-1270.96435546875</x>
@@ -338,8 +338,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c592f5bc-723a-43ba-8259-0d7e270bfa3b</prefab>
     <position>
       <x>-1267.14172363281</x>
@@ -362,8 +362,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c592f5bc-723a-43ba-8259-0d7e270bfa3b</prefab>
     <position>
       <x>-1267.00830078125</x>
@@ -386,8 +386,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c7a23cb1-ddde-4fa8-9f5f-f8b408db3062</prefab>
     <position>
       <x>-1269.64404296875</x>
@@ -410,8 +410,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>60bf17dd-1936-47c2-bcd7-394ba7bfc440</prefab>
     <position>
       <x>-1259.97534179688</x>
@@ -434,8 +434,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>57f06434-b847-4f08-9dac-cabb339ad526</prefab>
     <position>
       <x>-1268.365234375</x>
@@ -458,8 +458,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c7a23cb1-ddde-4fa8-9f5f-f8b408db3062</prefab>
     <position>
       <x>-1264.41711425781</x>
@@ -482,8 +482,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c7a23cb1-ddde-4fa8-9f5f-f8b408db3062</prefab>
     <position>
       <x>-1267.89660644531</x>
@@ -506,8 +506,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c7a23cb1-ddde-4fa8-9f5f-f8b408db3062</prefab>
     <position>
       <x>-1268.68273925781</x>
@@ -530,8 +530,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>57f06434-b847-4f08-9dac-cabb339ad526</prefab>
     <position>
       <x>-1266.61364746094</x>
@@ -554,8 +554,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c7a23cb1-ddde-4fa8-9f5f-f8b408db3062</prefab>
     <position>
       <x>-1265.73803710938</x>
@@ -578,8 +578,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>-1263.46801757813</x>
@@ -603,8 +603,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>0</x>
@@ -628,8 +628,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>-1263.8837890625</x>
@@ -653,8 +653,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>-1263.60717773438</x>
@@ -678,8 +678,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>-1263.64196777344</x>
@@ -703,8 +703,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>-1263.78686523438</x>
@@ -728,8 +728,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>-1263.3037109375</x>
@@ -753,8 +753,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
       <x>-1263.50146484375</x>
@@ -778,8 +778,8 @@
       <z>1</z>
     </scale>
     <tech>NutrientBlock</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>1cafd118-47e6-48c4-bfd7-718df9984685</prefab>
     <position>
       <x>-1264.66430664063</x>
@@ -803,8 +803,8 @@
       <z>1</z>
     </scale>
     <tech>FloatingStone</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>228e5af5-a579-4c99-9fb0-04b653f73cd3</prefab>
     <position>
       <x>-1267.5634765625</x>
@@ -828,8 +828,8 @@
       <z>1</z>
     </scale>
     <tech>FloatingStone</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>228e5af5-a579-4c99-9fb0-04b653f73cd3</prefab>
     <position>
       <x>-1263.83569335938</x>
@@ -853,8 +853,8 @@
       <z>1</z>
     </scale>
     <tech>FloatingStone</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>7444baa0-1416-4cb6-aa9a-162ccd4b98c7</prefab>
     <position>
       <x>-1259.60729980469</x>
@@ -878,8 +878,8 @@
       <z>1</z>
     </scale>
     <tech>FloatingStone</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>228e5af5-a579-4c99-9fb0-04b653f73cd3</prefab>
     <position>
       <x>-1259.73034667969</x>
@@ -903,8 +903,8 @@
       <z>1</z>
     </scale>
     <tech>FloatingStone</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>109bbd29-c445-4ad8-a4bf-be7bc6d421d6</prefab>
     <position>
       <x>-1266.25805664063</x>
@@ -928,8 +928,8 @@
       <z>1</z>
     </scale>
     <tech>DrillableAluminiumOxide</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>109bbd29-c445-4ad8-a4bf-be7bc6d421d6</prefab>
     <position>
       <x>-1269.58679199219</x>
@@ -953,8 +953,8 @@
       <z>1</z>
     </scale>
     <tech>DrillableAluminiumOxide</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>87293f19-cca3-46e6-bb3d-6e8dc579e27b</prefab>
     <position>
       <x>-1266.58715820313</x>
@@ -978,8 +978,8 @@
       <z>1</z>
     </scale>
     <tech>AluminumOxide</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>87293f19-cca3-46e6-bb3d-6e8dc579e27b</prefab>
     <position>
       <x>-1266.18798828125</x>
@@ -1003,8 +1003,8 @@
       <z>1</z>
     </scale>
     <tech>AluminumOxide</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>87293f19-cca3-46e6-bb3d-6e8dc579e27b</prefab>
     <position>
       <x>-1266.23999023438</x>
@@ -1028,8 +1028,8 @@
       <z>1</z>
     </scale>
     <tech>AluminumOxide</tech>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c7a23cb1-ddde-4fa8-9f5f-f8b408db3062</prefab>
     <position>
       <x>-1271.07006835938</x>
@@ -1052,8 +1052,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>6cafbcb5-6cb7-4e0f-9934-03133a3772b6</prefab>
     <position>
       <x>-1270.73889160156</x>
@@ -1076,8 +1076,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>c592f5bc-723a-43ba-8259-0d7e270bfa3b</prefab>
     <position>
       <x>-1269.140625</x>
@@ -1100,8 +1100,8 @@
       <y>1</y>
       <z>1</z>
     </scale>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>fauna_crabsquid</prefab>
     <position>
       <x>-1212</x>
@@ -1112,8 +1112,8 @@
       <RemoveComponent>AttackCyclops</RemoveComponent>
       <DamageScalar>0.8</DamageScalar>
     </objectManipulation>
-  </object>
-  <object count="6">
+  </customprefab>
+  <customprefab count="6">
     <prefab>fauna_bleeder</prefab>
     <position>
       <x>-1152</x>
@@ -1127,8 +1127,8 @@
 		<z>7</z>
 	  </Scatter>
     </objectManipulation>
-  </object>
-  <object count="14">
+  </customprefab>
+  <customprefab count="14">
     <prefab>fauna_bleeder</prefab>
     <position>
       <x>-1200</x>
@@ -1142,8 +1142,8 @@
 		<z>7</z>
 	  </Scatter>
     </objectManipulation>
-  </object>
-  <object count="24">
+  </customprefab>
+  <customprefab count="24">
     <prefab>fauna_bleeder</prefab>
     <position>
       <x>-1266</x>
@@ -1157,16 +1157,16 @@
 		<z>5</z>
 	  </Scatter>
     </objectManipulation>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>fauna_warper</prefab>
     <position>
       <x>-1233</x>
       <y>-280</y>
       <z>-736</z>
     </position>
-  </object>
-  <object>
+  </customprefab>
+  <customprefab>
     <prefab>775feb4c-dab9-4322-b4a5-a4289ca1cf6a</prefab>
     <position>
       <x>-1266.208984375</x>
@@ -1239,5 +1239,5 @@
 			</item>
 		</AddLockerContents>
 	</objectManipulation>
-  </object>
+  </customprefab>
 </Root>
