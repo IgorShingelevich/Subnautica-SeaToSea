@@ -1111,6 +1111,7 @@
     <objectManipulation>
       <RemoveComponent>AttackCyclops</RemoveComponent>
       <DamageScalar>0.8</DamageScalar>
+	  <SetInfected>True</SetInfected>
     </objectManipulation>
   </customprefab>
   <customprefab count="6">
@@ -1239,5 +1240,45 @@
 			</item>
 		</AddLockerContents>
 	</objectManipulation>
+  </customprefab>
+  <customprefab>
+    <prefab>databox</prefab>
+	<tech>Reprocessor</tech>
+    <position>
+      <x>-1266.45690917969</x>
+      <y>-285.615509033203</y>
+      <z>-725.378845214844</z>
+    </position>
+    <rotation>
+      <x>31.4002113342285</x>
+      <y>124.000076293945</y>
+      <z>5.19972276687622</z>
+      <quaternion>
+        <x>0.165465921163559</x>
+        <y>0.843368649482727</y>
+        <z>-0.218180760741234</z>
+        <w>0.462328344583511</w>
+      </quaternion>
+    </rotation>
+  </customprefab>
+  <customprefab>
+    <prefab>pda</prefab>
+	<page>treadercave</page>
+    <position>
+      <x>-1251.05041503906</x>
+      <y>-291.219970703125</y>
+      <z>-733.126159667969</z>
+    </position>
+    <rotation>
+      <x>5.20004463195801</x>
+      <y>358.399780273438</y>
+      <z>318.00048828125</z>
+      <quaternion>
+        <x>0.0473453812301159</x>
+        <y>0.00323178898543119</y>
+        <z>-0.35736870765686</z>
+        <w>0.932757019996643</w>
+      </quaternion>
+    </rotation>
   </customprefab>
 </Root>
