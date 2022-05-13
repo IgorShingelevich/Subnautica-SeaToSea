@@ -223,7 +223,7 @@
     <tech>SeamothFragment</tech>
   </customprefab>
   <customprefab>
-    <prefab>MOUNTAIN_CRYSTAL</prefab>
+    <prefab>VENT_CRYSTAL</prefab>
     <position>
       <x>968.511352539063</x>
       <y>-353.264678955078</y>
@@ -245,10 +245,10 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>MOUNTAIN_CRYSTAL</tech>
+    <tech>VENT_CRYSTAL</tech>
   </customprefab>
   <customprefab>
-    <prefab>MOUNTAIN_CRYSTAL</prefab>
+    <prefab>VENT_CRYSTAL</prefab>
     <position>
       <x>968.553527832031</x>
       <y>-353.079711914063</y>
@@ -270,10 +270,10 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>MOUNTAIN_CRYSTAL</tech>
+    <tech>VENT_CRYSTAL</tech>
   </customprefab>
   <customprefab>
-    <prefab>MOUNTAIN_CRYSTAL</prefab>
+    <prefab>VENT_CRYSTAL</prefab>
     <position>
       <x>968.703063964844</x>
       <y>-353.079162597656</y>
@@ -295,7 +295,7 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>MOUNTAIN_CRYSTAL</tech>
+    <tech>VENT_CRYSTAL</tech>
   </customprefab>
   <customprefab>
     <prefab>292ba610-ed40-461f-826b-7b2645b37b5f</prefab>
