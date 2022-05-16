@@ -369,7 +369,7 @@
   </customprefab>
   <customprefab>
     <prefab>pda</prefab>
-	<page>mountainpod</page>
+	<page>mountainpodlate</page>
     <position>
       <x>987.749938964844</x>
       <y>-271.970672607422</y>
@@ -384,6 +384,26 @@
         <y>-0.00436794711276889</y>
         <z>0.0275780092924833</z>
         <w>-0.987303197383881</w>
+      </quaternion>
+    </rotation>
+  </customprefab>
+  <customprefab>
+    <prefab>pda</prefab>
+	<page>mountainpodearly</page>
+    <position>
+      <x>1007.50701904297</x>
+      <y>-268.922485351563</y>
+      <z>1364.86889648438</z>
+    </position>
+    <rotation>
+      <x>356.800048828125</x>
+      <y>-1.33610447150545E-08</y>
+      <z>3.20000052452087</z>
+      <quaternion>
+        <x>0.0279104132205248</x>
+        <y>-0.00077960838098079</y>
+        <z>-0.0279107559472322</z>
+        <w>-0.999220430850983</w>
       </quaternion>
     </rotation>
   </customprefab>
