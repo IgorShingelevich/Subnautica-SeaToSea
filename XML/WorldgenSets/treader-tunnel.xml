@@ -1243,7 +1243,7 @@
   </customprefab>
   <customprefab>
     <prefab>databox</prefab>
-	<tech>Reprocessor</tech>
+	<tech>bioprocessor</tech>
     <position>
       <x>-1266.45690917969</x>
       <y>-285.615509033203</y>
