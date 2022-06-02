@@ -1,0 +1,27 @@
+<Root>
+  <customprefab>
+    <prefab>databox</prefab>
+	<tech>CyclopsHeat</tech>
+    <position>
+      <x>-1189.23315429688</x>
+      <y>-628.624389648438</y>
+      <z>-389.609161376953</z>
+    </position>
+    <rotation>
+      <x>352.000213623047</x>
+      <y>-2.15540921999491E-07</y>
+      <z>343.200225830078</z>
+      <quaternion>
+        <x>-0.0690062791109085</x>
+        <y>-0.0101898200809956</y>
+        <z>-0.145725205540657</z>
+        <w>0.98686295747757</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </customprefab>
+</Root>
