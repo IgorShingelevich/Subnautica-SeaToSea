@@ -18,19 +18,15 @@
       </quaternion>
     </rotation>
     <tech>PrecursorKey_Red</tech>
-  </customprefab>
-  <customprefab>
-    <prefab>de38c9d2-2cc9-48aa-8335-1f6cdb8dc2bd</prefab>
-    <position>
-      <x>156.239135742188</x>
-      <y>-210.139556884766</y>
-      <z>950.736083984375</z>
-    </position>
 	<objectManipulation>
-		<ParentTo>
-			<type>FindNearTechType</type>
-			<key>PrecursorKey_Red</key>
-		</ParentTo>
+		<AddChild>
+			<prefab>de38c9d2-2cc9-48aa-8335-1f6cdb8dc2bd</prefab>
+			<position>
+			  <x>-0.25</x>
+			  <y>0.3</y>
+			  <z>0</z>
+			</position>
+		</AddChild>
 	</objectManipulation>
   </customprefab>
 </Root>
