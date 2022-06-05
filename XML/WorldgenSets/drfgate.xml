@@ -1,0 +1,26 @@
+<Root>
+  <customprefab>
+    <prefab>fdb2bcbb-288a-40b6-bd7a-5585445eb43f</prefab>
+    <position>
+      <x>-242.356582641602</x>
+      <y>-803.861999511719</y>
+      <z>270.144012451172</z>
+    </position>
+    <rotation>
+      <x>9.40001010894775</x>
+      <y>335.199890136719</y>
+      <z>0.199943199753761</z>
+      <quaternion>
+        <x>0.0796535834670067</x>
+        <y>-0.214153483510017</y>
+        <z>0.0192935559898615</z>
+        <w>0.973355710506439</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </customprefab>
+</Root>
