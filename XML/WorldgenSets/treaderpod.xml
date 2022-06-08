@@ -56,6 +56,7 @@
 	<debrisAmount>7.5</debrisAmount>
 	<debrisScale>0.25</debrisScale>
 	<paperCount>6</paperCount>
+	<scrapCount>24</scrapCount>
 	<generateRecognizablePieces>true</generateRecognizablePieces>
   </generator>
 </Root>
