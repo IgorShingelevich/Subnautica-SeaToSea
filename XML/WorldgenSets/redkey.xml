@@ -1,6 +1,6 @@
 <Root>
   <customprefab>
-    <prefab>7d19f47b-6ec6-4a25-9b28-b3fd7f5661b7</prefab>
+    <prefab>brokentablet_red</prefab>
     <position>
       <x>156.489883422852</x>
       <y>-210.425491333008</y>
@@ -17,7 +17,6 @@
         <w>-0.965351939201355</w>
       </quaternion>
     </rotation>
-    <tech>PrecursorKey_Red</tech>
 	<objectManipulation>
 		<AddChild>
 			<prefab>de38c9d2-2cc9-48aa-8335-1f6cdb8dc2bd</prefab>
