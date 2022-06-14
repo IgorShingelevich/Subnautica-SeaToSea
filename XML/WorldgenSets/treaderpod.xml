@@ -58,5 +58,6 @@
 	<paperCount>6</paperCount>
 	<scrapCount>24</scrapCount>
 	<generateRecognizablePieces>true</generateRecognizablePieces>
+	<yBaseline>-362.4</yBaseline>
   </generator>
 </Root>

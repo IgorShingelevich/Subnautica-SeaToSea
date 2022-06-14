@@ -84,5 +84,11 @@
       <y>-243.789535522461</y>
       <z>-1106.91345214844</z>
     </position>
+	<yBaseline>-250.8</yBaseline>
+	<debrisAmount>0.5</debrisAmount>
+	<debrisScale>0.25</debrisScale>
+	<paperCount>3</paperCount>
+	<scrapCount>0</scrapCount>
+	<generateRecognizablePieces>false</generateRecognizablePieces>
   </generator>
 </Root>
