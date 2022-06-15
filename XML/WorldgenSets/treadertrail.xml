@@ -29,6 +29,15 @@
   <generator>
     <type>ReikaKalseki.SeaToSea.TreaderTrailPiece</type>
     <position>
+      <x>-1321.40954589844</x>
+      <y>-361.829083251953</y>
+      <z>-1109.65551757813</z>
+    </position>
+	<intensity>0.8</intensity>
+  </generator>
+  <generator>
+    <type>ReikaKalseki.SeaToSea.TreaderTrailPiece</type>
+    <position>
       <x>-1331.40954589844</x>
       <y>-360.529083251953</y>
       <z>-1097.65551757813</z>
@@ -57,14 +66,14 @@
     <type>ReikaKalseki.SeaToSea.TreaderTrailPiece</type>
     <position>
       <x>-1364.3818359375</x>
-      <y>-325.521087646484</y>
+      <y>-326.021087646484</y>
       <z>-939.270202636719</z>
     </position>
   <generator>
     <type>ReikaKalseki.SeaToSea.TreaderTrailPiece</type>
     <position>
       <x>-1375.94494628906</x>
-      <y>-330.964508056641</y>
+      <y>-331.464508056641</y>
       <z>-989.039367675781</z>
     </position>
 	<intensity>0.33</intensity>
@@ -73,7 +82,7 @@
     <type>ReikaKalseki.SeaToSea.TreaderTrailPiece</type>
     <position>
       <x>-1376.44897460938</x>
-      <y>-324.182739257813</y>
+      <y>-324.682739257813</y>
       <z>-898.990966796875</z>
     </position>
 	<intensity>0.25</intensity>
@@ -82,7 +91,7 @@
     <type>ReikaKalseki.SeaToSea.TreaderTrailPiece</type>
     <position>
       <x>-1379.36242675781</x>
-      <y>-334.013031005859</y>
+      <y>-335.013031005859</y>
       <z>-1006.46130371094</z>
     </position>
 	<intensity>0.15</intensity>
