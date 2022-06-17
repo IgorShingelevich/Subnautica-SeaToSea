@@ -22,12 +22,13 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>MelonPlant</tech>
     <objectManipulation>
       <RemoveComponent>Pickupable</RemoveComponent>
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
+      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
     </objectManipulation>
+	<tech>MelonPlant</tech>
   </customprefab>
   <customprefab>
     <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
@@ -52,12 +53,13 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>MelonPlant</tech>
     <objectManipulation>
       <RemoveComponent>Pickupable</RemoveComponent>
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
+      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
     </objectManipulation>
+	<tech>MelonPlant</tech>
   </customprefab>
   <customprefab>
     <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
@@ -82,12 +84,13 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>MelonPlant</tech>
     <objectManipulation>
       <RemoveComponent>Pickupable</RemoveComponent>
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
+      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
     </objectManipulation>
+	<tech>MelonPlant</tech>
   </customprefab>
   <customprefab>
     <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
@@ -112,12 +115,13 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>MelonPlant</tech>
     <objectManipulation>
       <RemoveComponent>Pickupable</RemoveComponent>
       <RemoveComponent>PickPrefab</RemoveComponent>
       <RemoveComponent>LiveMixin</RemoveComponent>
+      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
     </objectManipulation>
+	<tech>MelonPlant</tech>
   </customprefab>
   <customprefab>
     <prefab>57f06434-b847-4f08-9dac-cabb339ad526</prefab>
