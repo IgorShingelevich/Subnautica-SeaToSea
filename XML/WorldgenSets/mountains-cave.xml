@@ -66,6 +66,7 @@
   <customprefab>
     <prefab>crate</prefab>
 	<item>PlasteelIngot</item>
+	<sealed>true</sealed>
     <position>
       <x>973.532592773438</x>
       <y>-352.51953125</y>
@@ -86,6 +87,7 @@
   <customprefab>
     <prefab>crate</prefab>
 	<item>HeatBlade</item>
+	<sealed>true</sealed>
     <position>
       <x>962.268676757813</x>
       <y>-352.91259765625</y>
