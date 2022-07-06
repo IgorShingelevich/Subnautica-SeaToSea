@@ -77,6 +77,67 @@
       <z>1</z>
     </scale>
   </customprefab>
+  <customprefab>
+    <prefab>crate</prefab>
+	<item>TitaniumIngot</item>
+	<sealed>true</sealed>
+    <position>
+      <x>611.225158691406</x>
+      <y>-250.950149536133</y>
+      <z>-1096.7021484375</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>193.999954223633</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0.992546200752258</y>
+        <z>0</z>
+        <w>-0.121868938207626</w>
+      </quaternion>
+    </rotation>
+  </customprefab>
+  <customprefab>
+    <prefab>crate</prefab>
+	<item>FirstAidKit</item>
+    <position>
+      <x>631.474670410156</x>
+      <y>-250.545440673828</y>
+      <z>-1093.88659667969</z>
+    </position>
+    <rotation>
+      <x>271.200256347656</x>
+      <y>0</y>
+      <z>0</z>
+      <quaternion>
+        <x>0.699662268161774</x>
+        <y>0</y>
+        <z>0</z>
+        <w>-0.714473724365234</w>
+      </quaternion>
+    </rotation>
+  </customprefab>
+  <customprefab>
+    <prefab>crate</prefab>
+	<item>Flare</item>
+    <position>
+      <x>628.891906738281</x>
+      <y>-250.967437744141</y>
+      <z>-1112.748046875</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>314.999938964844</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0.382683932781219</y>
+        <z>0</z>
+        <w>-0.923879325389862</w>
+      </quaternion>
+    </rotation>
+  </customprefab>
   <generator>
     <type>ReikaKalseki.SeaToSea.PodDebris</type>
     <position>
