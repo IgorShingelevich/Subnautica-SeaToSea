@@ -1,5 +1,25 @@
 <Root>
   <customprefab>
+	<prefab>fragment</prefab>
+    <index>0</index>
+    <position>
+      <x>113.741561889648</x>
+      <y>-266.462890625</y>
+      <z>-374.601715087891</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <tech>rebreathercharger</tech>
+  </customprefab>
+  <customprefab>
     <prefab>crate</prefab>
 	<item>PlasteelIngot</item>
 	<sealed>true</sealed>
@@ -17,27 +37,6 @@
         <y>0.912120819091797</y>
         <z>0</z>
         <w>-0.40992146730423</w>
-      </quaternion>
-    </rotation>
-  </customprefab>
-  <customprefab>
-    <prefab>crate</prefab>
-	<item>DenseAzurite</item>
-	<sealed>true</sealed>
-    <position>
-      <x>95.7933502197266</x>
-      <y>-258.495483398438</y>
-      <z>-378.525939941406</z>
-    </position>
-    <rotation>
-      <x>0</x>
-      <y>23.5999870300293</y>
-      <z>0</z>
-      <quaternion>
-        <x>0</x>
-        <y>0.204495936632156</y>
-        <z>0</z>
-        <w>0.978867411613464</w>
       </quaternion>
     </rotation>
   </customprefab>
