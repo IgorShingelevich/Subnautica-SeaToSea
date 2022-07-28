@@ -1,6 +1,85 @@
 <Root>
   <customprefab>
 	<prefab>fragment</prefab>
+    <tech>rebreathercharger</tech>
+    <index>2</index>
+    <position>
+      <x>-537.161437988281</x>
+      <y>-251.951599121094</y>
+      <z>-86.9130325317383</z>
+    </position>
+    <rotation>
+      <x>28.8000297546387</x>
+      <y>25.5999794006348</y>
+      <z>9.74286535893043E-07</z>
+      <quaternion>
+        <x>0.242510005831718</x>
+        <y>0.214587941765785</y>
+        <z>-0.0550968647003174</z>
+        <w>0.944513201713562</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </customprefab>
+  <customprefab>
+	<prefab>fragment</prefab>
+    <tech>rebreathercharger</tech>
+    <index>1</index>
+    <position>
+      <x>-266.28076171875</x>
+      <y>-244.375076293945</y>
+      <z>-224.896133422852</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </customprefab>
+  <customprefab>
+	<prefab>fragment</prefab>
+    <tech>rebreathercharger</tech>
+    <index>2</index>
+    <position>
+      <x>78.8065948486328</x>
+      <y>-265.670776367188</y>
+      <z>-368.499572753906</z>
+    </position>
+    <rotation>
+      <x>270</x>
+      <y>8.00005626678467</y>
+      <z>0</z>
+      <quaternion>
+        <x>0.705389738082886</x>
+        <y>-0.0493252538144588</y>
+        <z>-0.0493245013058186</z>
+        <w>-0.705379009246826</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </customprefab>
+  <customprefab>
+	<prefab>fragment</prefab>
+    <tech>rebreathercharger</tech>
     <index>0</index>
     <position>
       <x>113.741561889648</x>
@@ -17,7 +96,6 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>rebreathercharger</tech>
   </customprefab>
   <customprefab>
     <prefab>crate</prefab>
