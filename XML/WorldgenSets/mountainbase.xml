@@ -22,7 +22,7 @@
       <y>1</y>
       <z>1.00000047683716</z>
     </scale>
-    <xmlID>999b99a7-0b3a-4ee6-b05f-4949da1d13a3</xmlID>
+    <xmlID>0eb4dcb9-1265-42dd-a580-d2fad2067948</xmlID>
     <part>
       <prefab>9d3e9fa5-a5ac-496e-89f4-70e13c0bedd5</prefab>
       <position>
@@ -46,8 +46,203 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>3c5f8c2b-d70c-431b-9c76-01f23ff523c1</xmlID>
-      <cellData />
+      <xmlID>a312f652-1b0a-480a-95e3-361bef49e1d8</xmlID>
+      <cellData>
+        <component>
+          <piece>Foundation</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>955.385986328125</x>
+            <y>-350.835144042969</y>
+            <z>1468.06579589844</z>
+          </position>
+          <rotation>
+            <x>0</x>
+            <y>213.639846801758</y>
+            <z>0</z>
+            <quaternion>
+              <x>0</x>
+              <y>0.957218945026398</y>
+              <z>0</z>
+              <w>-0.289364755153656</w>
+            </quaternion>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+          <xmlID>31d423d8-ec11-4dd2-b7be-52507e827666</xmlID>
+          <tech>BaseFoundation</tech>
+          <supportData>
+            <maxHeight>20</maxHeight>
+            <extra>0.100000001490116</extra>
+            <minHeight>0</minHeight>
+            <pillar>
+              <position>
+                <x>955.385986328125</x>
+                <y>-349.601440429688</y>
+                <z>1468.06579589844</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>4.85417795181274</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>959.960205078125</x>
+                <y>-349.601440429688</y>
+                <z>1470.42724609375</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.19763612747192</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>954.974426269531</x>
+                <y>-349.601440429688</y>
+                <z>1462.93444824219</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>5.34371185302734</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>960.517333984375</x>
+                <y>-349.601440429688</y>
+                <z>1467.654296875</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.29450559616089</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>955.797485351563</x>
+                <y>-349.601440429688</y>
+                <z>1473.19714355469</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>4.71026420593262</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>953.024475097656</x>
+                <y>-349.601440429688</y>
+                <z>1472.64001464844</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>3.11304807662964</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>950.254638671875</x>
+                <y>-349.601440429688</y>
+                <z>1468.47729492188</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>2.3198606967926</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>950.811767578125</x>
+                <y>-349.601440429688</y>
+                <z>1465.70434570313</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>3.22528696060181</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>957.747436523438</x>
+                <y>-349.601440429688</y>
+                <z>1463.49157714844</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.16183185577393</z>
+              </scale>
+            </pillar>
+          </supportData>
+        </component>
+      </cellData>
     </part>
     <part>
       <prefab>9d3e9fa5-a5ac-496e-89f4-70e13c0bedd5</prefab>
@@ -72,8 +267,203 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>57e5a134-b895-40ea-aa54-daf25f41fade</xmlID>
-      <cellData />
+      <xmlID>7379f576-68c9-4b4e-925e-93b11a2135b3</xmlID>
+      <cellData>
+        <component>
+          <piece>Foundation</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>963.711303710938</x>
+            <y>-350.835144042969</y>
+            <z>1462.52612304688</z>
+          </position>
+          <rotation>
+            <x>0</x>
+            <y>213.639846801758</y>
+            <z>0</z>
+            <quaternion>
+              <x>0</x>
+              <y>0.957218945026398</y>
+              <z>0</z>
+              <w>-0.289364755153656</w>
+            </quaternion>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+          <xmlID>c6901c69-3f7e-4243-a9b9-55ab0a909d37</xmlID>
+          <tech>BaseFoundation</tech>
+          <supportData>
+            <maxHeight>20</maxHeight>
+            <extra>0.100000001490116</extra>
+            <minHeight>0</minHeight>
+            <pillar>
+              <position>
+                <x>963.711303710938</x>
+                <y>-349.601440429688</y>
+                <z>1462.52612304688</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.44682598114014</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>968.285522460938</x>
+                <y>-349.601440429688</y>
+                <z>1464.88757324219</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.47257041931152</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>963.2998046875</x>
+                <y>-349.601440429688</y>
+                <z>1457.39477539063</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.14885759353638</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>968.842651367188</x>
+                <y>-349.601440429688</y>
+                <z>1462.11450195313</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.24824619293213</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>964.122863769531</x>
+                <y>-349.601440429688</y>
+                <z>1467.65747070313</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.41431665420532</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>961.349853515625</x>
+                <y>-349.601440429688</y>
+                <z>1467.10034179688</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.38646841049194</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>958.580017089844</x>
+                <y>-349.601440429688</y>
+                <z>1462.93762207031</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.25421524047852</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>959.137145996094</x>
+                <y>-349.601440429688</y>
+                <z>1460.16455078125</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.29186964035034</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>966.072814941406</x>
+                <y>-349.601440429688</y>
+                <z>1457.95190429688</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>5.66330432891846</z>
+              </scale>
+            </pillar>
+          </supportData>
+        </component>
+      </cellData>
     </part>
     <part>
       <prefab>9d3e9fa5-a5ac-496e-89f4-70e13c0bedd5</prefab>
@@ -98,8 +488,203 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>c49753be-6bb1-4990-a1f5-f717368dc9bd</xmlID>
-      <cellData />
+      <xmlID>d69ba917-3893-41e8-b093-4d5e88a08e86</xmlID>
+      <cellData>
+        <component>
+          <piece>Foundation</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>949.846252441406</x>
+            <y>-350.835144042969</y>
+            <z>1459.74047851563</z>
+          </position>
+          <rotation>
+            <x>0</x>
+            <y>213.639846801758</y>
+            <z>0</z>
+            <quaternion>
+              <x>0</x>
+              <y>0.957218945026398</y>
+              <z>0</z>
+              <w>-0.289364755153656</w>
+            </quaternion>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+          <xmlID>441aad91-4183-42a1-8d81-8b7f5bd5f3ea</xmlID>
+          <tech>BaseFoundation</tech>
+          <supportData>
+            <maxHeight>20</maxHeight>
+            <extra>0.100000001490116</extra>
+            <minHeight>0</minHeight>
+            <pillar>
+              <position>
+                <x>949.846252441406</x>
+                <y>-349.601440429688</y>
+                <z>1459.74047851563</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>5.09149217605591</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>954.420471191406</x>
+                <y>-349.601440429688</y>
+                <z>1462.10192871094</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>5.31908369064331</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>949.434753417969</x>
+                <y>-349.601440429688</y>
+                <z>1454.60913085938</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.2622389793396</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>954.977600097656</x>
+                <y>-349.601440429688</y>
+                <z>1459.32885742188</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.08931255340576</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>950.2578125</x>
+                <y>-349.601440429688</y>
+                <z>1464.87182617188</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>3.22154450416565</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>947.484741210938</x>
+                <y>-349.601440429688</y>
+                <z>1464.31469726563</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>1.99471724033356</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>944.714904785156</x>
+                <y>-349.601440429688</y>
+                <z>1460.15197753906</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>2.22392749786377</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>945.272033691406</x>
+                <y>-349.601440429688</y>
+                <z>1457.37890625</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>5.03017139434814</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>952.207763671875</x>
+                <y>-349.601440429688</y>
+                <z>1455.16625976563</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.41504573822021</z>
+              </scale>
+            </pillar>
+          </supportData>
+        </component>
+      </cellData>
     </part>
     <part>
       <prefab>9d3e9fa5-a5ac-496e-89f4-70e13c0bedd5</prefab>
@@ -124,8 +709,203 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>e06d2391-0b7f-4a63-a43b-f5a681faf52b</xmlID>
-      <cellData />
+      <xmlID>33b1dfc5-d804-4a01-8ad8-63c44a12ed28</xmlID>
+      <cellData>
+        <component>
+          <piece>Foundation</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>958.171630859375</x>
+            <y>-350.835144042969</y>
+            <z>1454.20068359375</z>
+          </position>
+          <rotation>
+            <x>0</x>
+            <y>213.639846801758</y>
+            <z>0</z>
+            <quaternion>
+              <x>0</x>
+              <y>0.957218945026398</y>
+              <z>0</z>
+              <w>-0.289364755153656</w>
+            </quaternion>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+          <xmlID>906cabab-f448-4fe7-aec5-30c7646b2e2f</xmlID>
+          <tech>BaseFoundation</tech>
+          <supportData>
+            <maxHeight>20</maxHeight>
+            <extra>0.100000001490116</extra>
+            <minHeight>0</minHeight>
+            <pillar>
+              <position>
+                <x>958.171630859375</x>
+                <y>-349.601440429688</y>
+                <z>1454.20068359375</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.34405946731567</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>962.745849609375</x>
+                <y>-349.601440429688</y>
+                <z>1456.56225585938</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.12106370925903</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>957.760070800781</x>
+                <y>-349.601440429688</y>
+                <z>1449.0693359375</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.75484657287598</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>963.302978515625</x>
+                <y>-349.601440429688</y>
+                <z>1453.78918457031</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>5.34839296340942</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>958.583129882813</x>
+                <y>-349.601440429688</y>
+                <z>1459.33203125</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.26252031326294</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>955.810119628906</x>
+                <y>-349.601440429688</y>
+                <z>1458.77490234375</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.27709531784058</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>953.040283203125</x>
+                <y>-349.601440429688</y>
+                <z>1454.6123046875</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.52665185928345</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>953.597412109375</x>
+                <y>-349.601440429688</y>
+                <z>1451.83923339844</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>6.68888187408447</z>
+              </scale>
+            </pillar>
+            <pillar>
+              <position>
+                <x>960.533081054688</x>
+                <y>-349.601440429688</y>
+                <z>1449.62646484375</z>
+              </position>
+              <rotation>
+                <x>-0.204611793160439</x>
+                <y>0.67685604095459</y>
+                <z>-0.67685604095459</z>
+                <w>-0.204611793160439</w>
+              </rotation>
+              <scale>
+                <x>1</x>
+                <y>1</y>
+                <z>5.94422388076782</z>
+              </scale>
+            </pillar>
+          </supportData>
+        </component>
+      </cellData>
     </part>
     <part>
       <prefab>9d3e9fa5-a5ac-496e-89f4-70e13c0bedd5</prefab>
@@ -150,7 +930,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>a59f1f92-819d-4800-b18e-2bfd5d8a1c91</xmlID>
+      <xmlID>32286735-6513-4902-aa4d-677fda9eef62</xmlID>
       <cellData>
         <component>
           <piece>Room</piece>
@@ -176,7 +956,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>98fd0f14-2909-465e-9ae1-7b868a95753d</xmlID>
+          <xmlID>9b50edbb-e2a9-4224-bf11-9f89d50f157a</xmlID>
         </component>
         <component>
           <piece>RoomInteriorTop</piece>
@@ -202,7 +982,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>a7449922-0702-402f-b6a1-22a8c4ea8fa6</xmlID>
+          <xmlID>78b5193c-8a69-454f-842a-45ec2fc085ab</xmlID>
         </component>
         <component>
           <piece>RoomInteriorBottom</piece>
@@ -228,7 +1008,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7d5e85e0-7588-4d1a-beb6-36da79e3420a</xmlID>
+          <xmlID>1f549217-7bef-4446-8f87-0d292d48626d</xmlID>
         </component>
         <component>
           <piece>RoomExteriorFoundationBottom</piece>
@@ -254,7 +1034,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7ef753e4-f70d-4f43-b7ab-1f56c89f3cd2</xmlID>
+          <xmlID>04acde3c-82ba-4568-aa95-b9ba2353277f</xmlID>
         </component>
         <component>
           <piece>RoomCorridorConnector</piece>
@@ -280,7 +1060,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1a9d7740-307d-43cd-b576-073617b4b7a0</xmlID>
+          <xmlID>59863592-490e-43e1-9f42-25f33e473959</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -306,7 +1086,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>577e3db6-734c-4d24-b9f8-43f66049d9fa</xmlID>
+          <xmlID>e4bd8f29-387a-48b3-83b8-903322f6c70c</xmlID>
         </component>
         <component>
           <piece>RoomCoverSide</piece>
@@ -332,7 +1112,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>10d0fd84-3c58-41ee-bebb-22904d166891</xmlID>
+          <xmlID>62ec5f1f-3ee0-4dfd-b347-5d3cfd7bf6e5</xmlID>
         </component>
         <component>
           <piece>RoomPlanterSide</piece>
@@ -358,7 +1138,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>5ce48166-8ed4-4689-9851-4490cf7327a5</xmlID>
+          <xmlID>e177e475-a532-4291-8085-3da334b7de0a</xmlID>
         </component>
         <component>
           <piece>RoomFiltrationMachine</piece>
@@ -384,7 +1164,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>189ef3de-017d-4537-b9ce-7985eb0e2e2b</xmlID>
+          <xmlID>4de5ec2b-69dd-4987-8040-3d77c9ae851f</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -410,7 +1190,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>4fb81baf-8a07-4cba-a87f-d979237a6502</xmlID>
+          <xmlID>e50c7ada-96c8-44b0-80e2-a1f7c2ff9488</xmlID>
         </component>
         <component>
           <piece>RoomCorridorConnector</piece>
@@ -436,7 +1216,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>18557e3c-c6d8-4597-bc51-405db15ef8e4</xmlID>
+          <xmlID>71805a24-6a9d-4d4c-83a8-b67414bd25c0</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -462,7 +1242,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>80719e9e-ef4e-473a-8db2-6056ee250e86</xmlID>
+          <xmlID>45e21125-f605-48e3-8788-318bd4f14856</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -488,7 +1268,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>f0751319-fd1a-4c3b-b2cc-3d512f1861d1</xmlID>
+          <xmlID>11fe70ce-f210-4f42-bbec-f067473b97e2</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -514,7 +1294,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>00747e2b-6f41-4194-820b-b74cf5d46d16</xmlID>
+          <xmlID>a744fb67-e19b-409b-887d-8878f85355f0</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -540,7 +1320,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>bdd393e4-604f-4204-bc05-daeeeeb0719d</xmlID>
+          <xmlID>e12dc254-a390-4e13-badc-37f806712639</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -566,7 +1346,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>6b8997ca-dd5f-4f2b-ad5d-52f6abe79b29</xmlID>
+          <xmlID>63872a6a-b112-493f-aaab-0c0264a59ce2</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -592,7 +1372,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>8594d2cc-5e7d-4a08-9593-ab7de71c1afa</xmlID>
+          <xmlID>b94b9e5e-0ee5-44b3-bd1f-3887d705b43b</xmlID>
         </component>
         <component>
           <piece>RoomLadderTop</piece>
@@ -618,7 +1398,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>bc2dd591-3f39-4381-a8bb-c556d23ea69d</xmlID>
+          <xmlID>f31cfef6-c021-4288-a36f-ff2162a8a04e</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -644,7 +1424,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>8bea5f76-9475-4985-8083-8c69b4bedec7</xmlID>
+          <xmlID>67894693-4adc-4e44-af99-f2fc29098797</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -670,7 +1450,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>56432077-1db8-4db3-9ba3-948f532d4ab6</xmlID>
+          <xmlID>bc0948dc-1e38-4ae5-8cda-cc3c17b1b9e2</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -696,7 +1476,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>15f3276c-75b5-4f4b-b1af-9addd5c0a990</xmlID>
+          <xmlID>51b9bdd6-6327-42c0-89a3-fadc0cbcb89e</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -722,7 +1502,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>4a2dc354-33d9-46be-9bae-70b822401e41</xmlID>
+          <xmlID>33f96475-7080-4ec2-abc6-0d9c89b262db</xmlID>
         </component>
         <component>
           <piece>RoomBioReactor</piece>
@@ -748,7 +1528,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>78e421ca-69b4-4b20-b805-2df5c8b38ca1</xmlID>
+          <xmlID>38e967b6-b7e0-481d-8d97-a5f467fa90e5</xmlID>
         </component>
       </cellData>
     </part>
@@ -775,7 +1555,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>301ece3c-05a0-4525-92a6-7f1970734330</xmlID>
+      <xmlID>e916c681-2193-4787-a052-10339d7fea4e</xmlID>
       <cellData>
         <component>
           <piece>Room</piece>
@@ -801,7 +1581,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1347bd86-bc93-40ff-803d-04e2431e0cc0</xmlID>
+          <xmlID>740c0315-df39-4527-ad12-727ebeb2d8f0</xmlID>
         </component>
         <component>
           <piece>RoomExteriorTop</piece>
@@ -827,7 +1607,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>092b043a-e903-4cba-869c-c2fb86ef82e6</xmlID>
+          <xmlID>aed8e22b-f007-4dd1-a8ee-31e2c4a40334</xmlID>
         </component>
         <component>
           <piece>RoomInteriorTop</piece>
@@ -853,7 +1633,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>6b7661b2-5a44-4020-abb2-0f4cd1f33abc</xmlID>
+          <xmlID>b592e4b4-9f95-4cd4-a63a-3b813a98b891</xmlID>
         </component>
         <component>
           <piece>RoomInteriorBottom</piece>
@@ -879,7 +1659,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>01ac0232-f966-498d-94c9-11d79233fe2c</xmlID>
+          <xmlID>e47ede30-d4b2-402c-aa75-0229e3959258</xmlID>
         </component>
         <component>
           <piece>RoomPlanterSide</piece>
@@ -905,7 +1685,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>83707d2a-870d-4254-aa89-24074eda3764</xmlID>
+          <xmlID>342040e4-9be3-4e6c-90c5-bedcd8809af2</xmlID>
         </component>
         <component>
           <piece>RoomPlanterSide</piece>
@@ -931,7 +1711,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>336307f1-3b23-458c-96a8-d9785302448b</xmlID>
+          <xmlID>b4ac80f7-91dc-4ae6-8c1b-355aa4d4b24b</xmlID>
         </component>
         <component>
           <piece>RoomPlanterSide</piece>
@@ -957,7 +1737,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>d90bed89-2cb3-4629-8a36-c47d58868c78</xmlID>
+          <xmlID>0aaa1b98-af60-4461-8dba-5c0c5e0288bd</xmlID>
         </component>
         <component>
           <piece>RoomPlanterSide</piece>
@@ -983,7 +1763,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>8bc9c808-6e60-4b01-8f4c-4fd53d7568fe</xmlID>
+          <xmlID>48019b2c-6089-4e2b-b4dc-24a5b009def8</xmlID>
         </component>
         <component>
           <piece>RoomPlanterSide</piece>
@@ -1009,7 +1789,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3a1b93f2-e6f8-415d-802f-afe9d0ad48e5</xmlID>
+          <xmlID>0087e3cd-9b2f-4dae-ae8d-4aa81d5d1915</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -1035,7 +1815,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>c1378827-4283-47ae-a63f-516a45bf5d29</xmlID>
+          <xmlID>71ff72d3-23fd-4487-a370-554dfe101949</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -1061,7 +1841,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>d88e7856-f5cb-4113-bdfb-4c3dc27c9821</xmlID>
+          <xmlID>c3f1574c-9411-4e42-8830-23b5f2802184</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -1087,7 +1867,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>6774da16-e5ca-48e3-a5dd-24efdbbcd7db</xmlID>
+          <xmlID>c23b75ff-b492-4cf7-89ac-9bea545e6021</xmlID>
         </component>
         <component>
           <piece>RoomLadderBottom</piece>
@@ -1113,7 +1893,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>bc260824-1566-43df-b0cf-6e321431d5ad</xmlID>
+          <xmlID>9b8e5ad1-ab25-49ba-93d8-68c91d6b836d</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -1139,7 +1919,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>ac655c76-5a94-4590-8cd7-27f062e6a13e</xmlID>
+          <xmlID>314c96be-75e7-40e4-929e-bf6d58a86dc5</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -1165,7 +1945,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1f2faa02-e8e7-4c84-b12e-c0e7b3d57ce4</xmlID>
+          <xmlID>a282a1f4-d35d-4b43-a990-4624eaa03ccf</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -1191,7 +1971,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3529f5c0-bb74-4141-9b60-720956f59c03</xmlID>
+          <xmlID>dbcd32b5-cc61-48b3-809f-3bfc970ee5d7</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -1217,7 +1997,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>74eaed37-e7fb-4fcc-b23b-96e1a32f26ab</xmlID>
+          <xmlID>12bf3546-9990-4d62-877e-42855173642e</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -1243,7 +2023,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7072b926-c85a-4f1c-9972-5b67a5a78bd6</xmlID>
+          <xmlID>02b0d238-8e01-4ca2-9e0d-1092f168eab1</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -1269,7 +2049,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>073f2dcd-8488-4c87-a825-e65124edc968</xmlID>
+          <xmlID>1b4cf5fc-4fb0-43ce-9a35-2b8d0fbf21ad</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -1295,7 +2075,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>befb2e36-b8b1-4d08-9834-3eda23a1e83d</xmlID>
+          <xmlID>3b60ee0c-6f44-4340-a88f-6e27a7912157</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -1321,7 +2101,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>b10d701c-7a56-4a41-b59f-7a0cb003efe6</xmlID>
+          <xmlID>7bf7451f-8389-4bd7-91b1-f62439c95eff</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -1347,7 +2127,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>a4e28587-bdf4-466b-a598-1b88624f82e4</xmlID>
+          <xmlID>91d9cc25-41b5-416d-aed1-e76d4b14471b</xmlID>
         </component>
       </cellData>
     </part>
@@ -1374,7 +2154,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>f6cd8220-4689-475f-a22b-aad296671523</xmlID>
+      <xmlID>a0a81218-d946-43e4-9deb-f0f37da48b3f</xmlID>
       <cellData>
         <component>
           <piece>CorridorLShapeGlass</piece>
@@ -1400,7 +2180,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3543c88d-969d-48d6-89b8-1eaf2293ffdb</xmlID>
+          <xmlID>06752ea3-6d10-4a5b-8202-0d92543a152b</xmlID>
         </component>
         <component>
           <piece>CorridorLShapeSupport</piece>
@@ -1426,7 +2206,33 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>d6ffb239-4a6d-46a9-8e6a-56bd7feb7a09</xmlID>
+          <xmlID>88c6ad84-35f7-4b29-8de2-48965d35ee26</xmlID>
+        </component>
+        <component>
+          <piece>CorridorBulkhead</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>954.689575195313</x>
+            <y>-347.335144042969</y>
+            <z>1471.53210449219</z>
+          </position>
+          <rotation>
+            <x>0</x>
+            <y>123.639854431152</y>
+            <z>0</z>
+            <quaternion>
+              <x>0</x>
+              <y>0.881467819213867</y>
+              <z>0</z>
+              <w>0.472244262695313</w>
+            </quaternion>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+          <xmlID>82df2d7e-715c-4d53-a973-b9385993566e</xmlID>
         </component>
       </cellData>
     </part>
@@ -1453,7 +2259,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>8dbfb7e2-7a8e-4382-ad40-13e708509b17</xmlID>
+      <xmlID>5df6757c-9039-4090-8baf-d6384ca91414</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShape</piece>
@@ -1479,7 +2285,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>d33c71d5-b003-4165-93c4-5efc01f3fd09</xmlID>
+          <xmlID>307ce020-00d6-4561-92e1-a4f7ed952140</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeSupport</piece>
@@ -1505,7 +2311,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>c2988848-9e31-4ef6-aa7e-16f935207556</xmlID>
+          <xmlID>bf8e852b-6988-48b7-b781-c9a8fd24f68d</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeReinforcementSide</piece>
@@ -1531,10 +2337,10 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>f4960995-6082-461e-88a7-a84e6fa1f1ee</xmlID>
+          <xmlID>5d049e74-e3e9-415f-bc47-de040b707f2c</xmlID>
         </component>
         <component>
-          <piece>CorridorIShapeCoverSide</piece>
+          <piece>CorridorIShapeHatchSide</piece>
           <prefab>basePart</prefab>
           <position>
             <x>951.919677734375</x>
@@ -1557,7 +2363,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1844048e-5e58-45a8-ba1e-bf3675e3f3ae</xmlID>
+          <xmlID>8ca1b547-22a8-4303-b2f0-e505dea85ac9</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeTopIntClosed</piece>
@@ -1583,7 +2389,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>a3266fc0-8bcf-4e89-b4cb-01e484125c53</xmlID>
+          <xmlID>6444a7fd-fd82-4695-8cb6-7ccc680db7fb</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeTopExtClosed</piece>
@@ -1609,7 +2415,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>8fc82e20-acb8-419f-ba9d-c092ddf29494</xmlID>
+          <xmlID>fbf91875-5ac4-4280-b08e-9218efc6f0b2</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomIntClosed</piece>
@@ -1635,7 +2441,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>a3850929-ef87-4df4-a1ee-3d6dcfbbf042</xmlID>
+          <xmlID>cf23135c-f28e-4db1-8060-60f74db8dfc0</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -1661,7 +2467,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>c257cfbe-6600-48da-aef6-b8ecafc11d07</xmlID>
+          <xmlID>b004c672-2661-4d96-b865-e8cbed4f3fb2</xmlID>
         </component>
       </cellData>
     </part>
@@ -1688,7 +2494,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>9bb2bce7-68fb-442e-a838-1b6392c2e9a2</xmlID>
+      <xmlID>8b4d480f-4ec1-46d4-95c4-be8e3daceb5c</xmlID>
       <cellData>
         <component>
           <piece>CorridorLShapeGlass</piece>
@@ -1714,7 +2520,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>ce5750c7-24f8-46f3-aa1c-7cd8466b6070</xmlID>
+          <xmlID>0dfe1e84-7f87-4553-b697-2ef83795ab00</xmlID>
         </component>
         <component>
           <piece>CorridorLShapeSupport</piece>
@@ -1740,7 +2546,33 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>adc17b72-59db-4d81-8b00-aa51c551ad68</xmlID>
+          <xmlID>2e396949-84a5-4743-8560-e0ed63e3e9d8</xmlID>
+        </component>
+        <component>
+          <piece>CorridorBulkhead</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>957.475219726563</x>
+            <y>-347.335144042969</y>
+            <z>1457.6669921875</z>
+          </position>
+          <rotation>
+            <x>0</x>
+            <y>33.6398620605469</y>
+            <z>0</z>
+            <quaternion>
+              <x>0</x>
+              <y>-0.289364784955978</y>
+              <z>0</z>
+              <w>-0.957218945026398</w>
+            </quaternion>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+          <xmlID>f155be22-c021-4edb-9a15-f1bbcbc2cb1a</xmlID>
         </component>
       </cellData>
     </part>
@@ -1767,7 +2599,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>23b636b6-f7bd-4843-a5ca-fff6766accb5</xmlID>
+      <xmlID>0c403921-247a-43f9-b33d-ff505ca5d29c</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShape</piece>
@@ -1793,7 +2625,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>8666091d-7f86-43a7-a0a9-4b082aafe5a0</xmlID>
+          <xmlID>68781130-81b5-4b1c-8a97-470db68bf08b</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeSupport</piece>
@@ -1819,7 +2651,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>b8736266-261d-40fc-89e3-0e893d29bb26</xmlID>
+          <xmlID>c840f697-f055-4b64-9d97-900266988e43</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeWindowSide</piece>
@@ -1845,10 +2677,10 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>e4886023-b0b3-4ae5-a1e6-45e27c80eccd</xmlID>
+          <xmlID>e03ac57c-a51e-48a0-891e-7b0cbe8b4908</xmlID>
         </component>
         <component>
-          <piece>CorridorIShapeCoverSide</piece>
+          <piece>CorridorIShapeReinforcementSide</piece>
           <prefab>basePart</prefab>
           <position>
             <x>961.637878417969</x>
@@ -1871,7 +2703,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>aac00230-3a2b-45de-89b6-cd2f670bf985</xmlID>
+          <xmlID>e5b282be-81c8-428d-924b-31fe6537bf83</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeTopIntClosed</piece>
@@ -1897,7 +2729,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>5d442506-fa24-4a7d-9b24-854a3bae9579</xmlID>
+          <xmlID>9d16df50-e534-45d3-ac8f-b3fc765df349</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeTopExtClosed</piece>
@@ -1923,7 +2755,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>231f914b-252a-41a9-87eb-9e45ae3f8e41</xmlID>
+          <xmlID>524ad50e-00b8-4425-95af-5cc39c040d22</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomIntClosed</piece>
@@ -1949,7 +2781,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>fe330353-4816-4dae-a123-2f0c17504fb5</xmlID>
+          <xmlID>a0593cfd-0fcb-4bec-87aa-51dc2093881b</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -1975,7 +2807,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>2ac7895d-22d2-4e25-9767-bf1e1a370a0d</xmlID>
+          <xmlID>ea75c859-0769-4850-b2d5-456034c5446b</xmlID>
         </component>
       </cellData>
     </part>
@@ -2002,7 +2834,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>93e284e2-bd6f-4096-803e-0df70b0d361e</xmlID>
+      <xmlID>02f5be23-e948-44fb-bc2d-fba7406b07e3</xmlID>
       <cellData>
         <component>
           <piece>CorridorLShape</piece>
@@ -2028,7 +2860,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>19985f6b-1b6a-494f-b17e-7dec3ee96eb3</xmlID>
+          <xmlID>7662ae04-3e6e-46bb-930f-6810b7638ad5</xmlID>
         </component>
         <component>
           <piece>CorridorLShapeAdjustableSupport</piece>
@@ -2054,7 +2886,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>dfffe39a-8909-4b3e-b621-ceff1add0053</xmlID>
+          <xmlID>5887aa85-3da2-437a-9492-44e4a8ef75d0</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -2140,7 +2972,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>b8145dd7-4c94-4d22-b43f-6a8c4001dbe0</xmlID>
+      <xmlID>927c47a4-eb0e-4bff-bf46-dfec8f8bed04</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShapeGlass</piece>
@@ -2166,7 +2998,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>117886b4-9b2d-4570-8637-2ac40a4dcdbf</xmlID>
+          <xmlID>f84eabd8-9e2b-4b2d-bb36-ed9c05489086</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeAdjustableSupport</piece>
@@ -2192,7 +3024,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>817f8b07-e1e3-4a30-ac02-afbf3ee021d0</xmlID>
+          <xmlID>1691ce90-d824-4c99-90b1-a4bdbdfc8d1b</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -2295,7 +3127,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>95a51a65-9744-471b-88f2-b49d91989fff</xmlID>
+          <xmlID>86f266e4-4507-4948-9547-40a377a33e76</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -2321,7 +3153,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1a964871-6732-4f05-87c3-573dc01cb9fa</xmlID>
+          <xmlID>bcaa6c13-baf4-47c2-af57-2ef6b831e857</xmlID>
         </component>
       </cellData>
     </part>
@@ -2348,7 +3180,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>5d71a289-5c31-404d-989b-6078c87f8586</xmlID>
+      <xmlID>216a6d60-693e-46bc-8805-32cf721a77da</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShapeGlass</piece>
@@ -2374,7 +3206,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>afcaf311-e273-4602-a2dd-3bf8cef8d5a9</xmlID>
+          <xmlID>a697cdf3-073d-46b4-a129-93de8c8ec9c7</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeAdjustableSupport</piece>
@@ -2400,7 +3232,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>b19edc8f-a9de-464b-989f-a48b396789cb</xmlID>
+          <xmlID>7622aa22-f3cd-42f7-8a71-7f33e709786c</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -2503,7 +3335,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>78f7f0d6-771b-4c09-9d6e-439b42c7d21f</xmlID>
+          <xmlID>af309b76-bea4-43e0-b4ff-bff85b1c4b2e</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -2529,7 +3361,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>6fd95def-2592-468f-b11d-88fded1623f4</xmlID>
+          <xmlID>61151ee1-046d-42f8-b904-1667d2042a00</xmlID>
         </component>
       </cellData>
     </part>
@@ -2556,7 +3388,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>acc17524-6409-43d7-b8aa-de86fec22c9a</xmlID>
+      <xmlID>ffc56bfa-205b-4abe-840e-cc7b444da4da</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShapeGlass</piece>
@@ -2582,7 +3414,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>06e1169d-6963-4372-9319-17b6e05fa9c3</xmlID>
+          <xmlID>daddd7bf-464b-4b57-9ec5-064d15e95247</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeAdjustableSupport</piece>
@@ -2608,7 +3440,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3b588e4b-73a1-4c01-80fc-0b810fbe3ae2</xmlID>
+          <xmlID>b18a77bd-9380-44d7-b2f2-a78fd3aa5a91</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -2711,7 +3543,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>fb0c862c-e155-4518-bb52-b87c21786a10</xmlID>
+          <xmlID>0c2bdf41-f18a-4dd1-8375-63d597dbb5a3</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -2737,7 +3569,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>4fcba65d-4338-4b54-a670-28c4e26fab28</xmlID>
+          <xmlID>00e00ab8-798f-49e6-9dde-2c5a27a05e23</xmlID>
         </component>
       </cellData>
     </part>
@@ -2764,7 +3596,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>b5b5a144-2e1e-4033-ab02-970e2cfc7ba9</xmlID>
+      <xmlID>09913bbb-04b3-42b7-a816-bc6d132a7d26</xmlID>
       <cellData>
         <component>
           <piece>CorridorTShape</piece>
@@ -2790,7 +3622,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>ee0253b3-f657-48c5-aa9d-bc61c237ffac</xmlID>
+          <xmlID>39dabd8c-9f5b-4051-94cd-4307c2c28794</xmlID>
         </component>
         <component>
           <piece>CorridorTShapeAdjustableSupport</piece>
@@ -2816,7 +3648,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7a8dac4f-ca15-487a-be3d-65fb5f139813</xmlID>
+          <xmlID>2b8c6cb2-f265-4d1a-9145-1213e39f2cfb</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -2919,7 +3751,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>a0ff75fa-b158-4f94-96cc-a839b78ff925</xmlID>
+          <xmlID>271f99ba-5e4a-4731-a633-a4eecada21d0</xmlID>
         </component>
         <component>
           <piece>CorridorHatch</piece>
@@ -2945,7 +3777,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>ad5cffc7-42ee-4317-addc-9b4ea15e536e</xmlID>
+          <xmlID>c2e4816c-8550-423b-826c-7f8d98eb679d</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeTopIntClosed</piece>
@@ -2971,7 +3803,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3e6e880b-90f0-4d46-afdf-4422f967fa7d</xmlID>
+          <xmlID>d5f2eb6b-2875-43a5-a1da-a34158d364a7</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeTopExtClosed</piece>
@@ -2997,7 +3829,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1442ef16-dcf1-417e-95c0-1fc9ad07676a</xmlID>
+          <xmlID>3c22dff1-035c-4dae-ab77-ac76a1192343</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeBottomIntClosed</piece>
@@ -3023,7 +3855,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7c2e5bc0-ed25-4106-91f7-7da854e41344</xmlID>
+          <xmlID>a5c776d7-214b-4966-a4bd-6c61ca27c6e7</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeBottomExtClosed</piece>
@@ -3049,7 +3881,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>9ffbea6a-9304-48f5-b6cf-a66f27f07da8</xmlID>
+          <xmlID>6cd55268-5083-4007-baff-48efedb6b3d2</xmlID>
         </component>
       </cellData>
     </part>
@@ -3076,7 +3908,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>df0676b4-8587-437d-8b94-b26a8dcb9a75</xmlID>
+      <xmlID>de439425-66e9-4fa3-ab26-70f3c5f43e19</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShapeGlass</piece>
@@ -3102,7 +3934,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>a6afa8b9-cb59-45f6-8115-d7f59220f9ee</xmlID>
+          <xmlID>7f9d2552-15c2-4860-94fb-cc29074a7645</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeSupport</piece>
@@ -3128,7 +3960,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>f1224c14-0e94-46af-9500-cf4ac7ea786d</xmlID>
+          <xmlID>5750bb35-d7e7-42b7-8b79-868523045b03</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomIntClosed</piece>
@@ -3154,7 +3986,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7cddde32-b91e-421d-9fa2-55eb8d999c27</xmlID>
+          <xmlID>86b87a01-4488-4563-8b7e-a098177717d0</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -3180,7 +4012,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>b7168406-c451-40a0-bce0-1bb79f26defc</xmlID>
+          <xmlID>d71c26c6-7d86-48c5-a549-0d5efb264e6c</xmlID>
         </component>
       </cellData>
     </part>
@@ -3207,7 +4039,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>2e8b7df8-2758-401f-bd06-f45e80c121cd</xmlID>
+      <xmlID>431ea770-4fb9-4e04-a9f4-acf8b5870a6a</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShapeGlass</piece>
@@ -3233,7 +4065,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7c29f41b-b119-41a8-90ac-c7ce39af9633</xmlID>
+          <xmlID>48617c6e-0864-41d2-a039-3f59bdae261e</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeSupport</piece>
@@ -3259,7 +4091,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>c670383b-82c2-477c-bed9-76532ba89f34</xmlID>
+          <xmlID>ed9df744-40e9-4acb-8c1f-1c400726c6cf</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomIntClosed</piece>
@@ -3285,7 +4117,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>d0315a10-1c74-4d7c-a706-af9ff2f83ea4</xmlID>
+          <xmlID>40d0f0f4-e0c7-4b43-a35b-cbbfca0a9e59</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -3311,7 +4143,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>b2189af4-07c3-4259-84de-34d2f069ad76</xmlID>
+          <xmlID>b7664101-bd5c-4217-88e6-95c2c8adf0db</xmlID>
         </component>
       </cellData>
     </part>
@@ -3338,7 +4170,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>d3397fb2-0b9d-4865-a80b-4726e9e3f6cd</xmlID>
+      <xmlID>8c0f2571-059e-4793-9062-5c990726049a</xmlID>
       <cellData>
         <component>
           <piece>CorridorIShapeGlass</piece>
@@ -3364,7 +4196,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>c42116ee-c734-4205-9d4f-e638d8f15830</xmlID>
+          <xmlID>32027e2f-7b8a-4b2f-ba31-583772ae916a</xmlID>
         </component>
         <component>
           <piece>CorridorIShapeAdjustableSupport</piece>
@@ -3390,7 +4222,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>d3d903cd-d163-4a29-a512-7ad4aef8ef32</xmlID>
+          <xmlID>5c854a73-8e0b-4c8e-b2fc-d7c7d3b2e461</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -3493,7 +4325,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>5eb6d7cb-be88-4e32-96c6-28c81571db81</xmlID>
+          <xmlID>05b3e8f7-c979-4a69-bdb0-60078fe17782</xmlID>
         </component>
         <component>
           <piece>CorridorCoverIShapeBottomExtClosed</piece>
@@ -3519,7 +4351,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>7626dc50-a0b8-4224-84fa-38b16b93b2e2</xmlID>
+          <xmlID>95720e1f-30bf-4e23-9c6d-7378e47f40b3</xmlID>
         </component>
       </cellData>
     </part>
@@ -3546,7 +4378,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>0a17d833-f9b0-431f-aaf8-0ab31def72ff</xmlID>
+      <xmlID>5a8c4f13-c0ac-437e-be54-5fb06ec4ec69</xmlID>
       <cellData>
         <component>
           <piece>CorridorTShape</piece>
@@ -3572,7 +4404,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>356fb24f-57f7-49d0-bafa-03643bd69734</xmlID>
+          <xmlID>5ed36528-0cc8-4fa8-b6d6-a69496062570</xmlID>
         </component>
         <component>
           <piece>CorridorTShapeAdjustableSupport</piece>
@@ -3598,7 +4430,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3c45cd12-a1b9-45cd-a8c2-8a35172ad916</xmlID>
+          <xmlID>3352e48e-7a66-48d5-98ae-18189e25b9b9</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -3678,6 +4510,32 @@
           </supportData>
         </component>
         <component>
+          <piece>CorridorBulkhead</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>943.610107421875</x>
+            <y>-347.335144042969</y>
+            <z>1454.88134765625</z>
+          </position>
+          <rotation>
+            <x>0</x>
+            <y>213.639846801758</y>
+            <z>0</z>
+            <quaternion>
+              <x>0</x>
+              <y>0.957218945026398</y>
+              <z>0</z>
+              <w>-0.289364755153656</w>
+            </quaternion>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+          <xmlID>7d7dd897-a337-4154-90ee-9539e9e9b6d9</xmlID>
+        </component>
+        <component>
           <piece>CorridorIShapeWindowSide</piece>
           <prefab>basePart</prefab>
           <position>
@@ -3701,7 +4559,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>a2574dc7-f71a-4005-b173-29d22dfefc90</xmlID>
+          <xmlID>82ff7873-171d-4863-805a-23a67a14e3c0</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeTopIntClosed</piece>
@@ -3727,7 +4585,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>d84d703d-7748-4e4e-93a4-0c38fb037eed</xmlID>
+          <xmlID>95b2c811-4c24-4a3c-a496-583c56786d35</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeTopExtClosed</piece>
@@ -3753,7 +4611,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>eb9132a5-d483-4721-ae36-9bd4a7ae19d3</xmlID>
+          <xmlID>f52537da-a219-46c3-a2d1-3d152a2a8701</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeBottomIntClosed</piece>
@@ -3779,7 +4637,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>89520183-1761-427e-a488-27b7ed359114</xmlID>
+          <xmlID>ed3ddae5-ca2e-4615-aabe-d428ca3d45c5</xmlID>
         </component>
         <component>
           <piece>CorridorCoverTShapeBottomExtClosed</piece>
@@ -3805,7 +4663,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>980dd392-1b54-476a-bf2c-aa234acfa44d</xmlID>
+          <xmlID>bb7c5b23-9bab-4355-aa80-f770d6484875</xmlID>
         </component>
       </cellData>
     </part>
@@ -3832,7 +4690,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>ed002b99-db33-431b-adcb-dbffe1d1e4b3</xmlID>
+      <xmlID>24acdfb5-abfa-4b8d-b737-f32bb1140d32</xmlID>
       <cellData>
         <component>
           <piece>Room</piece>
@@ -3858,7 +4716,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>47a146cc-18a7-45f8-897a-08841ec6471c</xmlID>
+          <xmlID>f12f4722-85d1-401f-b350-01ff574fb594</xmlID>
         </component>
         <component>
           <piece>RoomExteriorTop</piece>
@@ -3884,10 +4742,10 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>25f30ef2-b6b7-4887-9fa6-d975635f6d16</xmlID>
+          <xmlID>9d589d7f-85dc-431b-a7fc-b8e4d4136252</xmlID>
         </component>
         <component>
-          <piece>RoomInteriorTopHole</piece>
+          <piece>RoomInteriorTop</piece>
           <prefab>basePart</prefab>
           <position>
             <x>938.070434570313</x>
@@ -3910,7 +4768,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>61791175-abb3-4fe3-bea5-fa09c3e2e199</xmlID>
+          <xmlID>7fe787c9-9fdd-4cbc-9962-0f614020cdcc</xmlID>
         </component>
         <component>
           <piece>RoomInteriorBottom</piece>
@@ -3936,7 +4794,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3062606c-ad6b-45b6-a8ee-33a0c6c623d4</xmlID>
+          <xmlID>8a2a10ef-e4ac-4245-aeed-fb2110f390f0</xmlID>
         </component>
         <component>
           <piece>RoomExteriorBottom</piece>
@@ -3962,7 +4820,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>2486776b-586f-4d99-9834-200aa49fa7f5</xmlID>
+          <xmlID>fa2db287-3694-444f-a5fc-1a10429e6928</xmlID>
         </component>
         <component>
           <piece>RoomAdjustableSupport</piece>
@@ -3988,7 +4846,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>73ee0de8-95bf-4745-9d22-ef57332bca01</xmlID>
+          <xmlID>6d328a5d-c861-49f3-b87a-78849f5e1cf9</xmlID>
           <supportData>
             <maxHeight>20</maxHeight>
             <extra>0.200000002980232</extra>
@@ -4163,7 +5021,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>c95ae197-cc64-4cb4-ba9a-42ff9ce9fc25</xmlID>
+          <xmlID>f834a579-6ec0-42af-9959-2c43114bfe6f</xmlID>
         </component>
         <component>
           <piece>RoomReinforcementSide</piece>
@@ -4189,7 +5047,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>89a8a9f7-7ebf-4e53-81f7-ddd193780c44</xmlID>
+          <xmlID>8dec1240-c91d-45aa-a3d5-9fee2ae8f0f8</xmlID>
         </component>
         <component>
           <piece>RoomCorridorConnector</piece>
@@ -4215,7 +5073,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>57542831-eca9-4d39-bea5-5939bab81138</xmlID>
+          <xmlID>7de9d16d-9b27-4698-a1fb-d8c9fc15bbab</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -4241,7 +5099,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>c2a1e458-ccbf-42da-8545-5b7b4b35dbe6</xmlID>
+          <xmlID>79aa161a-111d-4bdc-b034-08c3a9c89fc3</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -4267,7 +5125,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1b3038f0-4abb-4def-802e-1984882f9896</xmlID>
+          <xmlID>e076b139-d92b-4b01-b047-d8ddfe0ec398</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -4293,7 +5151,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>094ca156-b24b-4cb1-a487-942b6bb3cf82</xmlID>
+          <xmlID>5f69c2ea-c1f6-4e24-bae8-6f912d2ee3d1</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -4319,7 +5177,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>18f81a1b-0229-4160-aaf7-2ce81acb2fee</xmlID>
+          <xmlID>3e65af83-9ccb-4bf6-9de0-ecebe9f60da8</xmlID>
         </component>
         <component>
           <piece>RoomWindowSide</piece>
@@ -4345,7 +5203,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>4a20b4ac-43f0-4c11-9967-7499c76ba67b</xmlID>
+          <xmlID>a2a19131-550f-4969-910e-35e70ac70486</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -4371,7 +5229,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>19685c34-46b5-4e6e-9504-7f1ba366383d</xmlID>
+          <xmlID>bf521928-8929-4eff-9383-22a0488da495</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -4397,10 +5255,10 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>f8620e24-cce3-44a2-926b-af327625e8eb</xmlID>
+          <xmlID>1ca9aff6-e20b-45a2-960a-eee684523078</xmlID>
         </component>
         <component>
-          <piece>RoomWaterParkBottom</piece>
+          <piece>RoomCoverBottom</piece>
           <prefab>basePart</prefab>
           <position>
             <x>938.070434570313</x>
@@ -4423,7 +5281,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>98f80841-5140-4ed6-898c-5b4086174cc0</xmlID>
+          <xmlID>eff66d22-e7a3-4f2e-acbf-6ca355fc147c</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -4449,7 +5307,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>70b6d623-e818-4e9c-86b8-70c058eb26e8</xmlID>
+          <xmlID>1a16f8b2-4187-4197-87f2-29e0cbaf7497</xmlID>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -4475,7 +5333,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>3b5a65cf-f57e-49aa-9575-9c023b16b1bd</xmlID>
+          <xmlID>48908be4-bdfb-4d91-a201-247c99fa5f7a</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -4501,7 +5359,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>f0c95fec-c698-43d6-89c2-0b7cf5b09aed</xmlID>
+          <xmlID>8a39bb74-658b-4499-840f-9356c7bac754</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -4527,10 +5385,10 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>8deb687b-4c62-47ed-8a3a-af22fa0a87e9</xmlID>
+          <xmlID>2d9aea91-5e1c-4306-858d-fb4bb690901d</xmlID>
         </component>
         <component>
-          <piece>RoomWaterParkTop</piece>
+          <piece>RoomCoverTop</piece>
           <prefab>basePart</prefab>
           <position>
             <x>938.070434570313</x>
@@ -4553,7 +5411,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1a58dd65-2dad-4d7e-b0b5-013acc383d0a</xmlID>
+          <xmlID>ac566f81-4896-476a-844e-16979faf4968</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -4579,7 +5437,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>9900d622-d287-4d8e-b6bf-ffde3f70af6d</xmlID>
+          <xmlID>66ac9e1e-b07f-471a-8659-6863ddb9dc26</xmlID>
         </component>
         <component>
           <piece>RoomCoverTop</piece>
@@ -4605,7 +5463,7 @@
             <y>1</y>
             <z>1</z>
           </scale>
-          <xmlID>1036114c-b1d1-4d8d-8cd7-fd9a52a0c479</xmlID>
+          <xmlID>c6d21a0c-c00c-446a-b8cd-b6f2c9bbc099</xmlID>
         </component>
       </cellData>
     </part>
@@ -4632,8 +5490,30 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>b502bec2-b4c3-4554-8e84-3745fb11dad2</xmlID>
+      <xmlID>38e45259-77d5-4725-accf-104f91cab4f2</xmlID>
       <tech>FarmingTray</tech>
+      <inventory>
+        <item>
+          <type>PurpleBranchesSeed</type>
+          <amount>2</amount>
+          <growth>1.0</growth>
+        </item>
+        <item>
+          <type>AcidMushroom</type>
+          <amount>5</amount>
+          <growth>1.0</growth>
+        </item>
+        <item>
+          <type>PurpleFanSeed</type>
+          <amount>2</amount>
+          <growth>1.0</growth>
+        </item>
+        <item>
+          <type>PurpleTentacleSeed</type>
+          <amount>2</amount>
+          <growth>1.0</growth>
+        </item>
+      </inventory>
     </part>
     <part>
       <prefab>d3bf649e-1eaa-4790-a113-8f73286af611</prefab>
@@ -4658,8 +5538,20 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>a00485f4-d23a-4a76-8168-a61638eb56a5</xmlID>
+      <xmlID>f45d729c-1170-47fb-a741-a872b4cb6fc6</xmlID>
       <tech>FarmingTray</tech>
+      <inventory>
+        <item>
+          <type>CreepvinePiece</type>
+          <amount>3</amount>
+          <growth>1.0</growth>
+        </item>
+        <item>
+          <type>SpottedLeavesPlantSeed</type>
+          <amount>3</amount>
+          <growth>1.0</growth>
+        </item>
+      </inventory>
     </part>
     <part>
       <prefab>d3bf649e-1eaa-4790-a113-8f73286af611</prefab>
@@ -4684,8 +5576,20 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>ed4a2759-cd1d-48d6-a5b0-9e3a28eaecc4</xmlID>
+      <xmlID>b791f684-52e6-48ef-a850-f7cc3742893e</xmlID>
       <tech>FarmingTray</tech>
+      <inventory>
+        <item>
+          <type>ALKALI_PLANT_seed</type>
+          <amount>1</amount>
+          <growth>1.0</growth>
+        </item>
+        <item>
+          <type>PurpleStalkSeed</type>
+          <amount>4</amount>
+          <growth>1.0</growth>
+        </item>
+      </inventory>
     </part>
     <part>
       <prefab>7b4b90b8-6294-4354-9ebb-3e5aa49ae453</prefab>
@@ -4710,7 +5614,7 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>27e794eb-8cf8-4dcc-b138-b1ecfcd68e6c</xmlID>
+      <xmlID>e2e1776d-17f6-462b-a30d-f0e9ffceafc5</xmlID>
       <tech>BasePipeConnector</tech>
     </part>
     <part>
@@ -4736,32 +5640,7 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>28964e5f-d028-4ad4-98f2-1318186cf8f9</xmlID>
-    </part>
-    <part>
-      <prefab>31662630-7cba-4583-8456-2fa1c4cc31aa</prefab>
-      <position>
-        <x>938.070434570313</x>
-        <y>-347.335144042969</y>
-        <z>1446.55590820313</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>213.639846801758</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>0.957218945026398</y>
-          <z>0</z>
-          <w>-0.289364755153656</w>
-        </quaternion>
-      </rotation>
-      <scale>
-        <x>1</x>
-        <y>1</y>
-        <z>1</z>
-      </scale>
-      <xmlID>e0389053-1976-44aa-9914-8c93d25c8fbb</xmlID>
+      <xmlID>a1e95d92-2897-4237-b96d-3c2b58c0935c</xmlID>
     </part>
     <part>
       <prefab>2f2d8419-c55b-49ac-9698-ecb431fffed2</prefab>
@@ -4786,7 +5665,17 @@
         <y>1</y>
         <z>1</z>
       </scale>
-      <xmlID>25f6d0d1-9e77-4dc1-b8a2-696c23e209e3</xmlID>
+      <xmlID>3ff26c91-26d6-470b-9ee4-35cf78a94e21</xmlID>
+      <inventory>
+        <item>
+          <type>Salt</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>BigFilteredWater</type>
+          <amount>2</amount>
+        </item>
+      </inventory>
     </part>
     <part>
       <prefab>c3994649-d0da-4f8c-bb77-1590f50838b9</prefab>
@@ -4811,60 +5700,8 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>fef62fe0-85e1-45a2-8300-9c1c050d4829</xmlID>
+      <xmlID>46c6e82f-c06d-46e0-9f61-aa97c2a30b70</xmlID>
       <tech>NarrowBed</tech>
-    </part>
-    <part>
-      <prefab>3bb9488b-251f-4f50-af32-1e05b7db32c9</prefab>
-      <position>
-        <x>953.676635742188</x>
-        <y>-347.335144042969</y>
-        <z>1468.00207519531</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>303.639862060547</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>-0.472244262695313</y>
-          <z>0</z>
-          <w>0.881467819213867</w>
-        </quaternion>
-      </rotation>
-      <scale>
-        <x>0.99999988079071</x>
-        <y>1</y>
-        <z>0.99999988079071</z>
-      </scale>
-      <xmlID>1dd1e26c-a554-483a-9d87-b3111ca6a6f6</xmlID>
-      <tech>BatteryCharger</tech>
-    </part>
-    <part>
-      <prefab>5d26f1e1-acea-4b8c-b9f5-024e6ca903ef</prefab>
-      <position>
-        <x>952.487243652344</x>
-        <y>-347.335144042969</y>
-        <z>1466.39111328125</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>303.639862060547</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>-0.472244262695313</y>
-          <z>0</z>
-          <w>0.881467819213867</w>
-        </quaternion>
-      </rotation>
-      <scale>
-        <x>0.99999988079071</x>
-        <y>1</y>
-        <z>0.99999988079071</z>
-      </scale>
-      <xmlID>8551b489-e195-4517-b121-b9c525446d57</xmlID>
-      <tech>PowerCellCharger</tech>
     </part>
     <part>
       <prefab>9f16d82b-11f4-4eeb-aedf-f2fa2bfca8e3</prefab>
@@ -4889,7 +5726,7 @@
         <y>1</y>
         <z>0.999999761581421</z>
       </scale>
-      <xmlID>81041fc0-3936-4cae-8800-13ca6741fe29</xmlID>
+      <xmlID>204a51b8-bb9b-4a39-8559-485b160daa26</xmlID>
       <tech>Fabricator</tech>
     </part>
     <part>
@@ -4915,7 +5752,7 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>82520b2c-7162-4a81-8079-a76eb7e441f9</xmlID>
+      <xmlID>a166d398-75be-4fb5-9f35-bbbd9ce0e73e</xmlID>
       <tech>MedicalCabinet</tech>
     </part>
     <part>
@@ -4941,8 +5778,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>5281025a-f712-4a8d-b382-75a3a1584aee</xmlID>
+      <xmlID>404de09c-de4f-424c-9981-23da40abd0aa</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -4967,8 +5805,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>fc6b92fd-85c4-45f7-a39b-9cfb19c4cbc5</xmlID>
+      <xmlID>07891c85-c027-474d-b5d2-1de60761d507</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -4993,8 +5832,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>3828402f-0551-41d6-9db1-375d90eca972</xmlID>
+      <xmlID>941e8667-cb74-4b24-9c6d-5c26ab708caf</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5019,8 +5859,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>0e684c02-0cc4-4eee-bdb7-3d43523a7b3a</xmlID>
+      <xmlID>de16d510-02a2-48e2-9569-dc798b31d712</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5045,8 +5886,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>8e402a5b-30b2-4864-a0a6-43c086935b89</xmlID>
+      <xmlID>b49f3d61-5b28-4670-b2f7-9ece50aa8755</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5071,8 +5913,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>f12974ec-9d2f-4b53-ab88-e3153328c180</xmlID>
+      <xmlID>6232d20f-e8b8-4bc7-80c2-48049777ea50</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5097,8 +5940,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>e4ed35ad-0a02-49ca-85eb-76aabb5463d3</xmlID>
+      <xmlID>0f1b21f5-f5f8-4e08-8b26-7370f378335d</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5123,8 +5967,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>7b7a6c6f-fcbe-4151-b779-3214c1920991</xmlID>
+      <xmlID>bb37c4f9-f3b7-40b6-959f-4d4b4f08f28a</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5149,8 +5994,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>f9f7b531-ecad-4360-a683-0249bd137811</xmlID>
+      <xmlID>063f92ae-265c-4cdd-9bab-9bdc3e3a9b88</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5175,8 +6021,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>65974466-1fdd-493d-9161-b5bdd6606673</xmlID>
+      <xmlID>d228be04-8f60-433e-87ef-2c0a32b0c65e</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5201,8 +6048,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>2511c55b-f078-4105-ab26-d9cc66901d51</xmlID>
+      <xmlID>5cd49a4e-f217-4701-bd3f-ff24ac5a4b86</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
@@ -5227,8 +6075,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>eae3c6e3-c87a-41f8-abb7-a18e3b841286</xmlID>
+      <xmlID>eb0cd16c-6548-47a1-a231-9b0b562d6bb7</xmlID>
       <tech>SmallLocker</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5be64297-0340-4d4b-adce-0841d2b25483</prefab>
@@ -5253,7 +6102,7 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>01630f4e-a0af-49d2-bdcf-a3287d6955ec</xmlID>
+      <xmlID>2d132db0-eb2f-46d5-97bf-c20a23f3a342</xmlID>
       <tech>Workbench</tech>
     </part>
     <part>
@@ -5279,60 +6128,14 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>c1acda79-f0bf-4374-8d0f-d4f58e07b74c</xmlID>
+      <xmlID>f110a24a-9108-4bce-8f98-92076a524d84</xmlID>
       <tech>PlanterBox</tech>
-    </part>
-    <part>
-      <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
-      <position>
-        <x>962.199890136719</x>
-        <y>-347.335174560547</y>
-        <z>1455.74169921875</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>213.639862060547</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>0.957218945026398</y>
-          <z>0</z>
-          <w>-0.289364844560623</w>
-        </quaternion>
-      </rotation>
-      <scale>
-        <x>0.99999988079071</x>
-        <y>1</y>
-        <z>0.99999988079071</z>
-      </scale>
-      <xmlID>973cc045-3052-403f-a889-e19ef4dfd597</xmlID>
-      <tech>SmallLocker</tech>
-    </part>
-    <part>
-      <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
-      <position>
-        <x>942.33447265625</x>
-        <y>-347.335174560547</y>
-        <z>1450.92541503906</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>303.639862060547</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>-0.472244173288345</y>
-          <z>0</z>
-          <w>0.881467878818512</w>
-        </quaternion>
-      </rotation>
-      <scale>
-        <x>0.99999988079071</x>
-        <y>1</y>
-        <z>0.99999988079071</z>
-      </scale>
-      <xmlID>22d1424a-484c-4371-8a7c-8563a6519138</xmlID>
-      <tech>SmallLocker</tech>
+      <inventory>
+        <item>
+          <type>BulboTreePiece</type>
+          <amount>3</amount>
+        </item>
+      </inventory>
     </part>
     <part>
       <prefab>c5ae1472-0bdc-4203-8418-fb1f74c8edf5</prefab>
@@ -5357,7 +6160,7 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>209903cb-af40-46e7-93c0-5986f8510b8b</xmlID>
+      <xmlID>184e6c51-2d87-414d-999f-4837ce322d12</xmlID>
       <tech>WallShelves</tech>
     </part>
     <part>
@@ -5383,7 +6186,7 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>0e24bca6-3b04-4047-99c7-6da81371921d</xmlID>
+      <xmlID>205feb6d-2173-46c4-b062-7f2f22058f93</xmlID>
       <tech>PictureFrame</tech>
     </part>
     <part>
@@ -5409,8 +6212,9 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>fefc5152-085b-46c1-92ad-d5f049e4fcec</xmlID>
+      <xmlID>ec85f841-b640-49c3-afbe-977a408c9a28</xmlID>
       <tech>Trashcans</tech>
+      <inventory />
     </part>
     <part>
       <prefab>5d63470b-2705-4963-be4b-2e11e8dc6f2e</prefab>
@@ -5435,7 +6239,7 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>cf5eef09-ede5-4495-94b7-270b4b939639</xmlID>
+      <xmlID>4f641685-9ecd-4038-9ea3-08add4308207</xmlID>
       <tech>Bench</tech>
     </part>
     <part>
@@ -5461,7 +6265,7 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>d0f6aec0-c644-420c-af33-33e297d46cc4</xmlID>
+      <xmlID>2c8fae8f-c03c-4741-b0d6-a33c879d1b15</xmlID>
       <tech>Bench</tech>
     </part>
     <part>
@@ -5487,9 +6291,658 @@
         <y>1</y>
         <z>0.99999988079071</z>
       </scale>
-      <xmlID>fdb25040-ba28-4855-8669-25ed9064c982</xmlID>
+      <xmlID>1186975c-a4d6-46ed-8347-82415a4d31c6</xmlID>
       <tech>Bench</tech>
     </part>
+    <part>
+      <prefab>6d71afaa-09b6-44d3-ba2d-66644ffe6a99</prefab>
+      <position>
+        <x>941.536682128906</x>
+        <y>-348.8173828125</y>
+        <z>1447.25231933594</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>258.639862060547</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.773619830608368</y>
+          <z>0</z>
+          <w>-0.633650064468384</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>631e9ac8-203c-4cff-a85a-a7d1c27298c9</xmlID>
+      <tech>Aquarium</tech>
+      <inventory>
+        <item>
+          <type>Boomerang</type>
+          <amount>3</amount>
+        </item>
+        <item>
+          <type>Peeper</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>Bladderfish</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>Hoopfish</type>
+          <amount>2</amount>
+        </item>
+      </inventory>
+    </part>
+    <part>
+      <prefab>5c06baec-0539-4f26-817d-78443548cc52</prefab>
+      <position>
+        <x>960.059631347656</x>
+        <y>-347.554534912109</y>
+        <z>1469.52465820313</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>123.639854431152</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.881467819213867</y>
+          <z>0</z>
+          <w>0.472244262695313</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>9923f95d-568d-4c37-988d-2c7b228fe9d3</xmlID>
+      <tech>Radio</tech>
+    </part>
+    <part>
+      <prefab>5d63470b-2705-4963-be4b-2e11e8dc6f2e</prefab>
+      <position>
+        <x>961.911560058594</x>
+        <y>-348.391937255859</y>
+        <z>1455.3154296875</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>213.639862060547</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.957218945026398</y>
+          <z>0</z>
+          <w>-0.289364784955978</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>54484a69-1f06-4dd9-9651-a7cb6804a62a</xmlID>
+      <tech>Bench</tech>
+    </part>
+    <part>
+      <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
+      <position>
+        <x>940.177001953125</x>
+        <y>-347.335144042969</y>
+        <z>1451.76062011719</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>123.639869689941</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.881467878818512</y>
+          <z>0</z>
+          <w>0.472244173288345</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>bb4e0486-b46b-4b56-a49f-badf42f495ef</xmlID>
+      <tech>SmallLocker</tech>
+      <inventory>
+        <item>
+          <type>Titanium</type>
+          <amount>8</amount>
+        </item>
+        <item>
+          <type>Gold</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>Glass</type>
+          <amount>5</amount>
+        </item>
+        <item>
+          <type>Lead</type>
+          <amount>3</amount>
+        </item>
+        <item>
+          <type>Lithium</type>
+          <amount>4</amount>
+        </item>
+        <item>
+          <type>Silver</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>Diamond</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>Salt</type>
+          <amount>4</amount>
+        </item>
+        <item>
+          <type>Magnetite</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>PlasteelIngot</type>
+          <amount>1</amount>
+        </item>
+      </inventory>
+    </part>
+    <part>
+      <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
+      <position>
+        <x>940.73095703125</x>
+        <y>-347.335113525391</y>
+        <z>1452.59313964844</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>123.639869689941</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.881467878818512</y>
+          <z>0</z>
+          <w>0.472244173288345</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>53f9f2b1-ad4f-4c87-962f-4746387e614f</xmlID>
+      <tech>SmallLocker</tech>
+      <inventory>
+        <item>
+          <type>FiberMesh</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>BulboTreePiece</type>
+          <amount>3</amount>
+        </item>
+        <item>
+          <type>FilteredWater</type>
+          <amount>3</amount>
+        </item>
+        <item>
+          <type>FirstAidKit</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>CuredPeeper</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>BigFilteredWater</type>
+          <amount>2</amount>
+        </item>
+      </inventory>
+    </part>
+    <part>
+      <prefab>3bb9488b-251f-4f50-af32-1e05b7db32c9</prefab>
+      <position>
+        <x>939.459167480469</x>
+        <y>-347.405731201172</y>
+        <z>1450.9375</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>213.639862060547</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.957218945026398</y>
+          <z>0</z>
+          <w>-0.289364844560623</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>f6214f6a-2060-47af-9f70-b1d0c45f12bb</xmlID>
+      <tech>BatteryCharger</tech>
+      <inventory>
+        <item>
+          <type>Battery</type>
+          <slot>BatteryCharger1</slot>
+        </item>
+        <item>
+          <type>Battery</type>
+          <slot>BatteryCharger4</slot>
+        </item>
+      </inventory>
+    </part>
+    <part>
+      <prefab>5d26f1e1-acea-4b8c-b9f5-024e6ca903ef</prefab>
+      <position>
+        <x>942.334533691406</x>
+        <y>-347.335144042969</y>
+        <z>1450.92553710938</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>303.639862060547</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>-0.472244173288345</y>
+          <z>0</z>
+          <w>0.881467878818512</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>852d7675-15e3-4504-9eb7-b545f4b4c576</xmlID>
+      <tech>PowerCellCharger</tech>
+      <inventory>
+        <item>
+          <type>PowerCell</type>
+          <slot>PowerCellCharger2</slot>
+        </item>
+      </inventory>
+    </part>
+    <part>
+      <prefab>cf522a95-3038-4759-a53c-8dad1242c8ed</prefab>
+      <position>
+        <x>938.766845703125</x>
+        <y>-348.8173828125</y>
+        <z>1443.08972167969</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>348.639862060547</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.0989736616611481</y>
+          <z>0</z>
+          <w>-0.995090186595917</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>87d06a23-9d42-498c-ab1b-0d9708829379</xmlID>
+      <tech>StarshipDesk</tech>
+    </part>
+    <part>
+      <prefab>7370e7a0-ebc0-4c33-9997-7084c11a55b0</prefab>
+      <position>
+        <x>933.910888671875</x>
+        <y>-348.8173828125</y>
+        <z>1445.72021484375</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>78.6398620605469</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>-0.633650064468384</y>
+          <z>0</z>
+          <w>-0.773619890213013</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>473ffd2f-8cfb-4453-8411-0f89fc94d815</xmlID>
+      <tech>LabCounter</tech>
+    </part>
+    <part>
+      <prefab>4f0e304b-0d25-4f9c-a6ba-1b1a6bf029b0</prefab>
+      <position>
+        <x>938.48828125</x>
+        <y>-348.8173828125</y>
+        <z>1444.47619628906</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>168.639862060547</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>-0.995090126991272</y>
+          <z>0</z>
+          <w>-0.0989736914634705</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>b8e85638-4c9b-4939-96df-d5bbcad7566e</xmlID>
+      <tech>StarshipChair</tech>
+    </part>
+    <part>
+      <prefab>5d63470b-2705-4963-be4b-2e11e8dc6f2e</prefab>
+      <position>
+        <x>935.990661621094</x>
+        <y>-348.8173828125</y>
+        <z>1446.13806152344</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>78.6398620605469</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>-0.633650064468384</y>
+          <z>0</z>
+          <w>-0.773619890213013</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>a8f60dd2-595b-497d-9a96-15cd2ac7ff9b</xmlID>
+      <tech>Bench</tech>
+    </part>
+    <part>
+      <prefab>1d1898ca-8436-4fe4-aaf4-a1d9fa6d58cb</prefab>
+      <position>
+        <x>938.070434570313</x>
+        <y>-348.791198730469</y>
+        <z>1446.55590820313</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>348.639862060547</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.0989736616611481</y>
+          <z>0</z>
+          <w>-0.995090186595917</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>dcc881cf-a928-4658-8dea-ed1ac5d03ffe</xmlID>
+      <tech>BarTable</tech>
+    </part>
+    <part>
+      <prefab>b09a156d-d3cf-455a-848d-a9a8cad2b811</prefab>
+      <position>
+        <x>936.025573730469</x>
+        <y>-347.829132080078</y>
+        <z>1450.46362304688</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>168.639877319336</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.995090067386627</y>
+          <z>0</z>
+          <w>0.0989734828472137</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>6e8c80e8-9880-4ea0-8192-4c8eea09ffb5</xmlID>
+      <tech>CoffeeVendingMachine</tech>
+    </part>
+    <part>
+      <prefab>f1cde32e-101a-4dd5-8084-8c950b9c2432</prefab>
+      <position>
+        <x>938.540466308594</x>
+        <y>-348.8173828125</y>
+        <z>1450.79541015625</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>169.540496826172</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>0.995837271213531</y>
+          <z>0</z>
+          <w>0.091149628162384</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>7231bccd-7131-401d-b1dd-7d149b4794ac</xmlID>
+      <tech>Trashcans</tech>
+      <inventory />
+    </part>
+    <part>
+      <prefab>0fbf203a-a940-4b6e-ac63-0fe2737d84c2</prefab>
+      <position>
+        <x>938.070434570313</x>
+        <y>-347.811218261719</y>
+        <z>1446.55590820313</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>3.6398594379425</y>
+        <z>0</z>
+        <quaternion>
+          <x>0</x>
+          <y>-0.0317584276199341</y>
+          <z>0</z>
+          <w>-0.999495685100555</w>
+        </quaternion>
+      </rotation>
+      <scale>
+        <x>0.99999988079071</x>
+        <y>1</y>
+        <z>0.99999988079071</z>
+      </scale>
+      <xmlID>7656263a-877f-4d1b-87c8-0d80c5e1d5fb</xmlID>
+      <tech>PlanterPot3</tech>
+      <inventory>
+        <item>
+          <type>PinkFlowerSeed</type>
+          <amount>4</amount>
+        </item>
+      </inventory>
+    </part>
+  </customprefab>
+  <customprefab>
+    <prefab>a4004101-7007-4808-a4e9-2cdb0607bad8</prefab>
+    <position>
+      <x>951.846435546875</x>
+      <y>-348.788726806641</y>
+      <z>1457.28576660156</z>
+    </position>
+    <rotation>
+      <x>270</x>
+      <y>256.833312988281</y>
+      <z>0</z>
+      <quaternion>
+        <x>-0.439378976821899</x>
+        <y>-0.554027140140533</y>
+        <z>-0.554027140140533</z>
+        <w>0.439378976821899</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+	<objectManipulation>
+		<AddChild>
+			<prefab>de38c9d2-2cc9-48aa-8335-1f6cdb8dc2bd</prefab>
+			<name>knifeLight</name>
+			<position>
+			  <x>-0.5</x>
+			  <y>0</y>
+			  <z>0.15</z>
+			</position>
+			<modify>
+				<ModifyLight>
+					<intensity>1.5</intensity>
+					<range>1.0</range>
+					<color>
+						<r>1</r>
+						<g>0.5</g>
+						<b>0.33</b>
+					</color>
+				</ModifyLight>
+			</modify>
+		</AddChild>
+	</objectManipulation>
+    <xmlID>85e06340-40f6-4a2e-bcf2-41df13291919</xmlID>
+    <tech>HeatBlade</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>pda</prefab>
+	<page>mountaincave</page>
+    <position>
+      <x>966.283935546875</x>
+      <y>-348.344787597656</y>
+      <z>1467.06896972656</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>225.998870849609</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>-0.920508682727814</y>
+        <z>0</z>
+        <w>0.390722125768662</w>
+      </quaternion>
+    </rotation>
+    <xmlID>53714612-3bb1-44d6-86e4-bb52ae9f70d0</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>databox</prefab>
+    <tech>SeamothVoidStealth</tech>
+    <position>
+      <x>938.313537597656</x>
+      <y>-347.843292236328</y>
+      <z>1442.94836425781</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>123.200401306152</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0.879650235176086</y>
+        <z>0</z>
+        <w>0.475621163845062</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.75</x>
+      <y>0.75</y>
+      <z>0.75</z>
+    </scale>
+    <xmlID>7a33ac47-c4de-4854-be31-6dc69e6f64fd</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>VENT_CRYSTAL</prefab>
+    <position>
+      <x>939.533630371094</x>
+      <y>-347.903259277344</y>
+      <z>1443.25720214844</z>
+    </position>
+    <rotation>
+      <x>-4.26886828108763E-07</x>
+      <y>202.399276733398</y>
+      <z>33.2000122070313</z>
+      <quaternion>
+        <x>0.280247926712036</x>
+        <y>0.940072596073151</y>
+        <z>-0.0554887242615223</z>
+        <w>-0.186133161187172</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>cb79aa5b-23cc-427d-9892-b0ef8ea58a65</xmlID>
+    <tech>VENT_CRYSTAL</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>02684cd8-dac7-4f50-bc08-ba7f38631de3</prefab>
+    <position>
+      <x>934.374816894531</x>
+      <y>-347.541198730469</y>
+      <z>1445.9326171875</z>
+    </position>
+    <rotation>
+      <x>271.195831298828</x>
+      <y>113.600944519043</y>
+      <z>357.599945068359</z>
+      <quaternion>
+        <x>-0.395555734634399</x>
+        <y>0.589672207832336</y>
+        <z>0.577156722545624</z>
+        <w>0.403376132249832</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>7ca6c484-085b-45fb-b217-bbb61a3130b4</xmlID>
+    <tech>CuredPeeper</tech>
+	<objectManipulation>
+		<RemoveComponent>EcoTarget</RemoveComponent>
+	</objectManipulation>
   </customprefab>
   <customprefab>
     <prefab>a620b5d5-b413-4627-84b0-1e3a7c6bf5b6</prefab>
@@ -5516,5 +6969,19 @@
     </scale>
     <xmlID>08e19f03-d70c-4edd-beab-a8c230d5da5a</xmlID>
     <tech>ThermalPlant</tech>
+	<objectManipulation>
+		<BreakThermalPlant>
+			<RemovePower>true</RemovePower>
+			<DeleteHead>true</DeleteHead>
+			<SetText>ERROR</SetText>
+			<TextColor>
+				<r>1</r>
+				<g>0</g>
+				<b>0</b>
+			</TextColor>
+			<DisableBar>true</DisableBar>
+			<DeleteBar>false</DeleteBar>
+		</BreakThermalPlant>
+	</objectManipulation>
   </customprefab>
 </Root>
