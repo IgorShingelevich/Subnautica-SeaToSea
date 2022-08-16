@@ -1378,20 +1378,14 @@
           <piece>RoomLadderTop</piece>
           <prefab>basePart</prefab>
           <position>
-            <x>964.9111328125</x>
-            <y>-347.335144042969</y>
-            <z>1468.84216308594</z>
+            <x>964.2</x>
+            <y>-348.37</y>
+            <z>1468.7</z>
           </position>
           <rotation>
-            <x>0</x>
-            <y>213.639846801758</y>
+            <x>270</x>
+            <y>253.639846801758</y>
             <z>0</z>
-            <quaternion>
-              <x>0</x>
-              <y>0.957218945026398</y>
-              <z>0</z>
-              <w>-0.289364755153656</w>
-            </quaternion>
           </rotation>
           <scale>
             <x>1</x>
@@ -5531,6 +5525,11 @@
           <amount>2</amount>
           <growth>1.0</growth>
         </item>
+        <item>
+          <type>RedRollPlantSeed</type>
+          <amount>1</amount>
+          <growth>1.0</growth>
+        </item>
       </inventory>
     </part>
     <part>
@@ -6357,32 +6356,6 @@
       </inventory>
     </part>
     <part>
-      <prefab>5c06baec-0539-4f26-817d-78443548cc52</prefab>
-      <position>
-        <x>960.059631347656</x>
-        <y>-347.554534912109</y>
-        <z>1469.52465820313</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>123.639854431152</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>0.881467819213867</y>
-          <z>0</z>
-          <w>0.472244262695313</w>
-        </quaternion>
-      </rotation>
-      <scale>
-        <x>0.99999988079071</x>
-        <y>1</y>
-        <z>0.99999988079071</z>
-      </scale>
-      <xmlID>9923f95d-568d-4c37-988d-2c7b228fe9d3</xmlID>
-      <tech>Radio</tech>
-    </part>
-    <part>
       <prefab>5d63470b-2705-4963-be4b-2e11e8dc6f2e</prefab>
       <position>
         <x>961.911560058594</x>
@@ -6835,28 +6808,6 @@
       <y>1</y>
       <z>1</z>
     </scale>
-	<objectManipulation>
-		<AddChild>
-			<prefab>de38c9d2-2cc9-48aa-8335-1f6cdb8dc2bd</prefab>
-			<name>knifeLight</name>
-			<position>
-			  <x>-0.46</x>
-			  <y>0.05</y>
-			  <z>0.67</z>
-			</position>
-			<objectManipulation>
-				<ModifyLight>
-					<intensity>2.5</intensity>
-					<range>0.3</range>
-					<color>
-						<r>1</r>
-						<g>0.5</g>
-						<b>0.33</b>
-					</color>
-				</ModifyLight>
-			</objectManipulation>
-		</AddChild>
-	</objectManipulation>
     <xmlID>85e06340-40f6-4a2e-bcf2-41df13291919</xmlID>
     <tech>HeatBlade</tech>
   </customprefab>
@@ -7001,5 +6952,80 @@
 			<DeleteBar>false</DeleteBar>
 		</BreakThermalPlant>
 	</objectManipulation>
+  </customprefab>
+  <customprefab>
+    <prefab>284573d8-9a80-4867-a09a-85df573c29ef</prefab>
+    <position>
+      <x>954.8</x>
+      <y>-349.9</y>
+      <z>1455.2</z>
+    </position>
+    <rotation>
+      <x>359.600006103516</x>
+      <y>2.26789154567086E-07</y>
+      <z>313.600433349609</z>
+      <quaternion>
+        <x>-0.00320833222940564</x>
+        <y>-0.00137507647741586</y>
+        <z>-0.393936067819595</z>
+        <w>0.919131219387054</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <tech>SeamothFragment</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>292ba610-ed40-461f-826b-7b2645b37b5f</prefab>
+    <position>
+      <x>954.7</x>
+      <y>-349.0</y>
+      <z>1455.3</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>328.39697265625</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0.272305697202683</y>
+        <z>0</z>
+        <w>-0.962210774421692</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <tech>SeamothFragment</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>eca96e8f-0097-4627-b906-f454c329d9e5</prefab>
+    <position>
+      <x>964.95</x>
+      <y>-345.91</y>
+      <z>1468.83</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>132.60009765625</y>
+      <z>90.8003311157227</z>
+      <quaternion>
+        <x>0.651977717876434</x>
+        <y>0.64293360710144</y>
+        <z>0.286197602748871</z>
+        <w>0.282227516174316</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1.1</x>
+      <y>1.1</y>
+      <z>1.1</z>
+    </scale>
+    <xmlID>9b2d9a3b-44ee-4463-b55f-d089ecb78b07</xmlID>
   </customprefab>
 </Root>
