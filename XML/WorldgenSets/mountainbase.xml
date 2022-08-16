@@ -1529,6 +1529,9 @@
             <z>1</z>
           </scale>
           <xmlID>38e967b6-b7e0-481d-8d97-a5f467fa90e5</xmlID>
+			<modify>
+				<DeleteChildObject>handTarget</DeleteChildObject>
+			</modify>
         </component>
       </cellData>
     </part>
@@ -2233,6 +2236,11 @@
             <z>1</z>
           </scale>
           <xmlID>82df2d7e-715c-4d53-a973-b9385993566e</xmlID>
+			<modify>
+				<AddLaserCutterSealed>
+					<timeToUse>1000</timeToUse>
+				</AddLaserCutterSealed>
+			</modify>
         </component>
       </cellData>
     </part>
@@ -2573,6 +2581,11 @@
             <z>1</z>
           </scale>
           <xmlID>f155be22-c021-4edb-9a15-f1bbcbc2cb1a</xmlID>
+			<modify>
+				<AddLaserCutterSealed>
+					<timeToUse>1000</timeToUse>
+				</AddLaserCutterSealed>
+			</modify>
         </component>
       </cellData>
     </part>
@@ -4534,6 +4547,11 @@
             <z>1</z>
           </scale>
           <xmlID>7d7dd897-a337-4154-90ee-9539e9e9b6d9</xmlID>
+			<modify>
+				<AddLaserCutterSealed>
+					<timeToUse>1000</timeToUse>
+				</AddLaserCutterSealed>
+			</modify>
         </component>
         <component>
           <piece>CorridorIShapeWindowSide</piece>
@@ -6822,21 +6840,21 @@
 			<prefab>de38c9d2-2cc9-48aa-8335-1f6cdb8dc2bd</prefab>
 			<name>knifeLight</name>
 			<position>
-			  <x>-0.5</x>
-			  <y>0</y>
-			  <z>0.15</z>
+			  <x>-0.46</x>
+			  <y>0.05</y>
+			  <z>0.67</z>
 			</position>
-			<modify>
+			<objectManipulation>
 				<ModifyLight>
-					<intensity>1.5</intensity>
-					<range>1.0</range>
+					<intensity>2.5</intensity>
+					<range>0.3</range>
 					<color>
 						<r>1</r>
 						<g>0.5</g>
 						<b>0.33</b>
 					</color>
 				</ModifyLight>
-			</modify>
+			</objectManipulation>
 		</AddChild>
 	</objectManipulation>
     <xmlID>85e06340-40f6-4a2e-bcf2-41df13291919</xmlID>
