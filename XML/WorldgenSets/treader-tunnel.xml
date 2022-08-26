@@ -611,31 +611,6 @@
   <customprefab>
     <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
     <position>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-    </position>
-    <rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-      <quaternion>
-        <x>0</x>
-        <y>0</y>
-        <z>0</z>
-        <w>1</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <tech>NutrientBlock</tech>
-  </customprefab>
-  <customprefab>
-    <prefab>30373750-1292-4034-9797-387cf576d150</prefab>
-    <position>
       <x>-1263.8837890625</x>
       <y>-285.877014160156</y>
       <z>-731.175415039063</z>
