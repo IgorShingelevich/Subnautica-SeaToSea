@@ -39,4 +39,30 @@
       </quaternion>
     </rotation>
   </customprefab>
+  <customprefab>
+    <prefab>pda</prefab>
+	<page>dunearch</page>
+    <position>
+      <x>-1625.55895996094</x>
+      <y>-357.591766357422</y>
+      <z>103.292999267578</z>
+    </position>
+    <rotation>
+      <x>8.00001335144043</x>
+      <y>4.04139477439003E-08</y>
+      <z>3.20000576972961</z>
+      <quaternion>
+        <x>0.069729395210743</x>
+        <y>-0.00194772146642208</y>
+        <z>0.0278536714613438</z>
+        <w>0.997175097465515</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>444be869-2c92-4392-924a-4f48faefd962</xmlID>
+  </customprefab>
 </Root>
