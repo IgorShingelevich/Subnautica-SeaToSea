@@ -330,86 +330,62 @@
     </part>
   </customprefab>
   <customprefab>
-    <prefab>08078333-1a00-42f8-8492-e2640c17a961</prefab>
+    <prefab>o2pipe</prefab>
     <position>
       <x>332.776397705078</x>
       <y>-113.461921691895</y>
       <z>283.261138916016</z>
     </position>
-    <rotation>
-      <x>30.1477031707764</x>
-      <y>268.914642333984</y>
-      <z>336.897430419922</z>
-      <quaternion>
-        <x>0.31646516919136</x>
-        <y>-0.638779878616333</y>
-        <z>0.0464451983571053</z>
-        <w>0.69975209236145</w>
-      </quaternion>
-    </rotation>
+    <connection>
+      <x>334.596038818359</x>
+      <y>-113.595367431641</y>
+      <z>284.300903320313</z>
+    </connection>
     <xmlID>51a92afe-84bb-44c5-8b7b-4db98655c5bb</xmlID>
     <tech>Pipe</tech>
   </customprefab>
   <customprefab>
-    <prefab>08078333-1a00-42f8-8492-e2640c17a961</prefab>
+    <prefab>o2pipe</prefab>
     <position>
       <x>323.641357421875</x>
       <y>-114.01448059082</y>
       <z>279.230560302734</z>
     </position>
-    <rotation>
-      <x>24.2841548919678</x>
-      <y>300.959564208984</y>
-      <z>351.907928466797</z>
-      <quaternion>
-        <x>-0.216563284397125</x>
-        <y>0.467592835426331</y>
-        <z>-0.0433561317622662</z>
-        <w>-0.855907499790192</w>
-      </quaternion>
-    </rotation>
+    <connection>
+      <x>332.776397705078</x>
+      <y>-113.461921691895</y>
+      <z>283.261138916016</z>
+    </connection>
     <xmlID>ab764d99-72bd-4f72-9fc4-e1b4f2d0feb6</xmlID>
     <tech>Pipe</tech>
   </customprefab>
   <customprefab>
-    <prefab>08078333-1a00-42f8-8492-e2640c17a961</prefab>
+    <prefab>o2pipe</prefab>
     <position>
       <x>316.247283935547</x>
       <y>-119.607757568359</y>
       <z>280.461547851563</z>
     </position>
-    <rotation>
-      <x>34.543342590332</x>
-      <y>267.816314697266</y>
-      <z>324.974945068359</z>
-      <quaternion>
-        <x>-0.403378635644913</x>
-        <y>0.594119966030121</y>
-        <z>-0.00471487920731306</z>
-        <w>-0.695905864238739</w>
-      </quaternion>
-    </rotation>
+    <connection>
+      <x>323.641357421875</x>
+      <y>-114.01448059082</y>
+      <z>279.230560302734</z>
+    </connection>
     <xmlID>adda22ac-31b8-44b7-8b4a-5e744bf6addc</xmlID>
     <tech>Pipe</tech>
   </customprefab>
   <customprefab>
-    <prefab>08078333-1a00-42f8-8492-e2640c17a961</prefab>
+    <prefab>o2pipe</prefab>
     <position>
       <x>313.194305419922</x>
       <y>-128.842849731445</y>
       <z>282.783721923828</z>
     </position>
-    <rotation>
-      <x>33.7395896911621</x>
-      <y>317.065185546875</y>
-      <z>355.321990966797</z>
-      <quaternion>
-        <x>-0.284133851528168</x>
-        <y>0.338909089565277</y>
-        <z>-0.0697694346308708</z>
-        <w>-0.894170463085175</w>
-      </quaternion>
-    </rotation>
+    <connection>
+      <x>316.247283935547</x>
+      <y>-119.607757568359</y>
+      <z>280.461547851563</z>
+    </connection>
     <xmlID>631d3408-ecb2-4d90-a251-aae44dfb6788</xmlID>
     <tech>Pipe</tech>
   </customprefab>
