@@ -80,4 +80,30 @@
     </scale>
     <xmlID>01248d99-e47c-494d-8371-eb005711a883</xmlID>
   </customprefab>
+  <customprefab>
+    <prefab>databox</prefab>
+    <tech>breathfluid</tech>
+    <position>
+      <x>-120.574417114258</x>
+      <y>-510.736511230469</y>
+      <z>895.499145507813</z>
+    </position>
+    <rotation>
+      <x>351.600128173828</x>
+      <y>-5.39394761744916E-07</y>
+      <z>10.0000143051147</z>
+      <quaternion>
+        <x>0.072958342730999</x>
+        <y>-0.00638303300365806</y>
+        <z>-0.0869218185544014</z>
+        <w>-0.993519425392151</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.75</x>
+      <y>0.75</y>
+      <z>0.75</z>
+    </scale>
+    <xmlID>4b2c1774-83ec-4136-a151-9ed63d06a734</xmlID>
+  </customprefab>
 </Root>
