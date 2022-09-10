@@ -40,6 +40,32 @@
     </rotation>
   </customprefab>
   <customprefab>
+    <prefab>databox</prefab>
+    <tech>RebreatherV2</tech>
+    <position>
+      <x>986.280090332031</x>
+      <y>-271.75</y>
+      <z>1378.5625</z>
+    </position>
+    <rotation>
+      <x>306.599426269531</x>
+      <y>211.999877929688</y>
+      <z>358.000061035156</z>
+      <quaternion>
+        <x>0.10884390771389</x>
+        <y>0.860792458057404</y>
+        <z>0.436149209737778</z>
+        <w>-0.23866967856884</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.75</x>
+      <y>0.75</y>
+      <z>0.75</z>
+    </scale>
+    <xmlID>5cfbfa0c-14b9-4b91-95d8-d896355267ce</xmlID>
+  </customprefab>
+  <customprefab>
     <prefab>76825855-c939-48ae-812d-79b6d0529dd9</prefab>
     <position>
       <x>996.392761230469</x>
