@@ -1,5 +1,31 @@
 <Root>
   <customprefab>
+    <prefab>databox</prefab>
+    <tech>BioEnzymes</tech>
+    <position>
+      <x>-1243.90234375</x>
+      <y>-362.187591552734</y>
+      <z>-1196.08190917969</z>
+    </position>
+    <rotation>
+      <x>320.399780273438</x>
+      <y>233.999893188477</y>
+      <z>30.4002132415771</z>
+      <quaternion>
+        <x>-0.368207097053528</x>
+        <y>-0.768681645393372</y>
+        <z>-0.179265767335892</z>
+        <w>0.491340816020966</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.75</x>
+      <y>0.75</y>
+      <z>0.75</z>
+    </scale>
+    <xmlID>d9023617-1c2f-4700-b727-585de646a3e4</xmlID>
+  </customprefab>
+  <customprefab>
     <prefab>00037e80-3037-48cf-b769-dc97c761e5f6</prefab>
     <position>
       <x>-1239.13745117188</x>

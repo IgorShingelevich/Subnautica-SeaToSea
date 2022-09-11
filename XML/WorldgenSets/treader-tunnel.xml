@@ -1222,7 +1222,7 @@
   </customprefab>
   <customprefab>
     <prefab>databox</prefab>
-	<tech>BioEnzymes</tech>
+	<tech>VehicleHullModule2</tech>
     <position>
       <x>-1266.45690917969</x>
       <y>-285.615509033203</y>
