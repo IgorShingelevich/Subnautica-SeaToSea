@@ -1,5 +1,24 @@
 <Root>
   <customprefab>
+    <prefab>67744b32-93c2-4aba-8a18-ffb87204a8eb</prefab>
+    <position>
+      <x>-1313.16</x>
+      <y>-326.58</y>
+      <z>-704.14</z>
+    </position>
+    <rotation>
+      <x>277.96</x>
+      <y>276.41</y>
+      <z>0</z>
+    </rotation>
+    <objectManipulation>
+      <ModifyLight>
+		<range>30</range>
+		<intensity>1.0</intensity>
+	  </ModifyLight>
+    </objectManipulation>
+  </customprefab>
+  <customprefab>
     <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
     <position>
       <x>-1257.55395507813</x>
