@@ -4661,6 +4661,12 @@
             <z>1</z>
           </scale>
           <xmlID>2cb1fff1-0f8d-4292-b543-2a0e72c1eace</xmlID>
+			<modify>
+				<SetACUStack>
+					<Top>False</Top>
+					<Bottom>True</Bottom>
+				</SetACUStack>
+			</modify>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -5364,6 +5370,12 @@
             <z>1</z>
           </scale>
           <xmlID>291b05a7-f629-4503-a9d8-8b144835e0f3</xmlID>
+			<modify>
+				<SetACUStack>
+					<Top>False</Top>
+					<Bottom>False</Bottom>
+				</SetACUStack>
+			</modify>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -6067,6 +6079,12 @@
             <z>1</z>
           </scale>
           <xmlID>65b537ee-b323-478a-bf49-9392b2ba53ef</xmlID>
+			<modify>
+				<SetACUStack>
+					<Top>True</Top>
+					<Bottom>False</Bottom>
+				</SetACUStack>
+			</modify>
         </component>
         <component>
           <piece>RoomCoverBottom</piece>
@@ -11928,33 +11946,6 @@
       </inventory>
     </part>
     <part>
-      <prefab>bioprocessor</prefab>
-      <position>
-        <x>-1337.11279296875</x>
-        <y>-662.083312988281</y>
-        <z>-430.559448242188</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>289.714172363281</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>0.575617730617523</y>
-          <z>0</z>
-          <w>-0.817718923091888</w>
-        </quaternion>
-      </rotation>
-      <scale>
-        <x>1</x>
-        <y>1</y>
-        <z>1</z>
-      </scale>
-      <xmlID>13bbf719-91c7-489c-95e8-7d82a370cd52</xmlID>
-      <tech>bioprocessor</tech>
-      <inventory />
-    </part>
-    <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
       <position>
         <x>-1295.51342773438</x>
@@ -12198,7 +12189,7 @@
         </item>
         <item>
           <type>Knife</type>
-          <amount>2</amount>
+          <amount>1</amount>
         </item>
         <item>
           <type>GabeSFeatherSeed</type>
@@ -12211,6 +12202,10 @@
         <item>
           <type>ShockerEggUndiscovered</type>
           <amount>1</amount>
+        </item>
+        <item>
+          <type>MapRoomUpgradeScanRange</type>
+          <amount>2</amount>
         </item>
       </inventory>
     </part>
@@ -16148,7 +16143,7 @@
   </customprefab>
   <customprefab>
     <prefab>pda</prefab>
-    <page>bkelpbase</page>
+    <page>bkelpbase2</page>
     <position>
       <x>-1340.15124511719</x>
       <y>-661.177062988281</y>
@@ -16196,5 +16191,216 @@
       <y>1</y>
       <z>1</z>
     </scale>
+  </customprefab>
+  <customprefab count="6">
+    <prefab>fauna_blighter</prefab>
+    <position>
+      <x>-1288</x>
+      <y>-666</y>
+      <z>-423</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>1</x>
+		<y>2</y>
+		<z>1</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab count="4">
+    <prefab>fauna_blighter</prefab>
+    <position>
+      <x>-1307</x>
+      <y>-660.5</y>
+      <z>-415</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>0.5</x>
+		<y>0.2</y>
+		<z>0.5</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab count="4">
+    <prefab>fauna_cavecrawler</prefab>
+    <position>
+            <x>-1325.67114257813</x>
+            <y>-661.60107421875</y>
+            <z>-392.700012207031</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>2</x>
+		<y>0</y>
+		<z>2</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab count="5">
+    <prefab>fauna_cavecrawler</prefab>
+    <position>
+      <x>-1301.52775878906</x>
+      <y>-667.513110351563</y>
+      <z>-413.859747314453</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>0.2</x>
+		<y>0</y>
+		<z>0.2</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab count="4">
+    <prefab>fauna_bloodcrawler</prefab>
+    <position>
+        <x>-1292.72253417969</x>
+        <y>-661.65712890625</y>
+        <z>-404.506530761719</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>2</x>
+		<y>0</y>
+		<z>2</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab count="2">
+    <prefab>fauna_cavecrawler</prefab>
+    <position>
+            <x>-1339.16430664063</x>
+            <y>-661.60107421875</y>
+            <z>-430.355499267578</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>2</x>
+		<y>0</y>
+		<z>2</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab>
+    <prefab>fauna_cavecrawler</prefab>
+    <position>
+            <x>-1316.16052246094</x>
+            <y>-660.2</y>
+            <z>-408.4</z>
+    </position>
+  </customprefab>
+  <customprefab>
+    <prefab>fauna_cavecrawler</prefab>
+    <position>
+            <x>-1320.16052246094</x>
+            <y>-659.8</y>
+            <z>-419.7</z>
+    </position>
+  </customprefab>
+  <customprefab>
+    <prefab>fauna_cavecrawler</prefab>
+    <position>
+            <x>-1328.16052246094</x>
+            <y>-660.00107421875</y>
+            <z>-416.747546386719</z>
+    </position>
+  </customprefab>
+  <customprefab>
+    <prefab>fauna_cavecrawler</prefab>
+    <position>
+            <x>-1323.16052246094</x>
+            <y>-659.50107421875</y>
+            <z>-404.647546386719</z>
+    </position>
+  </customprefab>
+  <customprefab count="9">
+    <prefab>fauna_bloodcrawler</prefab>
+    <position>
+      <x>-1321.51354980469</x>
+      <y>-668.224487304688</y>
+      <z>-416.494842529297</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>8</x>
+		<y>0</y>
+		<z>8</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab count="6">
+    <prefab>fauna_bleeder</prefab>
+    <position>
+      <x>-1321.51354980469</x>
+      <y>-668.224487304688</y>
+      <z>-416.494842529297</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>4</x>
+		<y>0</y>
+		<z>4</z>
+	  </Scatter>
+    </objectManipulation>
+  </customprefab>
+  <customprefab>
+    <prefab>00037e80-3037-48cf-b769-dc97c761e5f6</prefab>
+    <position>
+      <x>-1321.51354980469</x>
+      <y>-673.224487304688</y>
+      <z>-416.494842529297</z>
+    </position>
+    <rotation>
+      <x>64.8807373046875</x>
+      <y>258.708709716797</y>
+      <z>273.362976074219</z>
+      <quaternion>
+        <x>0.695180058479309</x>
+        <y>-0.241418793797493</y>
+        <z>-0.0653742179274559</z>
+        <w>0.673919856548309</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+	<objectManipulation>
+		<ChangePodNumber>1</ChangePodNumber>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/fabricator_01_base</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/life_pod_aid_box_01</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/life_pod_storage_01_door</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/life_pod_wall_panel_01_door</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/submarine_ladder_05_02</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/submarine_power_cell_01</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/submarine_power_cell_01 1</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/life_pod_seat_01_base_02</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/life_pod_seat_01_base</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/life_pod_seat_01_base_01</DeleteChildObject>
+		<DeleteChildObject>life_pod_exploded_02_02/interior/fire_extinguisher_01_holder</DeleteChildObject>
+	</objectManipulation>
+    <xmlID>b9464ac4-4bd7-498c-a83d-f122253f4e92</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>pda</prefab>
+    <page>bkelpbase</page>
+    <position>
+      <x>-1323.70</x>
+      <y>-674.28</y>
+      <z>-415.25</z>
+    </position>
+    <rotation>
+      <x>359</x>
+      <y>350</y>
+      <z>333.6</z>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>ce511211-f26f-451d-842e-a4762d044b6f</xmlID>
   </customprefab>
 </Root>
