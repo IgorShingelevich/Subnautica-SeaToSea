@@ -16252,8 +16252,8 @@
 	  </Scatter>
     </objectManipulation>
   </customprefab>
-  <customprefab count="4">
-    <prefab>fauna_bloodcrawler</prefab>
+  <customprefab count="7">
+    <prefab>fauna_cavecrawler</prefab>
     <position>
         <x>-1292.72253417969</x>
         <y>-661.65712890625</y>
@@ -16282,38 +16282,6 @@
 	  </Scatter>
     </objectManipulation>
   </customprefab>
-  <customprefab>
-    <prefab>fauna_cavecrawler</prefab>
-    <position>
-            <x>-1316.16052246094</x>
-            <y>-660.2</y>
-            <z>-408.4</z>
-    </position>
-  </customprefab>
-  <customprefab>
-    <prefab>fauna_cavecrawler</prefab>
-    <position>
-            <x>-1320.16052246094</x>
-            <y>-659.8</y>
-            <z>-419.7</z>
-    </position>
-  </customprefab>
-  <customprefab>
-    <prefab>fauna_cavecrawler</prefab>
-    <position>
-            <x>-1328.16052246094</x>
-            <y>-660.00107421875</y>
-            <z>-416.747546386719</z>
-    </position>
-  </customprefab>
-  <customprefab>
-    <prefab>fauna_cavecrawler</prefab>
-    <position>
-            <x>-1323.16052246094</x>
-            <y>-659.50107421875</y>
-            <z>-404.647546386719</z>
-    </position>
-  </customprefab>
   <customprefab count="9">
     <prefab>fauna_bloodcrawler</prefab>
     <position>
@@ -16323,9 +16291,9 @@
     </position>
     <objectManipulation>
       <Scatter>
-		<x>8</x>
+		<x>12</x>
 		<y>0</y>
-		<z>8</z>
+		<z>12</z>
 	  </Scatter>
     </objectManipulation>
   </customprefab>
@@ -16402,5 +16370,31 @@
       <z>1</z>
     </scale>
     <xmlID>ce511211-f26f-451d-842e-a4762d044b6f</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>SeamothPowerSeal</prefab>
+    <position>
+      <x>-771.18505859375</x>
+      <y>-767.463073730469</y>
+      <z>-312.752380371094</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>60eb9bef-6509-48e1-873f-59eb811dda8e</xmlID>
+    <tech>SeamothPowerSeal</tech>
   </customprefab>
 </Root>
