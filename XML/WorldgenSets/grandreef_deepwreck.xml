@@ -160,30 +160,4 @@
     </scale>
     <xmlID>4b2c1774-83ec-4136-a151-9ed63d06a734</xmlID>
   </customprefab>
-  <customprefab>
-    <prefab>databox</prefab>
-    <tech>basesonarping</tech>
-    <position>
-      <x>-888.203979492188</x>
-      <y>-430.148468017578</y>
-      <z>-1430.77124023438</z>
-    </position>
-    <rotation>
-      <x>29.2000522613525</x>
-      <y>-2.44516115799343E-07</y>
-      <z>346.000183105469</z>
-      <quaternion>
-        <x>-0.250190943479538</x>
-        <y>-0.0307191424071789</y>
-        <z>0.11793240904808</z>
-        <w>-0.960496127605438</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>0.75</x>
-      <y>0.75</y>
-      <z>0.75</z>
-    </scale>
-    <xmlID>4b2c1774-83ec-4136-a151-9ed63d06a734</xmlID>
-  </customprefab>
 </Root>
