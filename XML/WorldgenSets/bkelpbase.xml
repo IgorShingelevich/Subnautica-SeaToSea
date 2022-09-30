@@ -16372,29 +16372,22 @@
     <xmlID>ce511211-f26f-451d-842e-a4762d044b6f</xmlID>
   </customprefab>
   <customprefab>
-    <prefab>SeamothPowerSeal</prefab>
+    <prefab>powersealmodulefragment</prefab>
     <position>
-      <x>-771.18505859375</x>
-      <y>-767.463073730469</y>
-      <z>-312.752380371094</z>
+      <x>-769.50</x>
+      <y>-767.92</y>
+      <z>-310.75</z>
     </position>
     <rotation>
-      <x>0</x>
+      <x>325</x>
       <y>0</y>
-      <z>0</z>
-      <quaternion>
-        <x>0</x>
-        <y>0</y>
-        <z>0</z>
-        <w>1</w>
-      </quaternion>
+      <z>180</z>
     </rotation>
     <scale>
       <x>1</x>
-      <y>1</y>
+      <y>1.3</y>
       <z>1</z>
     </scale>
     <xmlID>60eb9bef-6509-48e1-873f-59eb811dda8e</xmlID>
-    <tech>SeamothPowerSeal</tech>
   </customprefab>
 </Root>
