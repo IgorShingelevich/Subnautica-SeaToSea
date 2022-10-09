@@ -1107,8 +1107,6 @@
       <z>-726</z>
     </position>
     <objectManipulation>
-      <RemoveComponent>AttackCyclops</RemoveComponent>
-      <DamageScalar>0.8</DamageScalar>
 	  <SetInfected>True</SetInfected>
     </objectManipulation>
   </customprefab>
