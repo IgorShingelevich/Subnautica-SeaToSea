@@ -1480,7 +1480,7 @@
           <xmlID>14c38ecb-100f-4912-a78b-a817b47b9ef6</xmlID>
 			<modify>
 				<AddLaserCutterSealed>
-					<timeToUse>2000</timeToUse>
+					<timeToUse>1500</timeToUse>
 				</AddLaserCutterSealed>
 			</modify>
         </component>
@@ -6581,7 +6581,7 @@
           <xmlID>58de7785-df64-4137-ba12-25e58b4bdf8e</xmlID>
 			<modify>
 				<AddLaserCutterSealed>
-					<timeToUse>2000</timeToUse>
+					<timeToUse>1500</timeToUse>
 				</AddLaserCutterSealed>
 			</modify>
         </component>
@@ -8625,7 +8625,7 @@
           <xmlID>f7b68b5b-afd5-48ed-af44-225175be1a6d</xmlID>
 			<modify>
 				<AddLaserCutterSealed>
-					<timeToUse>2000</timeToUse>
+					<timeToUse>1500</timeToUse>
 				</AddLaserCutterSealed>
 			</modify>
         </component>
@@ -9358,7 +9358,7 @@
           <xmlID>29dc9308-6178-4fe8-ac4f-c19da234d67e</xmlID>
 			<modify>
 				<AddLaserCutterSealed>
-					<timeToUse>2000</timeToUse>
+					<timeToUse>1500</timeToUse>
 				</AddLaserCutterSealed>
 			</modify>
         </component>
@@ -10864,7 +10864,7 @@
           <xmlID>6620cebf-0fbb-492b-9166-981cc80cc9ca</xmlID>
 			<modify>
 				<AddLaserCutterSealed>
-					<timeToUse>2000</timeToUse>
+					<timeToUse>1500</timeToUse>
 				</AddLaserCutterSealed>
 			</modify>
         </component>
