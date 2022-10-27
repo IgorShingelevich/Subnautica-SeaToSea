@@ -132,4 +132,56 @@
       <z>0</z>
     </rotation>
   </customprefab>
+  <customprefab>
+    <prefab>c1f8aa68-0ac0-419e-81ec-b7a388027c24</prefab>
+    <position>
+      <x>77.8054504394531</x>
+      <y>-267.684448242188</y>
+      <z>-363.505554199219</z>
+    </position>
+    <rotation>
+      <x>3.19999980926514</x>
+      <y>0</y>
+      <z>23.599983215332</z>
+      <quaternion>
+        <x>0.0273315813392401</x>
+        <y>-0.00570986093953252</y>
+        <z>0.204416185617447</z>
+        <w>0.978485763072968</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>d880ade7-3af7-4fa6-8698-0af3ad066001</xmlID>
+    <tech>LEDLightFragment</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>c1f8aa68-0ac0-419e-81ec-b7a388027c24</prefab>
+    <position>
+      <x>96.4816818237305</x>
+      <y>-268.472076416016</y>
+      <z>-362.622802734375</z>
+    </position>
+    <rotation>
+      <x>6.97032785415649</x>
+      <y>87.2623596191406</y>
+      <z>146.821212768555</z>
+      <quaternion>
+        <x>0.6726313829422</x>
+        <y>0.154473885893822</y>
+        <z>0.680409848690033</z>
+        <w>0.246469631791115</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>38228e62-03a8-4393-bece-0e79d9fc477a</xmlID>
+    <tech>LEDLightFragment</tech>
+  </customprefab>
 </Root>

@@ -72,6 +72,32 @@
       </quaternion>
     </rotation>
   </customprefab>
+  <customprefab>
+    <prefab>c1f8aa68-0ac0-419e-81ec-b7a388027c24</prefab>
+    <position>
+      <x>-1242.87866210938</x>
+      <y>-362.112365722656</y>
+      <z>-1160.95788574219</z>
+    </position>
+    <rotation>
+      <x>3.56669235229492</x>
+      <y>359.510833740234</y>
+      <z>172.185607910156</z>
+      <quaternion>
+        <x>-0.00213622651062906</x>
+        <y>-0.0313383564352989</y>
+        <z>0.99719250202179</z>
+        <w>0.0679744109511375</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>f5e04025-79a4-4fe7-90f0-dbd06b3f771f</xmlID>
+    <tech>LEDLightFragment</tech>
+  </customprefab>
   <generator>
     <type>ReikaKalseki.SeaToSea.PodDebris</type>
     <position>
