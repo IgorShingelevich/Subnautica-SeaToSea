@@ -16064,84 +16064,6 @@
     </part>
   </customprefab>
   <customprefab>
-    <prefab>1abc3b6f-0b8e-4066-8288-48e5d06ac8c9</prefab>
-    <position>
-      <x>-770.665588378906</x>
-      <y>-766.368103027344</y>
-      <z>-311.962432861328</z>
-    </position>
-    <rotation>
-      <x>344.800201416016</x>
-      <y>-2.65417088485265E-06</y>
-      <z>126.400413513184</z>
-      <quaternion>
-        <x>0.0596302971243858</x>
-        <y>-0.118048921227455</y>
-        <z>-0.884746730327606</z>
-        <w>-0.446913778781891</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <xmlID>119dd141-c255-4586-ab8b-8fc6efc00786</xmlID>
-    <tech>SeamothFragment</tech>
-  </customprefab>
-  <customprefab>
-    <prefab>292ba610-ed40-461f-826b-7b2645b37b5f</prefab>
-    <position>
-      <x>-769.951538085938</x>
-      <y>-768.130065917969</y>
-      <z>-303.340454101563</z>
-    </position>
-    <rotation>
-      <x>0</x>
-      <y>193.600036621094</y>
-      <z>0</z>
-      <quaternion>
-        <x>0</x>
-        <y>0.992965459823608</y>
-        <z>0</z>
-        <w>-0.118404246866703</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <xmlID>a2067285-88c8-42f7-b36c-f78bb763c719</xmlID>
-    <tech>SeamothFragment</tech>
-  </customprefab>
-  <customprefab>
-    <prefab>1f5cee66-a02f-4693-a1bd-928c938c7e77</prefab>
-    <position>
-      <x>-766.744567871094</x>
-      <y>-768.406860351563</y>
-      <z>-312.468078613281</z>
-    </position>
-    <rotation>
-      <x>8.53773656217527E-07</x>
-      <y>203.999771118164</y>
-      <z>276.800476074219</z>
-      <quaternion>
-        <x>0.649414956569672</x>
-        <y>-0.731459975242615</y>
-        <z>-0.138036072254181</z>
-        <w>0.155475124716759</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <xmlID>826da40c-33a0-4ab3-ba84-e8d85da809f9</xmlID>
-    <tech>SeamothFragment</tech>
-  </customprefab>
-  <customprefab>
     <prefab>pda</prefab>
     <page>bkelpbase2</page>
     <position>
@@ -16370,24 +16292,5 @@
       <z>1</z>
     </scale>
     <xmlID>ce511211-f26f-451d-842e-a4762d044b6f</xmlID>
-  </customprefab>
-  <customprefab>
-    <prefab>powersealmodulefragment</prefab>
-    <position>
-      <x>-769.50</x>
-      <y>-767.92</y>
-      <z>-310.75</z>
-    </position>
-    <rotation>
-      <x>325</x>
-      <y>0</y>
-      <z>180</z>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1.3</y>
-      <z>1</z>
-    </scale>
-    <xmlID>60eb9bef-6509-48e1-873f-59eb811dda8e</xmlID>
   </customprefab>
 </Root>
