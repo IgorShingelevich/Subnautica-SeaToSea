@@ -6652,36 +6652,10 @@
     <xmlID>7a33ac47-c4de-4854-be31-6dc69e6f64fd</xmlID>
   </customprefab>
   <customprefab>
-    <prefab>VENT_CRYSTAL</prefab>
-    <position>
-      <x>939.533630371094</x>
-      <y>-347.903259277344</y>
-      <z>1443.25720214844</z>
-    </position>
-    <rotation>
-      <x>-4.26886828108763E-07</x>
-      <y>202.399276733398</y>
-      <z>33.2000122070313</z>
-      <quaternion>
-        <x>0.280247926712036</x>
-        <y>0.940072596073151</y>
-        <z>-0.0554887242615223</z>
-        <w>-0.186133161187172</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <xmlID>cb79aa5b-23cc-427d-9892-b0ef8ea58a65</xmlID>
-    <tech>VENT_CRYSTAL</tech>
-  </customprefab>
-  <customprefab>
-    <prefab>02684cd8-dac7-4f50-bc08-ba7f38631de3</prefab>
+    <prefab>MountainBaseCuredPeeper</prefab>
     <position>
       <x>934.374816894531</x>
-      <y>-347.541198730469</y>
+      <y>-347.6</y>
       <z>1445.9326171875</z>
     </position>
     <rotation>
@@ -6701,10 +6675,7 @@
       <z>1</z>
     </scale>
     <xmlID>7ca6c484-085b-45fb-b217-bbb61a3130b4</xmlID>
-    <tech>CuredPeeper</tech>
-	<objectManipulation>
-		<RemoveComponent>EcoTarget</RemoveComponent>
-	</objectManipulation>
+    <tech>MountainBaseCuredPeeper</tech>
   </customprefab>
   <customprefab>
     <prefab>a620b5d5-b413-4627-84b0-1e3a7c6bf5b6</prefab>
