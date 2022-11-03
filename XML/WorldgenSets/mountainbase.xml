@@ -6579,10 +6579,10 @@
     </part>
   </customprefab>
   <customprefab>
-    <prefab>a4004101-7007-4808-a4e9-2cdb0607bad8</prefab>
+    <prefab>UnmovingHeatBlade</prefab>
     <position>
       <x>951.846435546875</x>
-      <y>-348.588726806641</y>
+      <y>-348.80</y>
       <z>1457.28576660156</z>
     </position>
     <rotation>
@@ -6602,7 +6602,7 @@
       <z>1</z>
     </scale>
     <xmlID>85e06340-40f6-4a2e-bcf2-41df13291919</xmlID>
-    <tech>HeatBlade</tech>
+    <tech>UnmovingHeatBlade</tech>
   </customprefab>
   <customprefab>
     <prefab>pda</prefab>
