@@ -1164,7 +1164,7 @@
     </position>
   </customprefab>
   <customprefab>
-    <prefab>775feb4c-dab9-4322-b4a5-a4289ca1cf6a</prefab>
+    <prefab>SeaTreaderTunnelLocker</prefab>
     <position>
       <x>-1266.208984375</x>
       <y>-285.884948730469</y>
@@ -1187,55 +1187,6 @@
       <z>1</z>
     </scale>
     <tech>Locker</tech>
-	<objectManipulation>
-		<AddLockerContents>
-			<item>
-				<type>resource</type>
-				<name>TITANIUM</name>
-				<min>2</min>
-				<max>5</max>
-			</item>
-			<item>
-				<type>resource</type>
-				<name>RUBY</name>
-				<min>3</min>
-				<max>7</max>
-			</item>
-			<item>
-				<type>resource</type>
-				<name>DIAMOND</name>
-				<min>3</min>
-				<max>7</max>
-			</item>
-			<item>
-				<type>resource</type>
-				<name>GOLD</name>
-				<min>1</min>
-				<max>4</max>
-			</item>
-			<item>
-				<type>tech</type>
-				<name>CuredSpadefish</name>
-				<amount>4</amount>
-			</item>
-			<item>
-				<type>tech</type>
-				<name>CookedBladderfish</name>
-				<amount>3</amount>
-			</item>
-			<item>
-				<type>tech</type>
-				<name>FirstAidKit</name>
-				<amount>1</amount>
-			</item>
-			<item>
-				<type>tech</type>
-				<name>Melon</name>
-				<min>1</min>
-				<max>3</max>
-			</item>
-		</AddLockerContents>
-	</objectManipulation>
   </customprefab>
   <customprefab>
     <prefab>databox</prefab>
