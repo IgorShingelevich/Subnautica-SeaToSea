@@ -142,32 +142,6 @@
     <tech>StarshipCargoCrate</tech>
   </customprefab>
   <customprefab>
-    <prefab>databox</prefab>
-	<tech>PlanktonScoop</tech>
-    <position>
-      <x>332.92919921875</x>
-      <y>-277.639404296875</y>
-      <z>-1435.59887695313</z>
-    </position>
-    <rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-      <quaternion>
-        <x>0</x>
-        <y>0</y>
-        <z>0</z>
-        <w>1</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>0.75</x>
-      <y>0.75</y>
-      <z>0.75</z>
-    </scale>
-    <xmlID>1722aec8-b80d-4ca8-bb7e-ad1b50e5f44c</xmlID>
-  </customprefab>
-  <customprefab>
     <prefab>354ebf4e-def3-48a6-839d-bf0f478ca915</prefab>
     <position>
       <x>332.555480957031</x>
