@@ -1,6 +1,6 @@
 <Root>
   <customprefab>
-    <prefab>67744b32-93c2-4aba-8a18-ffb87204a8eb</prefab>
+    <prefab>SeaTreaderTunnelLight</prefab>
     <position>
       <x>-1313.16</x>
       <y>-326.58</y>
@@ -11,12 +11,63 @@
       <y>276.41</y>
       <z>0</z>
     </rotation>
-    <objectManipulation>
-      <ModifyLight>
-		<range>30</range>
-		<intensity>1.0</intensity>
-	  </ModifyLight>
-    </objectManipulation>
+  </customprefab>
+  <customprefab>
+    <prefab>SeaTreaderTunnelLight</prefab>
+    <position>
+      <x>-1506.99780273438</x>
+      <y>-328.046875</y>
+      <z>-812.477905273438</z>
+    </position>
+    <rotation>
+      <x>270</x>
+      <y>5.20028686523438</y>
+      <z>0</z>
+      <quaternion>
+        <x>0.706393480300903</x>
+        <y>-0.0320775844156742</y>
+        <z>-0.0320762544870377</z>
+        <w>-0.706364214420319</w>
+      </quaternion>
+    </rotation>
+  </customprefab>
+  <customprefab>
+    <prefab>SeaTreaderTunnelLight</prefab>
+    <position>
+      <x>-1348.27014160156</x>
+      <y>-326.354736328125</y>
+      <z>-955.228820800781</z>
+    </position>
+    <rotation>
+      <x>272.99951171875</x>
+      <y>0</y>
+      <z>0</z>
+      <quaternion>
+        <x>0.688357472419739</x>
+        <y>0</y>
+        <z>0</z>
+        <w>-0.725371658802032</w>
+      </quaternion>
+    </rotation>
+  </customprefab>
+  <customprefab>
+    <prefab>SeaTreaderTunnelLight</prefab>
+    <position>
+      <x>-1435.38403320313</x>
+      <y>-327.818542480469</y>
+      <z>-718.833312988281</z>
+    </position>
+    <rotation>
+      <x>272.398406982422</x>
+      <y>-6.12006697338074E-05</y>
+      <z>336.400299072266</z>
+      <quaternion>
+        <x>-0.677525281906128</x>
+        <y>-0.141541108489037</y>
+        <z>-0.147594049572945</z>
+        <w>0.706499516963959</w>
+      </quaternion>
+    </rotation>
   </customprefab>
   <customprefab>
     <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
