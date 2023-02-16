@@ -1,28 +1,48 @@
 <Root>
   <customprefab>
-    <prefab>databox</prefab>
+    <prefab>t2battery</prefab>
 	<tech>t2battery</tech>
     <position>
-      <x>370.728240966797</x>
-      <y>-92.8751525878906</y>
-      <z>1040.87365722656</z>
+      <x>372.181732177734</x>
+      <y>-92.8</y>
+      <z>1039.20068359375</z>
     </position>
     <rotation>
-      <x>0</x>
-      <y>249.999893188477</y>
-      <z>0</z>
+      <x>54.3581886291504</x>
+      <y>352.159301757813</y>
+      <z>29.7464923858643</z>
       <quaternion>
-        <x>0</x>
-        <y>0.819152593612671</y>
-        <z>0</z>
-        <w>-0.573575675487518</w>
+        <x>-0.424825102090836</x>
+        <y>0.175753712654114</y>
+        <z>-0.257988393306732</z>
+        <w>-0.849750757217407</w>
       </quaternion>
     </rotation>
     <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
+      <x>1.25</x>
+      <y>1.25</y>
+      <z>1.25</z>
     </scale>
+  </customprefab>
+  <customprefab>
+    <prefab>SeaTreaderTunnelLight</prefab>
+    <position>
+      <x>370.757659912109</x>
+      <y>-93.0719451904297</y>
+      <z>1040.82446289063</z>
+    </position>
+    <rotation>
+      <x>270.999145507813</x>
+      <y>0</y>
+      <z>0</z>
+      <quaternion>
+        <x>0.700911998748779</x>
+        <y>0</y>
+        <z>0</z>
+        <w>-0.713247716426849</w>
+      </quaternion>
+    </rotation>
+    <tech>SeaTreaderTunnelLight</tech>
   </customprefab>
   <customprefab>
     <prefab>crate</prefab>
@@ -277,10 +297,10 @@
     </scale>
   </customprefab>
   <customprefab>
-    <prefab>68462082-f714-4b5e-8d0d-623d2ec6058f</prefab>
+    <prefab>127f22a3-44cd-4341-adb8-8937317f53de</prefab>
     <position>
       <x>372.10107421875</x>
-      <y>-92.8125762939453</y>
+      <y>-92.9225762939453</y>
       <z>1036.31652832031</z>
     </position>
     <rotation>
