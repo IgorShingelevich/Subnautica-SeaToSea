@@ -276,19 +276,13 @@
 	<page>islandpda</page>
     <position>
       <x>298.588165283203</x>
-      <y>2.61933588981628</y>
+      <y>2.6</y>
       <z>1061.72619628906</z>
     </position>
     <rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>3.19999980926514</z>
-      <quaternion>
-        <x>0</x>
-        <y>0</y>
-        <z>0.0279216375201941</z>
-        <w>0.999610126018524</w>
-      </quaternion>
+      <x>357</x>
+      <y>10</y>
+      <z>8.19999980926514</z>
     </rotation>
     <scale>
       <x>1</x>
@@ -319,5 +313,85 @@
       <y>1</y>
       <z>1</z>
     </scale>
+  </customprefab>
+  <customprefab>
+    <prefab>783442e1-d2ad-4967-a452-722a01f20258</prefab>
+    <position>
+      <x>326.325653076172</x>
+      <y>9.07979011535645</y>
+      <z>1078.35864257813</z>
+    </position>
+    <rotation>
+      <x>30.7643814086914</x>
+      <y>314.173858642578</y>
+      <z>356.997741699219</z>
+      <quaternion>
+        <x>-0.254076778888702</x>
+        <y>0.36885792016983</y>
+        <z>-0.0799727067351341</z>
+        <w>-0.89050167798996</w>
+      </quaternion>
+    </rotation>
+    <tech>SolarPanel</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>8949b0da-5173-431f-a989-e621af02f942</prefab>
+    <position>
+      <x>316.590606689453</x>
+      <y>5.94402313232422</y>
+      <z>1070.08752441406</z>
+    </position>
+    <rotation>
+      <x>8.43244361877441</x>
+      <y>223.826538085938</y>
+      <z>344.182769775391</z>
+      <quaternion>
+        <x>-0.154483839869499</x>
+        <y>0.912663698196411</y>
+        <z>-0.0163487307727337</z>
+        <w>-0.378037631511688</w>
+      </quaternion>
+    </rotation>
+    <tech>PowerTransmitter</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>8949b0da-5173-431f-a989-e621af02f942</prefab>
+    <position>
+      <x>311.662506103516</x>
+      <y>4.62644577026367</y>
+      <z>1062.2705078125</z>
+    </position>
+    <rotation>
+      <x>12.8024644851685</x>
+      <y>223.689346313477</y>
+      <z>348.357391357422</z>
+      <quaternion>
+        <x>-0.134827047586441</x>
+        <y>0.913444757461548</y>
+        <z>-0.0654466450214386</z>
+        <w>-0.378361165523529</w>
+      </quaternion>
+    </rotation>
+    <tech>PowerTransmitter</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>31632661-2814-4148-bb20-1b0602e71b90</prefab>
+    <position>
+      <x>310.900939941406</x>
+      <y>4.38437080383301</y>
+      <z>1061.52770996094</z>
+    </position>
+    <rotation>
+      <x>346.138214111328</x>
+      <y>90.2253646850586</y>
+      <z>358.146209716797</z>
+      <quaternion>
+        <x>-0.0965264067053795</x>
+        <y>0.701849102973938</y>
+        <z>0.0741518661379814</z>
+        <w>0.701849102973938</w>
+      </quaternion>
+    </rotation>
+    <tech>Techlight</tech>
   </customprefab>
 </Root>
