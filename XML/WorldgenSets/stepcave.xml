@@ -1,0 +1,29 @@
+<Root>
+  <customprefab>
+    <prefab>crate</prefab>
+	<item>PowerCell</item>
+	<sealed>true</sealed>
+    <position>
+      <x>54.0318336486816</x>
+      <y>-130.997787475586</y>
+      <z>-609.313903808594</z>
+    </position>
+    <rotation>
+      <x>13.5997772216797</x>
+      <y>93.6000900268555</y>
+      <z>350.400146484375</z>
+      <quaternion>
+        <x>-0.0201989337801933</x>
+        <y>-0.728085041046143</y>
+        <z>0.14288629591465</z>
+        <w>-0.670125246047974</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>cb2dc051-96ba-4dc6-8e4e-59835605f66c</xmlID>
+  </customprefab>
+</Root>

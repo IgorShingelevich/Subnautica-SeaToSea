@@ -134,4 +134,56 @@
     </scale>
     <xmlID>91e5f37a-fc8a-42f9-be71-c51169755f7c</xmlID>
   </customprefab>
+  <customprefab>
+	<prefab>fragment</prefab>
+    <tech>bioprocessor</tech>
+    <index>1</index>
+    <position>
+      <x>692.857360839844</x>
+      <y>-348.503082275391</y>
+      <z>1190.7587890625</z>
+    </position>
+    <rotation>
+      <x>32.0001182556152</x>
+      <y>-3.02025841847353E-06</y>
+      <z>329.200286865234</z>
+      <quaternion>
+        <x>-0.265741854906082</x>
+        <y>-0.0731967687606812</y>
+        <z>0.255266547203064</z>
+        <w>-0.926748335361481</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.25</x>
+      <y>0.25</y>
+      <z>0.5</z>
+    </scale>
+  </customprefab>
+  <customprefab>
+	<prefab>fragment</prefab>
+    <tech>bioprocessor</tech>
+    <index>2</index>
+    <position>
+      <x>683.474853515625</x>
+      <y>-357.112762451172</y>
+      <z>1216.05224609375</z>
+    </position>
+    <rotation>
+      <x>33.6001510620117</x>
+      <y>1.02503713605984E-06</y>
+      <z>327.200378417969</z>
+      <quaternion>
+        <x>-0.277273714542389</x>
+        <y>-0.0816051140427589</y>
+        <z>0.270287871360779</z>
+        <w>-0.918370485305786</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </customprefab>
 </Root>
