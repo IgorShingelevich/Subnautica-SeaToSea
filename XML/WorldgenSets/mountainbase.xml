@@ -6627,6 +6627,32 @@
   </customprefab>
   <customprefab>
     <prefab>databox</prefab>
+    <tech>BaseBattery</tech>
+    <position>
+      <x>962.577514648438</x>
+      <y>-348.277893066406</y>
+      <z>1469.90124511719</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>257.999877929688</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0.777146637439728</y>
+        <z>0</z>
+        <w>-0.629319548606873</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.75</x>
+      <y>0.75</y>
+      <z>0.75</z>
+    </scale>
+    <xmlID>1f4c9264-e33b-45fb-bb37-0ad44025a47a</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>databox</prefab>
     <tech>SeamothVoidStealth</tech>
     <position>
       <x>938.313537597656</x>
