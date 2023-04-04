@@ -16293,4 +16293,30 @@
     </scale>
     <xmlID>ce511211-f26f-451d-842e-a4762d044b6f</xmlID>
   </customprefab>
+  <customprefab>
+    <prefab>DataChit_bioprocessorBoost</prefab>
+    <position>
+      <x>-1326.15368652344</x>
+      <y>-661.344604492188</y>
+      <z>-391.543365478516</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>38.0001106262207</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>-0.325569063425064</y>
+        <z>0</z>
+        <w>-0.945518314838409</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.400000005960464</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>166e77f9-b344-49bf-88b2-df4173f65b98</xmlID>
+    <tech>DataChit_bulkheadLaserCutterUpgrade</tech>
+  </customprefab>
 </Root>
