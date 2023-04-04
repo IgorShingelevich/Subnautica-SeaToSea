@@ -26,6 +26,7 @@
   </customprefab>
   <customprefab>
     <prefab>DataChit_bulkheadLaserCutterUpgrade</prefab>
+    <tech>DataChit_bulkheadLaserCutterUpgrade</tech>
     <position>
       <x>-854.027709960938</x>
       <y>-92.9109802246094</y>
@@ -47,7 +48,6 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <tech>DataChit_bulkheadLaserCutterUpgrade</tech>
   </customprefab>
   <customprefab>
     <prefab>treepda</prefab>

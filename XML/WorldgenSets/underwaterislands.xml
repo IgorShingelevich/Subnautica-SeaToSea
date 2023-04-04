@@ -2,19 +2,19 @@
   <customprefab>
     <prefab>1618a787-67b7-4e35-9869-3ec558ed2835</prefab>
     <position>
-      <x>-123.256217956543</x>
-      <y>-499.094512939453</y>
-      <z>899.922668457031</z>
+      <x>-125.856147766113</x>
+      <y>-494.840698242188</y>
+      <z>944.20751953125</z>
     </position>
     <rotation>
-      <x>0</x>
-      <y>323.999938964844</y>
-      <z>258.199340820313</z>
+      <x>10.0002136230469</x>
+      <y>74.597785949707</y>
+      <z>258.599243164063</z>
       <quaternion>
-        <x>0.239813029766083</x>
-        <y>-0.194888487458229</y>
-        <z>-0.738067328929901</z>
-        <w>0.599804043769836</w>
+        <x>0.423230797052383</x>
+        <y>-0.436000674962997</y>
+        <z>0.646691083908081</z>
+        <w>-0.461052983999252</w>
       </quaternion>
     </rotation>
     <scale>
@@ -23,57 +23,55 @@
       <z>1.00000047683716</z>
     </scale>
     <objectManipulation>
-      <DeleteChildObject>Slots</DeleteChildObject>
-      <DeleteChildObject>Starship_exploded_debris_*</DeleteChildObject>
-      <DeleteChildObject>Starship_cargo_*</DeleteChildObject>
-      <DeleteChildObject>ExteriorEntities/ExplorableWreckHull01</DeleteChildObject>
-      <DeleteChildObject>ExteriorEntities/ExplorableWreckHull02</DeleteChildObject>
-      <DeleteChildObject>*DataBox*</DeleteChildObject>
-      <DeleteChildObject>*Spawner*</DeleteChildObject>
-      <DeleteChildObject>*starship_work*</DeleteChildObject>
-      <DeleteChildObject>*trashcans*</DeleteChildObject>
-      <DeleteChildObject>*planter*</DeleteChildObject>
-      <DeleteChildObject>*PDA*</DeleteChildObject>
+      <AddComponent>ReikaKalseki.SeaToSea.GlassForestWreck</AddComponent>
       <WreckDoorSwaps>
 		<door>
 			<position>
-			  <x>-108.7</x>
-			  <y>-503.1</y>
-			  <z>890.7</z>
+			  <x>-140.01</x>
+			  <y>-495.99</y>
+			  <z>933.75</z>
 			</position>
 			<type>Blocked</type>
 		</door>
 		<door>
 			<position>
-			  <x>-109.7</x>
-			  <y>-508.4</y>
-			  <z>890.0</z>
+			  <x>-141.19</x>
+			  <y>-501.24</y>
+			  <z>934.54</z>
 			</position>
-			<type>Blocked</type>
+			<type>Openable</type>
 		</door>
 		<door>
 			<position>
-			  <x>-112.3</x>
-			  <y>-505.6</y>
-			  <z>894.7</z>
+			  <x>-135.46</x>
+			  <y>-499.45</y>
+			  <z>935.53</z>
 			</position>
 			<type>Handle</type>
 		</door>
 		<door>
 			<position>
-			  <x>-125.9</x>
-			  <y>-498.9</y>
-			  <z>904.5</z>
+			  <x>-120.66</x>
+			  <y>-495.63</y>
+			  <z>945.14</z>
 			</position>
 			<type>Laser</type>
 		</door>
 		<door>
 			<position>
-			  <x>-115.7</x>
-			  <y>-506.1</y>
-			  <z>899.1</z>
+			  <x>-130.33</x>
+			  <y>-500.80</y>
+			  <z>937.03</z>
 			</position>
 			<type>Openable</type>
+		</door>
+		<door>
+			<position>
+			  <x>-136.65</x>
+			  <y>-504.80</y>
+			  <z>936.36</z>
+			</position>
+			<type>Delete</type>
 		</door>
 	  </WreckDoorSwaps>
     </objectManipulation>
@@ -82,19 +80,19 @@
   <customprefab>
     <prefab>354ebf4e-def3-48a6-839d-bf0f478ca915</prefab>
     <position>
-      <x>-107.699020385742</x>
-      <y>-509.324920654297</y>
-      <z>894.925598144531</z>
+      <x>-110.297492980957</x>
+      <y>-505.038635253906</y>
+      <z>939.253173828125</z>
     </position>
     <rotation>
-      <x>5.60000658035278</x>
-      <y>5.89784178828268E-07</y>
-      <z>350.400146484375</z>
+      <x>15.6000909805298</x>
+      <y>110.597648620605</y>
+      <z>350.800109863281</z>
       <quaternion>
-        <x>-0.0486785024404526</x>
-        <y>-0.00408758828416467</y>
-        <z>0.0835766270756722</z>
-        <w>-0.995303273200989</w>
+        <x>-0.0116905868053436</x>
+        <y>-0.818098485469818</y>
+        <z>0.15645144879818</z>
+        <w>-0.553264141082764</w>
       </quaternion>
     </rotation>
     <scale>
@@ -109,19 +107,19 @@
     <prefab>databox</prefab>
     <tech>breathfluid</tech>
     <position>
-      <x>-107.5</x>
-      <y>-508.1</y>
-      <z>894.8</z>
+      <x>-138.367340087891</x>
+      <y>-505.586669921875</y>
+      <z>933.917907714844</z>
     </position>
     <rotation>
-      <x>349.200134277344</x>
-      <y>209.999923706055</y>
-      <z>4.40000772476196</z>
+      <x>0</x>
+      <y>186.999954223633</y>
+      <z>0</z>
       <quaternion>
-        <x>-0.0612539798021317</x>
-        <y>-0.959995448589325</y>
-        <z>-0.0809420794248581</z>
-        <w>0.260969281196594</w>
+        <x>0</x>
+        <y>0.998134851455688</y>
+        <z>0</z>
+        <w>-0.0610481202602386</w>
       </quaternion>
     </rotation>
     <scale>
@@ -136,19 +134,19 @@
     <tech>bioprocessor</tech>
     <index>0</index>
     <position>
-      <x>-111.360397338867</x>
-      <y>-508.331573486328</y>
-      <z>900.254638671875</z>
+      <x>-113.977256774902</x>
+      <y>-504.4</y>
+      <z>944.506164550781</z>
     </position>
     <rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>194.000076293945</z>
+      <x>10.0002136230469</x>
+      <y>110.597640991211</y>
+      <z>194.40007019043</z>
       <quaternion>
-        <x>0</x>
-        <y>0</y>
-        <z>0.992546081542969</z>
-        <w>-0.121870003640652</w>
+        <x>0.806326687335968</x>
+        <y>-0.151876106858253</y>
+        <z>0.571638822555542</z>
+        <w>9.48458909988403E-06</w>
       </quaternion>
     </rotation>
     <scale>
@@ -163,46 +161,19 @@
     <tech>bioprocessor</tech>
     <index>1</index>
     <position>
-      <x>-115.465362548828</x>
-      <y>-507.802307128906</y>
-      <z>895.685546875</z>
+      <x>-124.457534790039</x>
+      <y>-504.527160644531</y>
+      <z>934.278564453125</z>
     </position>
     <rotation>
-      <x>7.60006189346313</x>
-      <y>-5.38337587840942E-08</y>
-      <z>172.000076293945</z>
+      <x>270</x>
+      <y>345.000823974609</y>
+      <z>0</z>
       <quaternion>
-        <x>0.00462302705273032</x>
-        <y>-0.0661129951477051</y>
-        <z>0.995370924472809</z>
-        <w>0.0696024596691132</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>0.25</x>
-      <y>0.25</y>
-      <z>0.5</z>
-    </scale>
-    <xmlID>cd647ca0-454c-4dd5-8f5e-7449bc4334b7</xmlID>
-  </customprefab>
-  <customprefab>
-	<prefab>fragment</prefab>
-    <tech>bioprocessor</tech>
-    <index>1</index>
-    <position>
-      <x>-115.635604858398</x>
-      <y>-508.938629150391</y>
-      <z>906.063720703125</z>
-    </position>
-    <rotation>
-      <x>89.0687484741211</x>
-      <y>252.998565673828</y>
-      <z>179.998321533203</z>
-      <quaternion>
-        <x>0.573011696338654</x>
-        <y>0.417172819375992</y>
-        <z>-0.424007177352905</z>
-        <w>0.563775062561035</w>
+        <x>-0.70105654001236</x>
+        <y>-0.092291034758091</y>
+        <z>-0.0922904908657074</z>
+        <w>0.701059699058533</w>
       </quaternion>
     </rotation>
     <scale>
@@ -238,5 +209,193 @@
       <z>1</z>
     </scale>
     <xmlID>e1a5f686-6ce8-4d7a-9892-3998901a9557</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>databox</prefab>
+    <tech>SeaMothSpeed</tech>
+    <position>
+      <x>-127.836456298828</x>
+      <y>-491.546936035156</y>
+      <z>939.8828125</z>
+    </position>
+    <rotation>
+      <x>15.1093549728394</x>
+      <y>188.674087524414</y>
+      <z>12.3967475891113</z>
+      <quaternion>
+        <x>0.0968431755900383</x>
+        <y>0.983776092529297</y>
+        <z>-0.138423666357994</z>
+        <w>-0.0603742636740208</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>0.75</x>
+      <y>0.75</y>
+      <z>0.75</z>
+    </scale>
+  </customprefab>
+  <customprefab>
+    <prefab>ObjectDeleter</prefab>
+    <position>
+      <x>-107.5</x>
+      <y>-508.1</y>
+      <z>894.8</z>
+    </position>
+    <scale>
+      <x>4</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </customprefab>
+  <customprefab>
+    <prefab>644fe732-6ca3-49a3-813d-45d8c6586967</prefab>
+    <position>
+      <x>-136.175704956055</x>
+      <y>-504.870971679688</y>
+      <z>934.025268554688</z>
+    </position>
+    <rotation>
+      <x>356.999969482422</x>
+      <y>9.61813498179254E-07</y>
+      <z>117.800071716309</z>
+      <quaternion>
+        <x>0.013521371409297</x>
+        <y>-0.0224146787077188</y>
+        <z>-0.855973958969116</z>
+        <w>-0.516355812549591</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>6b2d4d96-47ec-4c35-a026-9ab96df6ff3d</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>644fe732-6ca3-49a3-813d-45d8c6586967</prefab>
+    <position>
+      <x>-136.98095703125</x>
+      <y>-504.801330566406</y>
+      <z>934.230712890625</z>
+    </position>
+    <rotation>
+      <x>15.4385395050049</x>
+      <y>87.7876968383789</y>
+      <z>217.983978271484</z>
+      <quaternion>
+        <x>0.618141651153564</x>
+        <y>-0.315112978219986</y>
+        <z>0.705529749393463</z>
+        <w>-0.144334748387337</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>490ae336-87e5-45a7-8cd1-2419235e1bf0</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>7ec3cd94-4981-4877-be57-e7bfdfbbce00</prefab>
+    <position>
+      <x>-136.480346679688</x>
+      <y>-505.741851806641</y>
+      <z>934.077453613281</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>307.999877929688</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0.438372015953064</y>
+        <z>0</z>
+        <w>-0.898793578147888</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>57c74845-5ad5-45f2-a2cc-7ed8b34c45e8</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>8bf37c44-ba49-4def-a82b-dc5b65bf6fb3</prefab>
+    <position>
+      <x>-136.696563720703</x>
+      <y>-503.930969238281</y>
+      <z>935.89306640625</z>
+    </position>
+    <rotation>
+      <x>2.5758912563324</x>
+      <y>345.217742919922</y>
+      <z>279.66552734375</z>
+      <quaternion>
+        <x>0.0999892428517342</x>
+        <y>-0.0839012488722801</y>
+        <z>-0.637290120124817</z>
+        <w>0.759489297866821</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>b70ea93e-1658-48ea-a381-d45066a80756</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>99c0da07-a612-4cb7-9e16-e2e6bd3d6207</prefab>
+    <position>
+      <x>-135.758682250977</x>
+      <y>-505.164733886719</y>
+      <z>934.941650390625</z>
+    </position>
+    <rotation>
+      <x>358.05126953125</x>
+      <y>13.0076208114624</y>
+      <z>328.549896240234</z>
+      <quaternion>
+        <x>-0.0469571724534035</x>
+        <y>0.104435175657272</y>
+        <z>-0.267384022474289</z>
+        <w>0.956762254238129</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>4506414e-949b-4c22-aa1d-54c7e808d7bd</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>afc1cadd-6441-43c9-8d58-3eddd3289af1</prefab>
+    <position>
+      <x>-135.10693359375</x>
+      <y>-507.156341552734</y>
+      <z>932.740295410156</z>
+    </position>
+    <rotation>
+      <x>355.927703857422</x>
+      <y>98.0320663452148</y>
+      <z>100.714164733887</z>
+      <quaternion>
+        <x>-0.566060662269592</x>
+        <y>-0.499262005090714</y>
+        <z>-0.521819293498993</z>
+        <w>-0.39751398563385</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>d697d5a9-b1b1-4db8-a669-561620a6f954</xmlID>
   </customprefab>
 </Root>
