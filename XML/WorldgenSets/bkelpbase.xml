@@ -16057,7 +16057,7 @@
       <tech>bioprocessor</tech>
       <inventory>
         <item>
-          <type>SeaTreaderPoop</type>
+          <type>MiniPoop</type>
           <amount>6</amount>
         </item>
       </inventory>
