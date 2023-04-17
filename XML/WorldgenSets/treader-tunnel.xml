@@ -1202,31 +1202,14 @@
       <z>-736</z>
     </position>
   </customprefab>
-  <customprefab>
-    <prefab>SeaTreaderTunnelLocker</prefab>
+  <generator>
+    <type>ReikaKalseki.SeaToSea.SeaTreaderTunnelLocker</type>
     <position>
-      <x>-1266.208984375</x>
-      <y>-285.884948730469</y>
-      <z>-728.318115234375</z>
+      <x>-1264.9</x>
+      <y>-285.2</y>
+      <z>-722.3</z>
     </position>
-    <rotation>
-      <x>359.133911132813</x>
-      <y>136.19367980957</y>
-      <z>1.23064124584198</z>
-      <quaternion>
-        <x>-0.00714443624019623</x>
-        <y>-0.927766025066376</y>
-        <z>-0.0110179912298918</z>
-        <w>-0.372931480407715</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <tech>Locker</tech>
-  </customprefab>
+  </generator>
   <customprefab>
     <prefab>databox</prefab>
 	<tech>VehicleHullModule2</tech>
