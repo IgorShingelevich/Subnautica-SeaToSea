@@ -398,4 +398,25 @@
     </scale>
     <xmlID>d697d5a9-b1b1-4db8-a669-561620a6f954</xmlID>
   </customprefab>
+  <customprefab>
+    <prefab>fallingwreck</prefab>
+    <position>
+      <x>-148.01155090332</x>
+      <y>-202.762405395508</y>
+      <z>847.5029296875</z>
+    </position>
+    <rotation>
+      <x>358.400024414063</x>
+      <y>69.9999694824219</y>
+      <z>5.87198314860871E-07</z>
+      <quaternion>
+        <x>0.0114369718357921</x>
+        <y>-0.573520302772522</y>
+        <z>-0.008008255623281</z>
+        <w>-0.819072365760803</w>
+      </quaternion>
+    </rotation>
+    <xmlID>fe74b5c0-e0f3-4ef8-b19e-17e9820f1b88</xmlID>
+    <tech>fallingwreck</tech>
+  </customprefab>
 </Root>
