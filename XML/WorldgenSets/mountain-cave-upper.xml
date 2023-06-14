@@ -572,4 +572,44 @@
       <z>1</z>
     </scale>
   </customprefab>
+  <customprefab>
+    <prefab>08a95141-7c00-4d55-b582-306fa2e217ed</prefab>
+    <position>
+      <x>984.450622558594</x>
+      <y>-272.29541015625</y>
+      <z>1375.54541015625</z>
+    </position>
+    <rotation>
+      <x>348.999969482422</x>
+      <y>43.9999084472656</y>
+      <z>1.04370428744005E-05</z>
+      <quaternion>
+        <x>0.0888669192790985</x>
+        <y>-0.372881233692169</y>
+        <z>-0.0359045825898647</z>
+        <w>-0.922915577888489</w>
+      </quaternion>
+    </rotation>
+    <xmlID>60e616cf-212f-449c-ba79-0aa962960523</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>0c65ee6e-a84a-4989-a846-19eb53c13071</prefab>
+    <position>
+      <x>984.418884277344</x>
+      <y>-272.554901123047</y>
+      <z>1372.76525878906</z>
+    </position>
+    <rotation>
+      <x>346.999969482422</x>
+      <y>321.999877929688</y>
+      <z>203.999938964844</z>
+      <quaternion>
+        <x>-0.29415374994278</x>
+        <y>0.171951279044151</y>
+        <z>0.926573932170868</z>
+        <w>-0.159269943833351</w>
+      </quaternion>
+    </rotation>
+    <xmlID>b005124a-cce6-4e7d-a3ea-3c124844b9a5</xmlID>
+  </customprefab>
 </Root>
