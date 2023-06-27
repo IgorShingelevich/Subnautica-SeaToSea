@@ -58,7 +58,7 @@
     </rotation>
   </customprefab>
   <customprefab>
-    <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
+    <prefab>DeadMelon</prefab>
     <position>
       <x>-1257.55395507813</x>
       <y>-287.433502197266</y>
@@ -80,16 +80,10 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <objectManipulation>
-      <RemoveComponent>Pickupable</RemoveComponent>
-      <RemoveComponent>PickPrefab</RemoveComponent>
-      <RemoveComponent>LiveMixin</RemoveComponent>
-      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
-    </objectManipulation>
-	<tech>MelonPlant</tech>
+	<tech>DeadMelon</tech>
   </customprefab>
   <customprefab>
-    <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
+    <prefab>DeadMelon</prefab>
     <position>
       <x>-1258.09167480469</x>
       <y>-287.340667724609</y>
@@ -111,16 +105,10 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <objectManipulation>
-      <RemoveComponent>Pickupable</RemoveComponent>
-      <RemoveComponent>PickPrefab</RemoveComponent>
-      <RemoveComponent>LiveMixin</RemoveComponent>
-      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
-    </objectManipulation>
-	<tech>MelonPlant</tech>
+	<tech>DeadMelon</tech>
   </customprefab>
   <customprefab>
-    <prefab>a966a14f-d188-4de4-a488-f2c0302ca250</prefab>
+    <prefab>DeadMelon</prefab>
     <position>
       <x>-1259.45458984375</x>
       <y>-287.014099121094</y>
@@ -142,16 +130,10 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <objectManipulation>
-      <RemoveComponent>Pickupable</RemoveComponent>
-      <RemoveComponent>PickPrefab</RemoveComponent>
-      <RemoveComponent>LiveMixin</RemoveComponent>
-      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
-    </objectManipulation>
-	<tech>MelonPlant</tech>
+	<tech>DeadMelon</tech>
   </customprefab>
   <customprefab>
-    <prefab>e9445fdf-fbae-49dc-a005-48c05bf9f401</prefab>
+    <prefab>DeadMelon</prefab>
     <position>
       <x>-1259.26965332031</x>
       <y>-287.420776367188</y>
@@ -173,13 +155,7 @@
       <y>1</y>
       <z>1</z>
     </scale>
-    <objectManipulation>
-      <RemoveComponent>Pickupable</RemoveComponent>
-      <RemoveComponent>PickPrefab</RemoveComponent>
-      <RemoveComponent>LiveMixin</RemoveComponent>
-      <AddComponent>ReikaKalseki.SeaToSea.UnpickablePlant</AddComponent>
-    </objectManipulation>
-	<tech>MelonPlant</tech>
+	<tech>DeadMelon</tech>
   </customprefab>
   <customprefab>
     <prefab>57f06434-b847-4f08-9dac-cabb339ad526</prefab>
