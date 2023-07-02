@@ -45,6 +45,26 @@
     <tech>SeaTreaderTunnelLight</tech>
   </customprefab>
   <customprefab>
+    <prefab>SeaTreaderTunnelLight</prefab>
+    <position>
+      <x>339.530822753906</x>
+      <y>5.89603042602539</y>
+      <z>1023.46002197266</z>
+    </position>
+    <rotation>
+      <x>274.727752685547</x>
+      <y>273.737762451172</y>
+      <z>85.8481979370117</z>
+      <quaternion>
+        <x>-0.704493999481201</x>
+        <y>-0.0316489264369011</y>
+        <z>0.0265436340123415</z>
+        <w>0.708506882190704</w>
+      </quaternion>
+    </rotation>
+    <tech>SeaTreaderTunnelLight</tech>
+  </customprefab>
+  <customprefab>
     <prefab>crate</prefab>
 	<item>FirstAidKit</item>
     <position>
@@ -293,19 +313,19 @@
   <customprefab>
     <prefab>127f22a3-44cd-4341-adb8-8937317f53de</prefab>
     <position>
-      <x>372.10107421875</x>
-      <y>-92.9225762939453</y>
-      <z>1036.31652832031</z>
+      <x>341.505706787109</x>
+      <y>-65.9713897705078</y>
+      <z>967.862487792969</z>
     </position>
     <rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
+      <x>4.40001249313354</x>
+      <y>5.10392983844692E-14</y>
+      <z>1.10268611024367E-05</z>
       <quaternion>
-        <x>0</x>
-        <y>0</y>
-        <z>0</z>
-        <w>1</w>
+        <x>0.0383879169821739</x>
+        <y>-3.6939735714725E-09</y>
+        <z>9.61565902457551E-08</z>
+        <w>0.999262928962708</w>
       </quaternion>
     </rotation>
     <scale>
@@ -393,5 +413,109 @@
       </quaternion>
     </rotation>
     <tech>Techlight</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>e7c097ac-e7be-4808-aaaa-70178d96f68b</prefab>
+    <position>
+      <x>335.321502685547</x>
+      <y>-66.0163497924805</y>
+      <z>948.696044921875</z>
+    </position>
+    <rotation>
+      <x>355.200073242188</x>
+      <y>0</y>
+      <z>353.200103759766</z>
+      <quaternion>
+        <x>-0.041801244020462</x>
+        <y>-0.00248341774567962</y>
+        <z>-0.0592535510659218</z>
+        <w>0.997364282608032</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>eea80d94-3688-4d06-920e-bfd23ce9812a</xmlID>
+    <tech>DrillableDiamond</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>e7c097ac-e7be-4808-aaaa-70178d96f68b</prefab>
+    <position>
+      <x>353.084655761719</x>
+      <y>-66.1906204223633</y>
+      <z>944.783996582031</z>
+    </position>
+    <rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <quaternion>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>b244e540-a402-4a7e-8695-91cc689a5375</xmlID>
+    <tech>DrillableDiamond</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>e7c097ac-e7be-4808-aaaa-70178d96f68b</prefab>
+    <position>
+      <x>340.725250244141</x>
+      <y>-121.104873657227</y>
+      <z>984.273376464844</z>
+    </position>
+    <rotation>
+      <x>357.200042724609</x>
+      <y>-5.34246282768436E-07</y>
+      <z>11.2000303268433</z>
+      <quaternion>
+        <x>0.0243152063339949</x>
+        <y>-0.00238412851467729</y>
+        <z>-0.0975540354847908</z>
+        <w>-0.994930326938629</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>51a4d805-feda-42a8-8401-3cff22f65914</xmlID>
+    <tech>DrillableDiamond</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>e7c097ac-e7be-4808-aaaa-70178d96f68b</prefab>
+    <position>
+      <x>303.321502685547</x>
+      <y>-47.6258659362793</y>
+      <z>1065.51049804688</z>
+    </position>
+    <rotation>
+      <x>338.153717041016</x>
+      <y>2.65994453430176</y>
+      <z>350.475158691406</z>
+      <quaternion>
+        <x>0.190678998827934</x>
+        <y>-0.0069829341955483</y>
+        <z>0.0771150067448616</z>
+        <w>-0.97859388589859</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>2e38c27a-9490-4443-bc79-b7760e1b5c88</xmlID>
+    <tech>DrillableDiamond</tech>
   </customprefab>
 </Root>

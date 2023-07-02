@@ -1226,4 +1226,30 @@
       </quaternion>
     </rotation>
   </customprefab>
+  <customprefab>
+    <prefab>171c6a5b-879b-4785-be7a-6584b2c8c442</prefab>
+    <position>
+      <x>-1225.76025390625</x>
+      <y>-282.984375</y>
+      <z>-670.791442871094</z>
+    </position>
+    <rotation>
+      <x>279.593383789063</x>
+      <y>200.978912353516</y>
+      <z>142.000091552734</z>
+      <quaternion>
+        <x>-0.748339712619781</x>
+        <y>-0.133385509252548</y>
+        <z>-0.0751718431711197</z>
+        <w>0.645403027534485</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1.79999995231628</x>
+      <y>1.79999995231628</y>
+      <z>1.79999995231628</z>
+    </scale>
+    <xmlID>72eceef8-ba39-4222-a6bd-70c8d1aa0fd7</xmlID>
+    <tech>PurpleBrainCoral</tech>
+  </customprefab>
 </Root>
