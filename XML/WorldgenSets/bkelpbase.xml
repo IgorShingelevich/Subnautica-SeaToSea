@@ -12262,7 +12262,7 @@
       <tech>PlanterBox</tech>
       <inventory>
         <item>
-          <type>HangingFruit</type>
+          <type>PurpleVegetable</type>
           <amount>4</amount>
         </item>
       </inventory>
