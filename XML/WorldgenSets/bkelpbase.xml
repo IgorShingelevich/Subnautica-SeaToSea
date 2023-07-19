@@ -1954,32 +1954,6 @@
           </scale>
           <xmlID>2b3f3e19-cc43-40c2-bf05-d302533f419c</xmlID>
         </component>
-        <component>
-          <piece>ConnectorLadder</piece>
-          <prefab>basePart</prefab>
-          <position>
-            <x>-1310.21667480469</x>
-            <y>-664.10107421875</y>
-            <z>-408.860443115234</z>
-          </position>
-          <rotation>
-            <x>0</x>
-            <y>109.714179992676</y>
-            <z>0</z>
-            <quaternion>
-              <x>0</x>
-              <y>0.817718863487244</y>
-              <z>0</z>
-              <w>0.575617790222168</w>
-            </quaternion>
-          </rotation>
-          <scale>
-            <x>1</x>
-            <y>1</y>
-            <z>1</z>
-          </scale>
-          <xmlID>238ad52c-1dbc-43d3-b335-3d38840f175b</xmlID>
-        </component>
       </cellData>
     </part>
     <part>
@@ -13019,20 +12993,14 @@
           <piece>RoomLadderTop</piece>
           <prefab>basePart</prefab>
           <position>
-            <x>-1328.89343261719</x>
-            <y>-664.10107421875</y>
-            <z>-391.545318603516</z>
+            <x>-1328.29</x>
+            <y>-662.78</y>
+            <z>-391.76</z>
           </position>
           <rotation>
-            <x>0</x>
+            <x>340</x>
             <y>109.714179992676</y>
             <z>0</z>
-            <quaternion>
-              <x>0</x>
-              <y>0.817718863487244</y>
-              <z>0</z>
-              <w>0.575617790222168</w>
-            </quaternion>
           </rotation>
           <scale>
             <x>1</x>
@@ -16312,5 +16280,40 @@
     </scale>
     <xmlID>166e77f9-b344-49bf-88b2-df4173f65b98</xmlID>
     <tech>DataChit_bulkheadLaserCutterUpgrade</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>31632661-2814-4148-bb20-1b0602e71b90</prefab>
+    <position>
+      <x>-1310.3349609375</x>
+      <y>-663.534301757813</y>
+      <z>-408.943817138672</z>
+    </position>
+    <rotation>
+      <x>18.0000762939453</x>
+      <y>72.8006591796875</y>
+      <z>1.4363377886184E-05</z>
+      <quaternion>
+        <x>0.125913202762604</x>
+        <y>0.586117386817932</y>
+        <z>-0.0928321704268456</z>
+        <w>0.794980823993683</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <xmlID>74791727-4960-423c-89ae-27d5c1d8ffa3</xmlID>
+    <tech>Techlight</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>BloodKelpBaseNuclearReactorMelter</prefab>
+    <position>
+      <x>-1310.3349609375</x>
+      <y>-663.534301757813</y>
+      <z>-408.943817138672</z>
+    </position>
+    <tech>BloodKelpBaseNuclearReactorMelter</tech>
   </customprefab>
 </Root>
