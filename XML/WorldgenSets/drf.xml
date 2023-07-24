@@ -46,17 +46,6 @@
       <y>1</y>
       <z>1</z>
     </scale>
-	<objectManipulation>
-		<AddChild>
-			<prefab>e7f2eca3-9e86-4e9c-aa76-0b08bcc7a82c</prefab>
-			<name>tabletLight</name>
-			<position>
-			  <x>0</x>
-			  <y>0.3</y>
-			  <z>0</z>
-			</position>
-		</AddChild>
-	</objectManipulation>
   </customprefab>
   <customprefab>
     <prefab>81cf2223-455d-4400-bac3-a5bcd02b3638</prefab>
