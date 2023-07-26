@@ -3136,20 +3136,14 @@
     <part>
       <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
       <position>
-        <x>1313.23547363281</x>
-        <y>-78.6860580444336</y>
-        <z>-416.143310546875</z>
+        <x>1312.6</x>
+        <y>-80.5</y>
+        <z>-415.14</z>
       </position>
       <rotation>
-        <x>0</x>
-        <y>39.145866394043</y>
-        <z>0</z>
-        <quaternion>
-          <x>0</x>
-          <y>0.335006505250931</y>
-          <z>0</z>
-          <w>0.942215919494629</w>
-        </quaternion>
+        <x>28.57</x>
+        <y>90.58</y>
+        <z>314</z>
       </rotation>
       <scale>
         <x>1</x>
@@ -3158,7 +3152,90 @@
       </scale>
       <xmlID>4cdf4138-6958-4969-b6d1-dab84533b51f</xmlID>
       <tech>SmallLocker</tech>
-      <inventory />
+      <inventory>
+        <item>
+          <type>EnameledGlass</type>
+          <amount>3</amount>
+        </item>
+        <item>
+          <type>DenseAzurite</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>ingot_Silver</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>ingot_Copper</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>ingot_Quartz</type>
+          <amount>3</amount>
+        </item>
+        <item>
+          <type>Magnetite</type>
+          <amount>4</amount>
+        </item>
+        <item>
+          <type>Gold</type>
+          <amount>5</amount>
+        </item>
+        <item>
+          <type>Silver</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>Lead</type>
+          <amount>6</amount>
+        </item>
+      </inventory>
+    </part>
+    <part>
+      <prefab>5fc7744b-5a2c-4572-8e53-eebf990de434</prefab>
+      <position>
+        <x>1315.3</x>
+        <y>-79.8</y>
+        <z>-410.4</z>
+      </position>
+      <rotation>
+        <x>331.43</x>
+        <y>142.01</y>
+        <z>314</z>
+      </rotation>
+      <scale>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </scale>
+      <xmlID>4cdf4138-6958-4969-b6d1-dab84533b51f</xmlID>
+      <tech>SmallLocker</tech>
+      <inventory>
+        <item>
+          <type>planktonItem</type>
+          <amount>5</amount>
+        </item>
+        <item>
+          <type>CuredHolefish</type>
+          <amount>4</amount>
+        </item>
+        <item>
+          <type>CurativeBandage</type>
+          <amount>2</amount>
+        </item>
+        <item>
+          <type>Battery</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>ReactorRod</type>
+          <amount>1</amount>
+        </item>
+        <item>
+          <type>TraceMetals</type>
+          <amount>4</amount>
+        </item>
+      </inventory>
     </part>
     <part>
       <prefab>9f16d82b-11f4-4eeb-aedf-f2fa2bfca8e3</prefab>
@@ -3240,15 +3317,6 @@
     </part>
   </customprefab>
   <customprefab>
-    <prefab>TrailerBaseConverter</prefab>
-    <position>
-      <x>1314.94</x>
-      <y>-80.2</y>
-      <z>-412.97</z>
-    </position>
-    <tech>TrailerBaseConverter</tech>
-  </customprefab>
-  <customprefab>
     <prefab>783442e1-d2ad-4967-a452-722a01f20258</prefab>
     <position>
       <x>1309.55163574219</x>
@@ -3273,5 +3341,62 @@
     </scale>
     <xmlID>4b05590c-4c9a-49d2-adc3-4024b741b537</xmlID>
     <tech>SolarPanel</tech>
+  </customprefab>
+  <customprefab>
+    <prefab>a36047b0-1533-4718-8879-d6ba9229c978</prefab>
+    <position>
+      <x>1318.45166015625</x>
+      <y>-80.3803405761719</y>
+      <z>-414.205047607422</z>
+    </position>
+    <rotation>
+      <x>355.459442138672</x>
+      <y>6.76931381225586</y>
+      <z>22.0664215087891</z>
+      <quaternion>
+        <x>0.0275235921144485</x>
+        <y>-0.0654702484607697</y>
+        <z>-0.193189695477486</z>
+        <w>-0.978587687015533</w>
+      </quaternion>
+    </rotation>
+    <scale>
+      <x>1</x>
+      <y>0.57</y>
+      <z>1</z>
+    </scale>
+    <xmlID>3ef47b5a-d446-4587-b987-6fa74bb46959</xmlID>
+  </customprefab>
+  <customprefab>
+    <prefab>TrailerBaseConverter</prefab>
+    <position>
+      <x>1314.94</x>
+      <y>-80.2</y>
+      <z>-412.97</z>
+    </position>
+    <tech>TrailerBaseConverter</tech>
+  </customprefab>
+  <generator>
+    <type>ReikaKalseki.SeaToSea.TrailerBaseLabEquipmentSpawner</type>
+    <position>
+      <x>1317.68054199219</x>
+      <y>-79.3769454956055</y>
+      <z>-414.078765869141</z>
+    </position>
+  </generator>
+  <customprefab count="9">
+    <prefab>fauna_holefish</prefab>
+    <position>
+      <x>-1302.98</x>
+      <y>-76.39</y>
+      <z>-414.67</z>
+    </position>
+    <objectManipulation>
+      <Scatter>
+		<x>0.05</x>
+		<y>0</y>
+		<z>0.05</z>
+	  </Scatter>
+    </objectManipulation>
   </customprefab>
 </Root>
