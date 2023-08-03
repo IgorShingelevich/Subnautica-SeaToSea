@@ -3051,6 +3051,30 @@
 				</AddLaserCutterSealed>
 			</modify>
         </component>
+        <component>
+          <piece>CorridorBulkhead</piece>
+          <prefab>basePart</prefab>
+          <position>
+            <x>1318.20</x>
+            <y>-78.65</y>
+            <z>-404.00</z>
+          </position>
+          <rotation>
+            <x>10.00</x>
+            <y>200.37</y>
+            <z>340.00</z>
+          </rotation>
+          <scale>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+          </scale>
+			<modify>
+				<AddLaserCutterSealed>
+					<timeToUse>3600</timeToUse>
+				</AddLaserCutterSealed>
+			</modify>
+        </component>
       </cellData>
     </part>
     <part>
@@ -3339,6 +3363,32 @@
       <xmlID>44e58e03-266d-42b9-8168-0b9bda547206</xmlID>
       <tech>StarshipChair</tech>
     </part>
+	  <part>
+		<prefab>0fbf203a-a940-4b6e-ac63-0fe2737d84c2</prefab>
+		<position>
+		  <x>1316.38891601563</x>
+		  <y>-79.09375</y>
+		  <z>-408.667083740234</z>
+		</position>
+		<rotation>
+		  <x>301.295043945313</x>
+		  <y>354.824798583984</y>
+		  <z>236.172790527344</z>
+		  <quaternion>
+			<x>-0.195826172828674</x>
+			<y>-0.450542122125626</y>
+			<z>-0.778612375259399</z>
+			<w>0.390418738126755</w>
+		  </quaternion>
+		</rotation>
+		<scale>
+		  <x>1</x>
+		  <y>1</y>
+		  <z>1</z>
+		</scale>
+		<xmlID>8a7b4af6-c133-412b-b894-2a6cddec5741</xmlID>
+		<tech>PlanterPot3</tech>
+	  </part>
   </customprefab>
   <customprefab>
     <prefab>783442e1-d2ad-4967-a452-722a01f20258</prefab>
@@ -3390,32 +3440,6 @@
       <z>1</z>
     </scale>
     <xmlID>3ef47b5a-d446-4587-b987-6fa74bb46959</xmlID>
-  </customprefab>
-  <customprefab>
-    <prefab>0fbf203a-a940-4b6e-ac63-0fe2737d84c2</prefab>
-    <position>
-      <x>1316.38891601563</x>
-      <y>-79.09375</y>
-      <z>-408.667083740234</z>
-    </position>
-    <rotation>
-      <x>301.295043945313</x>
-      <y>354.824798583984</y>
-      <z>236.172790527344</z>
-      <quaternion>
-        <x>-0.195826172828674</x>
-        <y>-0.450542122125626</y>
-        <z>-0.778612375259399</z>
-        <w>0.390418738126755</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <xmlID>8a7b4af6-c133-412b-b894-2a6cddec5741</xmlID>
-    <tech>PlanterPot3</tech>
   </customprefab>
   <customprefab>
     <prefab>TrailerBaseConverter</prefab>
