@@ -444,32 +444,6 @@
   <customprefab>
     <prefab>GEYSER_CORAL</prefab>
     <position>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-    </position>
-    <rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-      <quaternion>
-        <x>0</x>
-        <y>0</y>
-        <z>0</z>
-        <w>1</w>
-      </quaternion>
-    </rotation>
-    <scale>
-      <x>1</x>
-      <y>1</y>
-      <z>1</z>
-    </scale>
-    <xmlID>1c8175be-5613-4b0b-9b56-55f29cc70dee</xmlID>
-    <tech>GEYSER_CORAL</tech>
-  </customprefab>
-  <customprefab>
-    <prefab>GEYSER_CORAL</prefab>
-    <position>
       <x>828.313293457031</x>
       <y>-234.166580200195</y>
       <z>505.835693359375</z>

@@ -2375,6 +2375,12 @@
             <y>1</y>
             <z>1</z>
           </scale>
+			<modify>
+				<SetACUStack>
+					<Top>True</Top>
+					<Bottom>True</Bottom>
+				</SetACUStack>
+			</modify>
           <xmlID>c6702d39-ea4c-4384-86ea-fce9c0455eb9</xmlID>
         </component>
         <component>
@@ -3071,7 +3077,7 @@
           </scale>
 			<modify>
 				<AddLaserCutterSealed>
-					<timeToUse>3600</timeToUse>
+					<timeToUse>-1</timeToUse>
 				</AddLaserCutterSealed>
 			</modify>
         </component>
