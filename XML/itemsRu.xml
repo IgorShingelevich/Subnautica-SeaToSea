@@ -4,8 +4,7 @@
             Ячеистая Композитная Плита // Сотовая
         </name>
         <desc>
-            Прочная легкая панель с очень низкой теплопроводностью и отличными свойствами поглощения физического
-            воздействия и вибрации. // физическое воздействие
+            Прочная легкая панель с очень низкой теплопроводностью и отличными свойствами поглощения физических воздействий и вибрации. 
         </desc>
         <pda>
 
@@ -13,7 +12,7 @@
     </HoneycombComposite>
     <DenseAzurite>
         <name>
-            Концентрированный Азурит // Плотный-конценрированный
+            Концентрированный Азурит 
         </name>
         <desc>
             Более плотно упакованная и энергетически полезная форма азурита.
@@ -60,8 +59,7 @@
             Теплоизоляционная Ткань
         </name>
         <desc>
-            Передовой текстиль, предназначенный не только для изоляции материалов от химического воздействия, но и для
-            тепловой изоляции.
+            Передовой текстиль, предназначенный не только для изоляции материалов от химического воздействия, но и для теплоизоляции.
         </desc>
         <pda>
 
@@ -83,7 +81,7 @@
             Хлор
         </name>
         <desc>
-            Cl. Очень ядовитый газ, который легко растворяется в воде. Хорош для уничтожения микроорганизмов.
+            Cl. Очень ядовитый газ, который легко растворяется в воде. Подходит для уничтожения микроорганизмов.
         </desc>
         <pda>
 
@@ -105,8 +103,7 @@
             Умный Полимер
         </name>
         <desc>
-            Гибкий пластиковый материал, который помнит свою первоначальную форму и возвращает ей, когда воздействие
-            прекращается.
+            Гибкий пластиковый материал, который помнит свою первоначальную форму и возвращается  к ней, когда воздействие прекращается.
         </desc>
         <pda>
 
@@ -139,9 +136,7 @@
             Электродвигатель
         </name>
         <desc>
-            Электродвигатель среднего размера, способный вырабатывать достаточную мощность для приведения в действие
-            крупных механизмов, силовых установок или перекачки жидкостей. // Двигательная система-силовая
-            установка-электрический привод
+            Электродвигатель среднего размера, способный вырабатывать достаточную мощность для приведения в действие крупных механизмов, силовых установок или перекачки жидкостей. 
         </desc>
         <pda>
 
@@ -152,7 +147,7 @@
             Пищеварительные Ферменты
         </name>
         <desc>
-            Химикаты, извлеченные из пищеварительного продукта крупных животных. // ?trace
+            Химикаты, извлеченные из пищеварительного продукта крупных животных. 
         </desc>
         <pda>
 
@@ -174,8 +169,7 @@
             Нано-строительный дрон
         </name>
         <desc>
-            Самоходный дрон, оснащенный строительным лучом для сборки крупных объектов из сырья, подобно
-            роботизированным строительным инструментам.
+            Самоходный дрон, оснащенный строительным лучом для сборки крупных объектов из сырья, подобно роботизированным строительным инструментам.
         </desc>
         <pda>
 
@@ -186,8 +180,7 @@
             Микробиотический Гель
         </name>
         <desc>
-            Соединение, добываемое из внутренности листьев глубоководной лианы, предназначенное для поддержания роста и
-            метаболизма бактерий. Улучшит эффективность биохимической переработки.
+            Соединение, добываемое из внутренности листьев глубоководной лианы, предназначенное для поддержания роста и метаболизма бактерий. Улучшит эффективность биохимической переработки.
         </desc>
         <pda>
 
@@ -198,7 +191,7 @@
             Образцы Бактерий
         </name>
         <desc>
-            Количество бактерий, высокоспециализированных для рекомбинации органических соединений.
+            Бактерии, высокоспециализированные для рекомбинации органических соединений.
         </desc>
         <pda>
 
@@ -206,11 +199,10 @@
     </BacterialSample>
     <FuelTankWall>
         <name>
-            Tank Wall
+            Стенка топливного бака
         </name>
         <desc>
-            A high-tech blend of materials with the right balance of elasticity and strength to contain reactive and
-            dangerous rocket fuel.
+            Высокотехнологичная смесь материалов с оптимальным балансом эластичности и прочности для удержания реактивного и опасного ракетного топлива.
         </desc>
         <pda>
 
@@ -218,10 +210,10 @@
     </FuelTankWall>
     <RocketFuel>
         <name>
-            Neptune Rocket Fuel
+            Ракетное топливо «Нептун»
         </name>
         <desc>
-            A chemical mixture capable of releasing extreme amounts of energy on demand.
+            Химическая смесь, способная при воздействии выделять экстремальные количества энергии.
         </desc>
         <pda>
 
@@ -229,11 +221,10 @@
     </RocketFuel>
     <BrokenT2Battery>
         <name>
-            Damaged Azurite Battery
+            Поврежденная Азуритовая Батарея
         </name>
         <desc>
-            A damaged azurite battery. Can be restored to full functionality with some component replacements, at a
-            reduced cost compared to crafting a fresh battery.
+            Поврежденная батарея из азурита. Может быть восстановлена до полной работоспособности с заменой некоторых компонентов, что обойдется дешевле, чем создание новой батареи.
         </desc>
         <pda>
 
@@ -241,10 +232,10 @@
     </BrokenT2Battery>
     <AmoeboidSample>
         <name>
-            Amoeboid Samples
+            Образцы Амебоидов
         </name>
         <desc>
-            Strands of colonial bacteria, evolved to leach minerals from rock.
+            Колонии бактерий, образующих нити, эволюционировавших для выделения минералов из камня.
         </desc>
         <pda>
 
@@ -252,10 +243,10 @@
     </AmoeboidSample>
     <TraceMetals>
         <name>
-            Rare Elements
+            Редкие Элементы
         </name>
         <desc>
-            Trace quantities of rare metal and semimetal elements, used in advanced fabrication.
+            Небольшое количество редких металлических и полуметаллических элементов, используемых в передовом производстве.  
         </desc>
         <pda>
 
@@ -263,10 +254,10 @@
     </TraceMetals>
     <GeyserMinerals>
         <name>
-            Volcanic Traces
+            Вулканические Остатки 
         </name>
         <desc>
-            Small quantities of igneous materials, filtered from geyser output.
+            Небольшое количество магматических минералов, отфильтрованное из выбросов гейзеров.
         </desc>
         <pda>
 
@@ -274,10 +265,10 @@
     </GeyserMinerals>
     <WeakEnzyme42>
         <name>
-            Enzyme 42 Traces
+            Слабый Фермент 42   
         </name>
         <desc>
-            A small amount of enzyme 42, but too impure and degraded to properly cure Kharaa infection.
+            Небольшое количество фермента 42, но слишком загрязненное и распавшееся для эффективного лечения инфекции Хараа.
         </desc>
         <pda>
 
@@ -285,11 +276,10 @@
     </WeakEnzyme42>
     <Nanocarbon>
         <name>
-            Nanocarbon
+            Наноуглерод
         </name>
         <desc>
-            Carbon nanotubes, woven together into sheets which are then heat-fused together. An advanced industrial
-            product not producible by standard fabrication technology.
+            Углеродные нанотрубки, сплетенные в листы, которые затем термически сращиваются вместе. Передовой промышленный продукт, недостижимый для стандартных технологий производства.
         </desc>
         <pda>
 
@@ -297,10 +287,10 @@
     </Nanocarbon>
     <breathfluid>
         <name>
-            Breathing Fluid
+            Дыхательная Жидкость
         </name>
         <desc>
-            CFx•Oy. A nontoxic solvent saturated with oxygen, suitable for liquid-based respiration.
+            CFx•Oy. Нетоксичный растворитель, насыщенный кислородом, пригодный для жидкостного дыхания.
         </desc>
         <pda>
 
@@ -308,27 +298,23 @@
     </breathfluid>
     <SealedSuit>
         <name>
-            Electrochemical Suit
+            Электрохимический Костюм
         </name>
         <desc>
-            A suit made of molecularly impenetrable fabric.
+            Костюм из молекулярно непроницаемой ткани.
         </desc>
         <pda>
-            An upgrade for the basic AEP suit, the electrochemical suit is woven from a dense, chemically-sealed mesh of
-            treated fibers, and confers great resistance against both electrical and chemical hazards, allowing for
-            survival in toxic or highly charged environments.
+            Усовершенствование базового костюма AEP, электрохимический костюм соткан из плотной, химически герметричной сетки обработанных волокон и обеспечивает большую устойчивость как к электрическим, так и химическим опасностям, позволяя выживать в токсичных или сильно заряженных средах.
 
-            Disclaimer: Stops almost all electrical and chemical penetration, but does little against radiation or
-            thermal hazards. Not rated for acid exposure.
+            Предупреждение: Предотвращает почти все электрическое и химическое воздействике, но мало что делает против радиационных или тепловых опасностей. Не рассчитан на воздействие кислоты.
         </pda>
     </SealedSuit>
     <SealedGloves>
         <name>
-            Electrochemical Gloves
+            Электрохимические Перчатки
         </name>
         <desc>
-            Because wearing a protective suit but grabbing things with your bare hands would work about as well as
-            punching out a reaper.
+            Потому что носить защитный костюм и хватать вещи голыми руками работало бы примерно так же, как и попытка атаковать  жнеца. //? punching out a reaper попытка атаковать жнеца-нарваться на жнеца (a kind of suicide move...)
         </desc>
         <pda>
 
@@ -336,49 +322,40 @@
     </SealedGloves>
     <RebreatherV2>
         <name>
-            Recirculation Mask
+            Рециркуляторная Маска 
         </name>
         <desc>
-            A motorized face mask equipped with the ability to actively pump a breathing medium from storage and either
-            recirculate it back to the tank or force waste gas out against very high pressures.
+            Маска для лица, оснащенная возможностью автоматической подачи дыхательной среды из хранилища и либо рециркуляции ее обратно в бак, либо выброса отработанного газа даже против очень высокого давления.
         </desc>
         <pda>
-            At depths where the rebreather can no longer suffice, causing oxygen consumption to increase to ever more
-            unmanageable levels, the recirculation mask becomes a highly valuable piece of survival equipment. Motorized
-            gas delivery and exhaust mechanisms overcome these pressures and eliminate most of the wasted source gas,
-            greatly extending the maximum practical duration of a dive.
+            На глубинах, где ребризер больше не может справиться, приводя к увеличению потребления кислорода до все более опасных уровней, маска с рециркуляцией становится очень ценным элементом выживания. Автоматизированные механизмы подачи и выброса газа преодолевают эти давления и устраняют большую часть отработанного источника газа, значительно увеличивая максимальную практическую продолжительность погружения.
 
-            A requirement for liquid breathing hardware to function.
+            Необходимая часть оборудования для жидкостного дыхания.
         </pda>
     </RebreatherV2>
     <LiquidTank>
         <name>
-            Liquid Breathing System
+            Система Жидкостного Дыхания
         </name>
         <desc>
-            A breathing apparatus that uses an oxygen-saturated perfluorocarbon liquid instead of air.
+            Дыхательный аппарат, который использует насыщенную кислородом перфторуглеродную жидкость вместо воздуха.
         </desc>
         <pda>
-            At great depths, the extreme water pressure makes freediving impossible with normal respiratory mechanisms.
-            The liquid breathing system solves that limitation, and allows for respiration at extreme depths and
-            pressures without risk of barotrauma or toxicity from gas mixtures.
-
+            На больших глубинах экстремальное  давление воды делает невозможным дыхание газом. Система жидкостного дыхания решает эту проблему и позволяет дышать на экстремальных глубинах и давлениях без риска баротравмы или токсичности газовых смесей.
+            
             Note:
-            - Requires a compatible facemask to function
-            - Contains a main tank and a small (150 second) supply tank, only the latter of which is able to be directly
-            drawn upon during diving
-            - Main tank can only refill the supply tank when in a powered space
-            - Consumes breathing fluid to refill the main tank, and requires a compatible fluid pump module installed in
-            a seabase to do so
+            - Lля работы nребуется совместимая лицевая маска 
+            - Содержит основной бак и маленький (150 секунд) запасной бак, только последний из которых может быть непосредственно использован во время погружения //?drawn - in the  context it means replaced? "drawn upon during diving"   
+            - Основной бак может заправлять подающий бак только в энергонезависимом объекте.
+            - Потребляет дыхательную жидкость для пополнения основного бака и требует совместимого насосного модуля, устанавливаемого для этого в морской базе.
         </pda>
     </LiquidTank>
     <CurativeBandage>
         <name>
-            Nanowrap Bandages
+            Нано Аптечка //?  what is the section of  basic bandages  to  keep  the  consistent  translation
         </name>
         <desc>
-            A highly sophisticated wound dressing, capable of restoring far more health than a basic first aid kit,
-            staunching any blood loss, and alleviating all symptoms of poisoning or other ongoing harming effects.
+            Высокотехнологичное средство для перевязки ран, способное восстановить гораздо больше здоровья, чем базовый аптечный набор, остановить любую потерю крови и устранить все симптомы отравления или других продолжительных вредных эффектов.
         </desc>
         <pda>
 
@@ -386,11 +363,10 @@
     </CurativeBandage>
     <KharaaTreatment>
         <name>
-            Kharaa Symptom Alleviation Canister
+            Контейнер с веществом для Облегчения Симптомов Хараа
         </name>
         <desc>
-            Provides temporary relief from Kharaa symptoms that reduce pulmonary efficiency, especially when using
-            liquid respiration media. Does not lose effectiveness with use, but will do nothing to combat the infection.
+            Обеспечивает временное облегчение симптомов Хараа, снижающих эффективность легких, особенно при использовании жидкостных средств для дыхания. Не теряет эффективность при использовании, но не борется с инфекцией.
         </desc>
         <pda>
 
@@ -398,28 +374,19 @@
     </KharaaTreatment>
     <VENT_CRYSTAL>
         <name>
-            Azurite
+            Азурит
         </name>
         <desc>
-            Cu3(CO3)2(OH)2•8-. A luminous gemstone with exquisite optical properties and electromagnetic conductivity.
+            Cu3(CO3)2(OH)2•8-. Светящийся драгоценный камень с превосходными оптическими свойствами и электромагнитной проводимостью.
         </desc>
         <pda>
-            Found exclusively around certain thermal vents, these exotic crystals, despite having a similar gross
-            molecular structure to common quartz, have electron distributions more commonly seen in metallic elements.
+            Встречается исключительно вокруг определенных термальных источников, эти экзотические кристаллы, несмотря на схожую  с обычным кварцем молекулярную структуру, обладают распределением электронов, более характерным для металлических элементов.
+            
+            Этот материал может образовываться только в очень конкретных условиях, в частности, где очень горячая, богатая минералами вода встречается с холодной водой, при отсутствие богатой флоры, которая могла бы поглощать эти минералы, или быстрых течений, которые бы рассеяли минералы, прежде чем они могут перекристаллизоваться. В процессе перекристаллизации многие электроны материала временно заперты внутри кристаллической решетке в более высоком энергетическом состоянии.
 
-            This material can only form under very particular circumstances, specifically where superheated,
-            mineral-rich water is injected into cold water, in the absence of dense flora which would absorb, or fast
-            currents which would disperse, the minerals before they can recrystallize. During this recrystallization
-            process, many of the material's electrons are temporarily trapped within the crystal structure in a higher
-            energy state.
+            Свет, излучаемый этими отложениями, возникает, когда электроны кристаллической решетки переходят обратно в основное состояние, испуская фотон. Пока они остаются возбужденными, эти электроны наделяют кристаллическую решетку высокой электрической и магнитной проводимостью, позволяя ей проводить и отражать поля того же типа.
 
-            The light emitted by these deposits originates from those electrons the crystal structure dropping back into
-            the ground state, releasing a photon in the process. While they remain energized, these electrons imbue the
-            crystal structure with both high electrical and magnetic conductivity, allowing it to channel and reflect
-            fields of the same.
-
-            This arrangement also makes the crystal fairly unstable; Careless handling can result in violent fracturing,
-            which destroys the aforementioned structure and releases a large quantity of energy.
+            Такая структура делает кристалл довольно нестабильным; небрежное обращение может привести к его бурному расщеплению, разрушая вышеупомянутую решетку и высвобождая большое количество энергии.
         </pda>
         <header>
             azurite
@@ -427,22 +394,15 @@
     </VENT_CRYSTAL>
     <PLATINUM>
         <name>
-            Platinum
+            Платина
         </name>
         <desc>
-            Pt. A dense, valuable, rare metal with extreme resistance to corrosion. In addition to being useful for
-            creating alloys, it is also useful as a chemical catalyst with organic compounds.
+            Pt. Плотный, ценный, редкий металл с экстремальной стойкостью к коррозии. Помимо создания сплавов, также полезен в качестве катализатора химических реакций с органическими соединениями.
         </desc>
         <pda>
-            Rarer and more valuable even than gold, platinum is a transition metal whose chief property is its extremely
-            low chemical reactivity. This makes it all but impervious to corrosion, and allows it to mediate many
-            chemical reactions without being consumed itself. In particular it is well-suited to rearranging the
-            components of organic molecules.
+            Более редкий и ценный, чем золото, платина - переходный металл, главное свойство которого - чрезвычайно низкая химическая реактивность. Это делает его практически невосприимчивым к коррозии  и позволяет ему  выступать как  катализатор во многих химических реакциях, при этом не расходуясь.
 
-            The extreme rarity of this metal can be partly attributed to its high density; during planetary formation
-            and meteoric bombardment, it sinks to the core, leaving only traces in the crust. What little is left
-            further settles to the lowest layers of the sediment, only becoming available via excavation or other
-            disturbances to said sediment.
+            Крайняя редкость этого металла отчасти обусловлена его высокой плотностью; в процессе формирования планет и метеоритных бомбардировок он опускается к ядру, оставляя лишь следы в земной коре. То немногое, что остается, оседает в самых нижних слоях осадочных пород, становясь доступным только в результате раскопок или других проникновений в эти отложения.
         </pda>
         <header>
             platinum
@@ -450,45 +410,35 @@
     </PLATINUM>
     <PRESSURE_CRYSTALS>
         <name>
-            Abyssoclase
+            Абиссоклаз 
         </name>
         <desc>
-            Small, dense crystals formed under extreme pressure, with trace amounts of exotic elements such as
-            Tellurium.
+            Маленькие, плотные кристаллы, образованные под экстремальным давлением, с примесями экзотических элементов, таких как теллур.
         </desc>
         <pda>
-            In the deepest layers of the open ocean, where mineral-rich water collects due to its greater density
-            relative to ordinary seawater, the extreme pressure can force these minerals back out of solution.
+            В самых глубоких слоях открытого океана, где богатая минералами вода скапливается из-за бóльшей плотности по сравнению с обычной морской водой, крайне высокое давление может выталкивать эти минералы обратно из раствора.
 
-            Abyssoclase is one such mineral, formed when a small seed crystal - possibly quartz, diamond, or sulfur - is
-            coated with successive layers of silcia deposits rich in Tellurium and other rare elements.
+            Абиссоклаз - один из таких минералов, образующийся, когда маленький кристалл - возможно, кварц, алмаз или сера - покрывается последовательными слоями кремниевых отложений, обогащенных теллуром и другими редкими элементами.
 
-            These deposits, due to the nature of the environment in which they form, are extremely dense, hard, and
-            resistant to compressive forces. If integrated into another substrate, they can massively increase that
-            material's mechanical strength.
+            Эти отложения, благодаря природе среды, в которой они формируются, чрезвычайно плотные, твердые и устойчивы к сжатию. Если интегрировать их в другой субстрат, они могут многократно увеличить механическую прочность этого материала.
         </pda>
         <header>
-            voidspike
+            voidspike 
         </header>
     </PRESSURE_CRYSTALS>
     <PHASE_CRYSTAL>
         <name>
-            Avolite
+            Аволит
         </name>
         <desc>
-            An integral part of ship drives and phase gates. These crystals are not fully understood, but are known to
-            only form in deep space.
+            Неотъемлемая часть двигателей кораблей и фазовых врат. Эти кристаллы не до конца изучены, но известно, что образуются только в глубоком космосе.
         </desc>
         <pda>
-            Avolite is an extremely rare crystal with extraordinary physical properties, the underlying mechanisms of
-            which are very poorly understood, to the point where in eras past its properties would have been ascribed to
-            theological origins and perhaps even formed the basis of primitive religions.
+            Аволит - чрезвычайно редкий кристалл с необычными физическими свойствами, лежащие в их основе механизмы очень плохо изучены, настолько, что в прошлые эпохи его свойства приписывали божественному происхождению, и они, возможно, даже лежали в основе примитивных религий.
 
-            This mineral demonstrates behavior analogous to the piezoelectric effect, except on a far larger scale,
-            dragging spacetime itself as it warps when subjected to electromagnetic fields.
+            Этот минерал демонстрирует поведение, аналогичное пьезоэлектрическому эффекту, только в гораздо больших масштабах, искривляя пространство-время, когда находится под воздействием электромагнитных полей.
 
-            This ability to manipulate space and time makes these crystals an integral part of both interstellar
-            propulsion systems and phase gates, and as a result Avolite is one of the most prized minerals in existence.
+            Эта способность манипулировать пространством и временем делает эти кристаллы неотъемлемой частью как межзвездных двигательных систем, так и фазовых врат, и, как следствие, аволит - один из самых ценных минералов во Вселенной.
         </pda>
         <header>
             avolite
@@ -496,15 +446,13 @@
     </PHASE_CRYSTAL>
     <IRIDIUM>
         <name>
-            Iridium
+            Иридий
         </name>
         <desc>
-            Ir. An exotic and dense metal not typically found in most geologic strata.
+            Ir. Экзотический плотный металл, обычно не встречающийся в большинстве геологических пластов.
         </desc>
         <pda>
-            Iridium is not typically present in detectable quantities in planetary crusts, instead often only being
-            found in meteorite deposits. High concentrations of this rare and dense metal are often indicators that the
-            area is geologically linked with such an impactor.
+            Иридий обычно не присутствует в земной коре планет, встречаясь в основном только в метеоритных отложениях. Высокие концентрации этого редкого плотного металла часто указывают, что данный район геологически связан с падением метеорита.
         </pda>
         <header>
             iridium
@@ -512,24 +460,19 @@
     </IRIDIUM>
     <ALKALI_PLANT>
         <name>
-            Alkali Vines
+            Щелочная Лоза
         </name>
         <desc>
-            A plant with alkaline gel filling its structure.
+            Растение, структура которого заполнена щелочным гелем.
         </desc>
         <pda>
-            This plant is fairly rare, found only in certain ecological niches with high mineral content and low
-            exposure to light.
+            Это растение довольно редкое, встречается только в определенных экологических нишах с высоким содержанием минералов и низкой освещенностью.
 
-            The main body of the plant is comprised of a fibrous tube filled with a strongly alkaline gel. The primary
-            purpose of this may be to deter creatures from eating the stems, or it may help the conduction of the
-            plant's biochemical processes.
+            Основное тело растения состоит из волокнистой трубки, заполненной сильнощелочным гелем. Основное предназначение этого, возможно, отпугивать существ от поедания стеблей, либо это может помогать протеканию биохимических процессов растения.
 
-            This plant possesses an unusual ability to detect disturbances in the water nearby, and will retract into
-            the seabed for protection when approached by potential predators. Avoiding such detection will be necessary
-            to allow samples to be taken.
+            Это растение обладает необычной способностью обнаруживать возмущение в близлежащей воде и прятаться в морское дно при приближении потенциальных хищников. Чтобы можно было взять образцы, необходимо избежать обнаружения.
 
-            Assessment: Inedible but possibly useful from a chemistry standpoint, if its defenses can be circumvented
+            Оценка: Несъедобно, но может быть полезно с химической точки зрения, если удастся обойти его защиту.
         </pda>
         <header>
             AlkaliVines
@@ -537,22 +480,17 @@
     </ALKALI_PLANT>
     <VENT_KELP>
         <name>
-            Deepvine
+            Глубинная Лоза
         </name>
         <desc>
-            A tall deepwater plant, filling a similar role to creepvine in its local ecosystem.
+            Высокое глубоководное растение, играющее на своей глубине роль, сходную с ролью ползучей лозы на мелководье.
         </desc>
         <pda>
-            Deepvine differs substantially in appearance from its shallow-water counterpart, but genetic analysis
-            reveals a close relationship. Like creepvine, it acts as both food and shelter for the local population of
-            small fauna, supporting an ecosystem more rich in biomass than would typically be possible at this depth.
+            Глубококорневое растение существенно отличается по внешнему виду от своего мелководного аналога, но генетический анализ показывает их близкое родство. Как и ползучая лоза, оно служит и пищей, и укрытием для местной фауны, поддерживая экосистему, более богатую биомассой, чем можно было бы ожидать на этой глубине.
 
-            Unlike normal creepvine, however, deepvine has evolved to depend on chemosynthesis based on minerals ejected
-            by nearby geothermal activity in the lieu of sunlight. This is accomplished by the leaves harboring
-            extensive colonies of several species of bacteria which can perform biochemical reactions at far greater
-            rate and efficiency than would be possible without them.
+            Однако, в отличие от нормальных ползучей лозы, эволюционировала так, чтобы зависеть от хемосинтеза на основе минералов, выбрасываемых близлежащими  геотермальными  источниками, вместо солнечного света.  Это достигается за счет того, что листья содержат обширные колонии нескольких видов бактерий, которые могут проводить биохимические реакции на гораздо большей скорости и эффективности, чем это было бы возможно без них.
 
-            Assessment: Inedibly toxic but the bacteria may be repurposed to improve the efficacy of chemical reactions
+            Оценка: Крайне токсично, но бактерии, могут использоваться для улучшения эффективности химических реакций
         </pda>
         <header>
             DeepVine
@@ -560,16 +498,15 @@
     </VENT_KELP>
     <HEALING_FLOWER>
         <name>
-            Salve Bush
+            Целебный Куст
         </name>
         <desc>
-            A plant with leaves possessing curative properties for physical, thermal, and chemical wounds.
+            Растение с листьями, обладающими целебными свойствами при физических, термических и химических ранениях.
         </desc>
         <pda>
-            Oils on the leaves of this plant act as natural analgesics, antiseptics, and anti-inflammatories, making
-            them extremely potent as a component in bandages and wound dressings, but unsuitable for consumption.
+            Масла на листьях этого растения действуют как природные анальгетики, антисептики и противовоспалительные средства, делая их чрезвычайно эффективным компонентом бинтов и перевязочных средств, но непригодными для употребления в пищу.
 
-            Assessment: Critical component of advanced healing equipment
+            Оценка: Ключевой компонент передового лечебного оборудования.
         </pda>
         <header>
             SalveBush
@@ -577,26 +514,17 @@
     </HEALING_FLOWER>
     <MOUNTAIN_GLOW>
         <name>
-            Pyropod Pitcher
+            Огненная Кувшинка
         </name>
         <desc>
-            Plant pods containing a complex mix of biological compounds, encased in a tough fibrous shell capable of
-            withstanding high temperatures.
+            Стручки растений, содержащие сложную смесь биологических соединений, заключенных в прочную волокнистую оболочку, способную выдерживать высокие температуры.
         </desc>
         <pda>
-            Like several other apparent species on 4546B, pyropods are in fact two distinct organisms, but - unusually
-            for species encountered thus far - this relationship is not in fact symbiotic, but instead unquestionably
-            parasitic. The host plant's most notable characteristic is the hard vaselike structure it forms around
-            itself; this is perhaps an attempt at armoring itself against the parasite, though it is quite ineffective
-            if this is in fact its purpose.
+            Как и несколько других видов на 4546B, огненная кувшинка фактически представляют собой два различных организма, но - что необычно для изученных  видов - эти отношения не симбиотические, а безусловно паразитические. Наиболее примечательная особенность растения-хозяина - твердая вазоподобная структура, которую растение-хозяин формирует вокруг себя; возможно, это попытка забронироваться от паразита, хотя она совершенно неэффективна, если это действительно ее цель.
 
-            The other plant takes the form of several glowing pods, each containing a noxious soup of chemicals. When
-            attached to the host plant, the parasite consumes its leaves and injects these compounds into the host
-            plant, triggering rapid chemical breakdown of its internal structures into nutrients which the parasite can
-            then consume. The resultant reaction heats the interior of the base to the point of measurably raising the
-            surrounding water temperature.
+            Другое растение принимает форму нескольких светящихся стручков, каждый из которых содержит едкую смесь химикатов. Прикрепившись к растению-хозяину, паразит поедает его листья и впрыскивает эти соединения в растение-хозяин, запуская быстрый химический распад его внутренних структур в питательные вещества, которые затем может поедать сам паразит. Результирующая реакция нагревает внутренности основания до точки заметного повышения температуры окружающей воды.
 
-            Assessment: Slightly dangerous but useful in crafting processes
+            Оценка: Относительно опасна, но полезна в процессе производства.
         </pda>
         <header>
             MountainGlow
@@ -604,30 +532,19 @@
     </MOUNTAIN_GLOW>
     <SANCTUARY_PLANT>
         <name>
-            Eye Flame
+            Огнеглаз
         </name>
         <desc>
-            The glowing core harvested from an eye flame. Generates a voltage when subjected to mechanical, thermal, or
-            chemical stimulation.
+            Светящееся ядро, извлеченное из растения огнеглаз. Генерирует напряжение при механическом, термическом или химическом воздействии.
         </desc>
         <pda>
-            Only encountered in a small ecological niche in a remote corner of the crash zone, this floral species may
-            have once been far more abundant; the remaining area where these plants are found may only be a small
-            remnant of what was once a larger region before the crash, but has since been replaced with a sandy
-            wasteland.
+            Встречается только в небольшой экологической нише в отдаленном уголке Зоны крушения, в прошлом этот вид растений, возможно, был намного более распространен; оставшаяся область, где произрастают эти растения, может быть лишь небольшим остатком биома, что когда-то до крушения был более обширным, но с тех пор этот биом сменился песчаной пустошью.
 
-            The main body of the plant consists of two layered bowls of upwards-facing violet petals, set atop a flat
-            ring of wide, firm, waxy leaves. While these leaves exhibit some luminescence and texture, they are not the
-            most remarkable aspect of this species.
+            Основное тело растения состоит из двух слоев фиолетовых лепестков, обращенных вверх чашечками и установленных на плоском кольце широких, плотных, воскообразных листьев. Хотя эти листья проявляют некоторое свечение, они не являются наиболее примечательной особенностью этого вида.
 
-            At the center of the organism, lies a soft sac of electrochemically active - and extraordinarily luminescent
-            - tissue. When subjected to thermal, mechanical, or chemical stimulation, such as flexion or a change in
-            ambient pH, the cells in this organ start to generate an electrical potential, which over the entire body of
-            the organ can amount to a significant voltage. The utility of this mechanism is unknown, but it may serve
-            some role in the plant's reproductive lifecycle, perhaps signaling to the embedded seeds to begin the
-            development process.
+            В центре организма находится мягкий мешочек электрохимически активной - и необычайно светящейся - ткани. При термическом, механическом или химическом воздействии, таком как изгиб или изменение pH среды, клетки этого органа начинают генерировать электрический потенциал, который в масштабах всего органа может достигать значительного напряжения. Предназначение этого механизма неизвестно, но он может играть некую роль в размножении растения, возможно, сигнализируя заключенным в нем семенам о начале процесса прорастания.
 
-            Assessment: Applications in fabrication of electrically active materials
+            Оценка: Применим в производстве электрически активных материалов
         </pda>
         <header>
             SanctuaryPlant
@@ -635,52 +552,43 @@
     </SANCTUARY_PLANT>
     <TREE_BACTERIA>
         <name>
-            Bacterial Colony
+            Бактериальная колония
         </name>
         <desc>
 
         </desc>
         <pda>
-            The cave system inside the fossilized tree creates a sheltered environment where unique lifeforms can
-            thrive. One of the most visible of these takes the form of large, dome-shaped colonies of bacteria which
-            leach minerals from the cave walls to power their metabolism.
+            Система пещер внутри окаменевшего дерева создает безопасную среду, где могут процветать уникальные формы жизни. Одна из наиболее заметных принимает форму больших, куполообразных колоний бактерий, которые вытягивают минералы из стен пещеры для поддержания своего метаболизма.
 
-            Assessment: Further study may yield insights into manipulation of biochemical reactions
+            Оценка: Дальнейшее изучение может дать представление о манипуляциях с биохимическими реакциями
         </pda>
     </TREE_BACTERIA>
     <GEYSER_CORAL>
         <name>
-            Geyser Coral
+            Гейзерный Коралл
         </name>
         <desc>
 
         </desc>
         <pda>
-            This coral species filters trace minerals from volcanic emissions, specifically the superheated, turbulent,
-            mineral-rich effluent from geyser eruptions. This coral is extremely sensitive to the local conditions, and
-            is unlikely to be able to survive anywhere outside of this cave system. Furthermore, its presence indicates
-            such a volcanic feature deeper in the cave network.
+            Этот вид кораллов фильтрует микроэлементы из продуктов вулканической активности, в частности, сильно нагретых, бурных, обогащенных минералами выбросов гейзерных извержений. Этот коралл чрезвычайно чувствителен к локальным условиям и вряд ли сможет выжить где-либо за пределами этой пещерной системы. Более того, его присутствие указывает на наличие такого вулканического образования глубже в системе пещер.
 
-            Assessment: Further study will enable mechanical imitation of a similar filtration process
+            Оценка: Дальнейшее изучение позволит механически имитировать аналогичный процесс фильтрации
         </pda>
     </GEYSER_CORAL>
     <DeepStalker>
         <name>
-            Abyssal Stalker
+            Глубинный Сталкер // сталкер-следопыт-охотник
         </name>
         <desc>
-            A deep-sea relative of the common stalker.
+            Глубоководный родственник обычного сталкера.
         </desc>
         <pda>
-            A relative of the stalkers found in shallow creepvine forests, this species has adapted to the low-light
-            conditions of its environment, using the darkness for camouflage in lieu of hiding in dense foliage.
+            Родственник сталкеров, обитающих в мелководных зарослях ползучей лозы, этот вид адаптировался к условиям низкой освещенности своей среды, используя темноту для маскировки вместо укрытия в густой растительности.
 
-            One trait that has been preserved or even amplified, however, is the Stalker's attraction to metallic
-            materials; Abyssal Stalkers will congregate around sources of such materials, and will aggressively defend
-            them from potential rivals.
+            Одна черта, однако, сохранилась или даже усилилась - привлекательность металлических материалов для сталкеров; Бездонные сталкеры собираются вокруг таких источников и агрессивно защищают их от потенциальных соперников.
 
-            The purpose of the bioluminescent features on the stalker may be to aid this intimidation, or they may be
-            designed to attract small prey fish.
+            Предназначение биолюминесцентных способностей сталкера может заключаться в отпугивании или в привлечении мелкой добычи.
         </pda>
         <header>
             deepstalker
@@ -688,7 +596,7 @@
     </DeepStalker>
     <VoidSpikeLevi>
         <name>
-            Galvanic Leviathan
+            Гальванический Левиафан
         </name>
         <desc>
 
@@ -702,11 +610,11 @@
     </VoidSpikeLevi>
     <SeamothVoidStealth>
         <name>
-            Acoustic Suppression Module
+            Модуль Подавления Аккустических Сингалов // акустические сигналы-шум cannot say "акустический подавитель"
         </name>
         <desc>
-            Greatly reduces the detectability of basic seamoth systems to passive listeners.
-            Will not affect active echolocators, or creatures at close range.
+            Значительно  снижает  возможность обнаружения основных систем Мотылька в  окружающей  среде. //? passive listeners
+            Не влияет на активные эхолокаторы или существ на близком расстоянии.
         </desc>
         <pda>
 
@@ -714,11 +622,10 @@
     </SeamothVoidStealth>
     <SeamothPowerSeal>
         <name>
-            Electrical Sealant Module
+            Модуль Электроизоляции Мотылька
         </name>
         <desc>
-            Applies an insulating coating to the seamoth exterior, significantly reducing the power loss when in
-            conductive environments.
+            Придает изолирующее покрытие  внешней поверхность Мотылька, значительно уменьшая потери энергии в проводящей среде.
         </desc>
         <pda>
 
@@ -726,11 +633,10 @@
     </SeamothPowerSeal>
     <SeaMothSpeed>
         <name>
-            Seamoth Propulsion Module
+            Модуль Ускорения Мотылька
         </name>
         <desc>
-            An upgrade for the seamoth propulsor that increases base speed and allows for short bursts of even higher
-            speed.
+            Усовершенствование двигателя Мотылька, увеличивающее базовую скорость и позволяющее совершать кратковременные рывки на еще большей скорости.
         </desc>
         <pda>
 
@@ -738,11 +644,10 @@
     </SeaMothSpeed>
     <SeamothHeatSinkModule>
         <name>
-            Seamoth Heat Sink Module
+            Модуль Теплоотведения Мотылька
         </name>
         <desc>
-            Allows the seamoth to dump large quantities of heat quickly, helping it survive in extremely hot
-            environments. Derived from spacecraft technology.
+            Позволяет Мотыльку быстро рассеивать большие количества тепла, помогая выживать в чрезвычайно горячих средах. Разработано на основе космических технологий.
         </desc>
         <pda>
 
@@ -750,10 +655,10 @@
     </SeamothHeatSinkModule>
     <SeamothHeatSink>
         <name>
-            Seamoth Heat Sink
+            Теплоотвод Мотылька
         </name>
         <desc>
-            A consumable item for the heat sink module to operate.
+            Расходный предмет для работы модуля теплотведения.
         </desc>
         <pda>
 
@@ -761,11 +666,10 @@
     </SeamothHeatSink>
     <t2battery>
         <name>
-            Azurite Battery
+            Азуритовая  батарея 
         </name>
         <desc>
-            A better battery, with significantly greater storage density. Its material construction precludes being
-            adapted into a vehicular power cell.
+            Улучшенная батарея с значительно большей плотностью запасаемой энергии. Конструкция не позволяет испольовать ее  в энергоячейках транспортного средства.
         </desc>
         <pda>
 
@@ -773,11 +677,10 @@
     </t2battery>
     <CyclopsHeat>
         <name>
-            Cyclops Heat Dissipation Module
+            Модуль Теплоотведения Циклопа
         </name>
         <desc>
-            Provides the ability for the cyclops to shed excess heat in superheated environments, preventing serious
-            overheating and fire.
+            Обеспечивает возможность Циклопу быстро рассеивать избыточное тепло в сверхнагретых средах, предотвращая серьезный перегрев и возгорание.
         </desc>
         <pda>
 
@@ -785,44 +688,42 @@
     </CyclopsHeat>
     <redkey>
         <name>
-            Red Tablet
+            Красная табличка // каменная табличка-планшет-скрижаль
         </name>
         <desc>
-            Ancient alien tablet with a red symbol.
+            Древняя инопланетная табличка со светящимся красным символом.
         </desc>
         <pda>
-            This device is dominated by an illuminated red symbol resembling a capital 'R'.
+            Это устройство ярко светится белым символом, напоминающим латинскую 'R'.
 
-            Like other similar tablets, it presumably grants access to restricted spaces, with the special nature of
-            this tablet - both its rarity and its seeming authority - probably indicating a similarly exclusive
-            location, perhaps one only normally granting access to a select few.
+            Как и другие подобные таблички, она, по-видимому, предоставляет доступ к недоступному месту, причем особая природа этой таблички - как ее редкость, так и лучащаяся из нее  сила - вероятно, указывает на уникальное расположение, возможно, то, к которому обычно предоставляется доступ лишь избранным.
         </pda>
         <category>
-            DownloadedData/Precursor/Scan
+            DownloadedData/Precursor/Scan  //? what  here
         </category>
     </redkey>
     <whitekey>
         <name>
-            White Tablet
+            Белая табличка
         </name>
         <desc>
-            Ancient alien tablet with a bright white symbol.
+            Древняя инопланетная табличка со светящимся белым символом.
         </desc>
         <pda>
-            This device glows brightly with a lit white symbol resembling a mushroom.
+            Это устройство ярко светится белым символом, напоминающим гриб.
 
-            This tablet unlocks gates in an unknown location.
+            Эта табличка отпирает ворота в неизвестном месте.
         </pda>
         <category>
-            DownloadedData/Precursor/Scan
+            DownloadedData/Precursor/Scan //?
         </category>
     </whitekey>
     <SMDEPTH4><!-- do not remove, used for Website generation -->
         <name>
-            Seamoth Depth Module Mk4
+            Модуль глубины Мк4 для Мотылька
         </name>
         <desc>
-            Raises depth limit to 1300m.
+            Повышает допустимую глубину до 1300м.
         </desc>
         <pda>
 
@@ -830,53 +731,41 @@
     </SMDEPTH4>
     <bioprocessor>
         <name>
-            Bioprocessor
+            Биопроцессор
         </name>
         <desc>
-            Decomposes and recombines organic matter into useful raw chemicals.
+            Разлагает и рекомбинирует органическое вещество в полезные основные химикаты.
         </desc>
         <pda>
-            This advanced machine is a key component of any main fabrication facility, and is capable of processing a
-            multitude of biological materials into useful chemical products for use in more standard fabricator-based
-            processes.
+            Эта передовая машина является ключевым компонентом любого основного производственного комплекса и способна перерабатывать множество биологических материалов в полезные химические продукты для использования в более стандартизированных процессах, с помощью фабрикатора.
 
-            In addition to several units of the base material, it requires some quantity of enzymatic reagents to
-            facilitate the process, which will be gradually consumed over the duration of the production cycle. To
-            conduct these reactions in a reasonable length of time - though note that for some reactions this can still
-            be a subtantial duration - it will consume large quantities of power to maintain high temperatures and
-            aggressive mechanical mixing.
+            Помимо нескольких единиц базового материала, она требует некоторого количества ферментативных реагентов для облегчения процесса, которые будут постепенно расходоваться в течение цикла производства. Чтобы проводить эти реакции за разумный период времени (хотя обратите внимание, что для некоторых реакций он все еще может быть значительным), она будет потреблять большие объемы энергии для поддержания высоких температур и активного механического перемешивания.
 
-            Efficiency can be increased in two ways:
-            - Power consumption firmware upgrades, capable of reducing the power cost per production cycle (sold
-            separately: not available in standard models)
-            - Addition of a microbiotic component to increase yields for the same quantity of input ingredients
+            Эффективность можно повысить двумя способами:
+            - Обновления прошивки, снижающие энергопотребление, способные уменьшить затраты энергии на производственный цикл (продаются отдельно: недоступны в стандартных моделях)
+            - Добавление микробиотического компонента для повышения количества изготоленной продукции из того же количества исходных ингредиентов
         </pda>
     </bioprocessor>
     <rebreathercharger>
         <name>
-            Liquid Breathing Recharger
+            Зарядное Устройство Жидкостного Дыхания  
         </name>
         <desc>
-            Refills liquid breathing systems in proximity.
+            Перезаправляет системы жидкостного дыхания поблизости.
         </desc>
         <pda>
-            This pump will distribute fresh liquid breathing mix into any compatible equipped unit worn within the base,
-            thanks to an advanced network of pipes embedded in the walls of the seabase. Features a large distribution
-            tank which can be refilled at will.
+            Этот насос будет распределять свежую смесь для жидкостного дыхания в любой совместимый надетый комплект в пределах базы, благодаря передовой сети труб, встроенных в стены подводной базы. Оснащен большим распределительным баком, который можно перезаправлять по желанию.
         </pda>
     </rebreathercharger>
     <geyserfilter>
         <name>
-            Geyser Particulate Filter
+            Фильтр Частиц Гейзера
         </name>
         <desc>
-            Collects certain trace minerals from volcanic activity.
+            Собирает определенные остаточные микроэлементы из продуктов вулканической активности.
         </desc>
         <pda>
-            The geyser particulate filter uses a mesh of platinum-coated, electrically-charged wire to attract certain
-            trace minerals present in the output of volcanic geysers, collecting them for use in fabrication. An
-            essential component of plasteel production, this device - or conceptual analogues - has been a mainstay of
-            deep-space outposts, be they scientific, military, or colony.
+            Фильтр частиц гейзера использует электрически  заряженную сетку  из платиновой проволоки для притяжения определенных микроэлементов, присутствующих в выбросах вулканических гейзеров, собирая их для использования в производстве. Необходимый компонент для производства пластали, это устройство, или концептуальные аналоги, является неотъемлемой частью глубококосмических аванпостов, будь то научных, военных или колониальных.
         </pda>
     </geyserfilter>
     <enum>

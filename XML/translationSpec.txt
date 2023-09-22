@@ -2,4 +2,5 @@
 1 keep   %d or %f as a placeholder
 2 review suggested  variants of translation in the   comments  // pic first-second-third variant 
 3 clarify //? comments as there is no direct translation and suggest the other synonym
-4 approved variant  of translation   and  clarifications put  in  the // comment on the  next line 
+4 approved variant  of translation   and  clarifications put  in  the // comment on the  next line
+5 keep header, sound and vo tags' content unchanged those are filenames 
