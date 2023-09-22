@@ -1,0 +1,915 @@
+<Root>
+    <HoneycombComposite>
+        <name>
+            Ячеистая Композитная Плита // Сотовая
+        </name>
+        <desc>
+            Прочная легкая панель с очень низкой теплопроводностью и отличными свойствами поглощения физического
+            воздействия и вибрации. // физическое воздействие
+        </desc>
+        <pda>
+
+        </pda>
+    </HoneycombComposite>
+    <DenseAzurite>
+        <name>
+            Концентрированный Азурит // Плотный-конценрированный
+        </name>
+        <desc>
+            Более плотно упакованная и энергетически полезная форма азурита.
+        </desc>
+        <pda>
+
+        </pda>
+    </DenseAzurite>
+    <CrystalLens>
+        <name>
+            Призматическая Линза // Рефракционная-призматическая
+        </name>
+        <desc>
+            Линза с возможностью преломления нескольких видов энергии и волн.
+        </desc>
+        <pda>
+
+        </pda>
+    </CrystalLens>
+    <HullPlating>
+        <name>
+            Бронированная Обшивка
+        </name>
+        <desc>
+            Тяжелая броня для транспортных средств.
+        </desc>
+        <pda>
+
+        </pda>
+    </HullPlating>
+    <Sealant>
+        <name>
+            Герметик
+        </name>
+        <desc>
+            Густая смола, полезная для пропитки других материалов для обеспечения непроницаемости.
+        </desc>
+        <pda>
+
+        </pda>
+    </Sealant>
+    <HeatSealant>
+        <name>
+            Теплоизоляционная Ткань
+        </name>
+        <desc>
+            Передовой текстиль, предназначенный не только для изоляции материалов от химического воздействия, но и для
+            тепловой изоляции.
+        </desc>
+        <pda>
+
+        </pda>
+    </HeatSealant>
+    <SealFabric>
+        <name>
+            Герметичная Ткань
+        </name>
+        <desc>
+            Плотно сплетенная ткань, тщательно пропитанная герметизирующими соединениями.
+        </desc>
+        <pda>
+
+        </pda>
+    </SealFabric>
+    <Chlorine>
+        <name>
+            Хлор
+        </name>
+        <desc>
+            Cl. Очень ядовитый газ, который легко растворяется в воде. Хорош для уничтожения микроорганизмов.
+        </desc>
+        <pda>
+
+        </pda>
+    </Chlorine>
+    <Luminol>
+        <name>
+            Люминол
+        </name>
+        <desc>
+            C8H7N3O2. Светящаяся жидкость, бесцветная в малых количествах и бледно-синяя в больших.
+        </desc>
+        <pda>
+
+        </pda>
+    </Luminol>
+    <SmartPolymer>
+        <name>
+            Умный Полимер
+        </name>
+        <desc>
+            Гибкий пластиковый материал, который помнит свою первоначальную форму и возвращает ей, когда воздействие
+            прекращается.
+        </desc>
+        <pda>
+
+        </pda>
+    </SmartPolymer>
+    <WeakAcid>
+        <name>
+            Карбоновая Кислота
+        </name>
+        <desc>
+            CH3(CH2)xCOOH. Разбавленная органическая кислота, подходящая для использования в базовой электронике.
+        </desc>
+        <pda>
+
+        </pda>
+    </WeakAcid>
+    <SulfurAcid>
+        <name>
+            Серная Кислота
+        </name>
+        <desc>
+            H2SO4. Концентрированная неорганическая кислота. Полезна для катализа химических реакций.
+        </desc>
+        <pda>
+
+        </pda>
+    </SulfurAcid>
+    <Motor>
+        <name>
+            Электродвигатель
+        </name>
+        <desc>
+            Электродвигатель среднего размера, способный вырабатывать достаточную мощность для приведения в действие
+            крупных механизмов, силовых установок или перекачки жидкостей. // Двигательная система-силовая
+            установка-электрический привод
+        </desc>
+        <pda>
+
+        </pda>
+    </Motor>
+    <TreaderEnzymes>
+        <name>
+            Пищеварительные Ферменты
+        </name>
+        <desc>
+            Химикаты, извлеченные из пищеварительного продукта крупных животных. // ?trace
+        </desc>
+        <pda>
+
+        </pda>
+    </TreaderEnzymes>
+    <BioEnzymes>
+        <name>
+            Органические Ферменты
+        </name>
+        <desc>
+            Органические химикаты, пригодные для разложения биологического материала на более простые соединения.
+        </desc>
+        <pda>
+
+        </pda>
+    </BioEnzymes>
+    <LathingDrone>
+        <name>
+            Нано-строительный дрон
+        </name>
+        <desc>
+            Самоходный дрон, оснащенный строительным лучом для сборки крупных объектов из сырья, подобно
+            роботизированным строительным инструментам.
+        </desc>
+        <pda>
+
+        </pda>
+    </LathingDrone>
+    <KelpEnzymes>
+        <name>
+            Микробиотический Гель
+        </name>
+        <desc>
+            Соединение, добываемое из внутренности листьев глубоководной лианы, предназначенное для поддержания роста и
+            метаболизма бактерий. Улучшит эффективность биохимической переработки.
+        </desc>
+        <pda>
+
+        </pda>
+    </KelpEnzymes>
+    <BacterialSample>
+        <name>
+            Образцы Бактерий
+        </name>
+        <desc>
+            Количество бактерий, высокоспециализированных для рекомбинации органических соединений.
+        </desc>
+        <pda>
+
+        </pda>
+    </BacterialSample>
+    <FuelTankWall>
+        <name>
+            Tank Wall
+        </name>
+        <desc>
+            A high-tech blend of materials with the right balance of elasticity and strength to contain reactive and
+            dangerous rocket fuel.
+        </desc>
+        <pda>
+
+        </pda>
+    </FuelTankWall>
+    <RocketFuel>
+        <name>
+            Neptune Rocket Fuel
+        </name>
+        <desc>
+            A chemical mixture capable of releasing extreme amounts of energy on demand.
+        </desc>
+        <pda>
+
+        </pda>
+    </RocketFuel>
+    <BrokenT2Battery>
+        <name>
+            Damaged Azurite Battery
+        </name>
+        <desc>
+            A damaged azurite battery. Can be restored to full functionality with some component replacements, at a
+            reduced cost compared to crafting a fresh battery.
+        </desc>
+        <pda>
+
+        </pda>
+    </BrokenT2Battery>
+    <AmoeboidSample>
+        <name>
+            Amoeboid Samples
+        </name>
+        <desc>
+            Strands of colonial bacteria, evolved to leach minerals from rock.
+        </desc>
+        <pda>
+
+        </pda>
+    </AmoeboidSample>
+    <TraceMetals>
+        <name>
+            Rare Elements
+        </name>
+        <desc>
+            Trace quantities of rare metal and semimetal elements, used in advanced fabrication.
+        </desc>
+        <pda>
+
+        </pda>
+    </TraceMetals>
+    <GeyserMinerals>
+        <name>
+            Volcanic Traces
+        </name>
+        <desc>
+            Small quantities of igneous materials, filtered from geyser output.
+        </desc>
+        <pda>
+
+        </pda>
+    </GeyserMinerals>
+    <WeakEnzyme42>
+        <name>
+            Enzyme 42 Traces
+        </name>
+        <desc>
+            A small amount of enzyme 42, but too impure and degraded to properly cure Kharaa infection.
+        </desc>
+        <pda>
+
+        </pda>
+    </WeakEnzyme42>
+    <Nanocarbon>
+        <name>
+            Nanocarbon
+        </name>
+        <desc>
+            Carbon nanotubes, woven together into sheets which are then heat-fused together. An advanced industrial
+            product not producible by standard fabrication technology.
+        </desc>
+        <pda>
+
+        </pda>
+    </Nanocarbon>
+    <breathfluid>
+        <name>
+            Breathing Fluid
+        </name>
+        <desc>
+            CFx•Oy. A nontoxic solvent saturated with oxygen, suitable for liquid-based respiration.
+        </desc>
+        <pda>
+
+        </pda>
+    </breathfluid>
+    <SealedSuit>
+        <name>
+            Electrochemical Suit
+        </name>
+        <desc>
+            A suit made of molecularly impenetrable fabric.
+        </desc>
+        <pda>
+            An upgrade for the basic AEP suit, the electrochemical suit is woven from a dense, chemically-sealed mesh of
+            treated fibers, and confers great resistance against both electrical and chemical hazards, allowing for
+            survival in toxic or highly charged environments.
+
+            Disclaimer: Stops almost all electrical and chemical penetration, but does little against radiation or
+            thermal hazards. Not rated for acid exposure.
+        </pda>
+    </SealedSuit>
+    <SealedGloves>
+        <name>
+            Electrochemical Gloves
+        </name>
+        <desc>
+            Because wearing a protective suit but grabbing things with your bare hands would work about as well as
+            punching out a reaper.
+        </desc>
+        <pda>
+
+        </pda>
+    </SealedGloves>
+    <RebreatherV2>
+        <name>
+            Recirculation Mask
+        </name>
+        <desc>
+            A motorized face mask equipped with the ability to actively pump a breathing medium from storage and either
+            recirculate it back to the tank or force waste gas out against very high pressures.
+        </desc>
+        <pda>
+            At depths where the rebreather can no longer suffice, causing oxygen consumption to increase to ever more
+            unmanageable levels, the recirculation mask becomes a highly valuable piece of survival equipment. Motorized
+            gas delivery and exhaust mechanisms overcome these pressures and eliminate most of the wasted source gas,
+            greatly extending the maximum practical duration of a dive.
+
+            A requirement for liquid breathing hardware to function.
+        </pda>
+    </RebreatherV2>
+    <LiquidTank>
+        <name>
+            Liquid Breathing System
+        </name>
+        <desc>
+            A breathing apparatus that uses an oxygen-saturated perfluorocarbon liquid instead of air.
+        </desc>
+        <pda>
+            At great depths, the extreme water pressure makes freediving impossible with normal respiratory mechanisms.
+            The liquid breathing system solves that limitation, and allows for respiration at extreme depths and
+            pressures without risk of barotrauma or toxicity from gas mixtures.
+
+            Note:
+            - Requires a compatible facemask to function
+            - Contains a main tank and a small (150 second) supply tank, only the latter of which is able to be directly
+            drawn upon during diving
+            - Main tank can only refill the supply tank when in a powered space
+            - Consumes breathing fluid to refill the main tank, and requires a compatible fluid pump module installed in
+            a seabase to do so
+        </pda>
+    </LiquidTank>
+    <CurativeBandage>
+        <name>
+            Nanowrap Bandages
+        </name>
+        <desc>
+            A highly sophisticated wound dressing, capable of restoring far more health than a basic first aid kit,
+            staunching any blood loss, and alleviating all symptoms of poisoning or other ongoing harming effects.
+        </desc>
+        <pda>
+
+        </pda>
+    </CurativeBandage>
+    <KharaaTreatment>
+        <name>
+            Kharaa Symptom Alleviation Canister
+        </name>
+        <desc>
+            Provides temporary relief from Kharaa symptoms that reduce pulmonary efficiency, especially when using
+            liquid respiration media. Does not lose effectiveness with use, but will do nothing to combat the infection.
+        </desc>
+        <pda>
+
+        </pda>
+    </KharaaTreatment>
+    <VENT_CRYSTAL>
+        <name>
+            Azurite
+        </name>
+        <desc>
+            Cu3(CO3)2(OH)2•8-. A luminous gemstone with exquisite optical properties and electromagnetic conductivity.
+        </desc>
+        <pda>
+            Found exclusively around certain thermal vents, these exotic crystals, despite having a similar gross
+            molecular structure to common quartz, have electron distributions more commonly seen in metallic elements.
+
+            This material can only form under very particular circumstances, specifically where superheated,
+            mineral-rich water is injected into cold water, in the absence of dense flora which would absorb, or fast
+            currents which would disperse, the minerals before they can recrystallize. During this recrystallization
+            process, many of the material's electrons are temporarily trapped within the crystal structure in a higher
+            energy state.
+
+            The light emitted by these deposits originates from those electrons the crystal structure dropping back into
+            the ground state, releasing a photon in the process. While they remain energized, these electrons imbue the
+            crystal structure with both high electrical and magnetic conductivity, allowing it to channel and reflect
+            fields of the same.
+
+            This arrangement also makes the crystal fairly unstable; Careless handling can result in violent fracturing,
+            which destroys the aforementioned structure and releases a large quantity of energy.
+        </pda>
+        <header>
+            azurite
+        </header>
+    </VENT_CRYSTAL>
+    <PLATINUM>
+        <name>
+            Platinum
+        </name>
+        <desc>
+            Pt. A dense, valuable, rare metal with extreme resistance to corrosion. In addition to being useful for
+            creating alloys, it is also useful as a chemical catalyst with organic compounds.
+        </desc>
+        <pda>
+            Rarer and more valuable even than gold, platinum is a transition metal whose chief property is its extremely
+            low chemical reactivity. This makes it all but impervious to corrosion, and allows it to mediate many
+            chemical reactions without being consumed itself. In particular it is well-suited to rearranging the
+            components of organic molecules.
+
+            The extreme rarity of this metal can be partly attributed to its high density; during planetary formation
+            and meteoric bombardment, it sinks to the core, leaving only traces in the crust. What little is left
+            further settles to the lowest layers of the sediment, only becoming available via excavation or other
+            disturbances to said sediment.
+        </pda>
+        <header>
+            platinum
+        </header>
+    </PLATINUM>
+    <PRESSURE_CRYSTALS>
+        <name>
+            Abyssoclase
+        </name>
+        <desc>
+            Small, dense crystals formed under extreme pressure, with trace amounts of exotic elements such as
+            Tellurium.
+        </desc>
+        <pda>
+            In the deepest layers of the open ocean, where mineral-rich water collects due to its greater density
+            relative to ordinary seawater, the extreme pressure can force these minerals back out of solution.
+
+            Abyssoclase is one such mineral, formed when a small seed crystal - possibly quartz, diamond, or sulfur - is
+            coated with successive layers of silcia deposits rich in Tellurium and other rare elements.
+
+            These deposits, due to the nature of the environment in which they form, are extremely dense, hard, and
+            resistant to compressive forces. If integrated into another substrate, they can massively increase that
+            material's mechanical strength.
+        </pda>
+        <header>
+            voidspike
+        </header>
+    </PRESSURE_CRYSTALS>
+    <PHASE_CRYSTAL>
+        <name>
+            Avolite
+        </name>
+        <desc>
+            An integral part of ship drives and phase gates. These crystals are not fully understood, but are known to
+            only form in deep space.
+        </desc>
+        <pda>
+            Avolite is an extremely rare crystal with extraordinary physical properties, the underlying mechanisms of
+            which are very poorly understood, to the point where in eras past its properties would have been ascribed to
+            theological origins and perhaps even formed the basis of primitive religions.
+
+            This mineral demonstrates behavior analogous to the piezoelectric effect, except on a far larger scale,
+            dragging spacetime itself as it warps when subjected to electromagnetic fields.
+
+            This ability to manipulate space and time makes these crystals an integral part of both interstellar
+            propulsion systems and phase gates, and as a result Avolite is one of the most prized minerals in existence.
+        </pda>
+        <header>
+            avolite
+        </header>
+    </PHASE_CRYSTAL>
+    <IRIDIUM>
+        <name>
+            Iridium
+        </name>
+        <desc>
+            Ir. An exotic and dense metal not typically found in most geologic strata.
+        </desc>
+        <pda>
+            Iridium is not typically present in detectable quantities in planetary crusts, instead often only being
+            found in meteorite deposits. High concentrations of this rare and dense metal are often indicators that the
+            area is geologically linked with such an impactor.
+        </pda>
+        <header>
+            iridium
+        </header>
+    </IRIDIUM>
+    <ALKALI_PLANT>
+        <name>
+            Alkali Vines
+        </name>
+        <desc>
+            A plant with alkaline gel filling its structure.
+        </desc>
+        <pda>
+            This plant is fairly rare, found only in certain ecological niches with high mineral content and low
+            exposure to light.
+
+            The main body of the plant is comprised of a fibrous tube filled with a strongly alkaline gel. The primary
+            purpose of this may be to deter creatures from eating the stems, or it may help the conduction of the
+            plant's biochemical processes.
+
+            This plant possesses an unusual ability to detect disturbances in the water nearby, and will retract into
+            the seabed for protection when approached by potential predators. Avoiding such detection will be necessary
+            to allow samples to be taken.
+
+            Assessment: Inedible but possibly useful from a chemistry standpoint, if its defenses can be circumvented
+        </pda>
+        <header>
+            AlkaliVines
+        </header>
+    </ALKALI_PLANT>
+    <VENT_KELP>
+        <name>
+            Deepvine
+        </name>
+        <desc>
+            A tall deepwater plant, filling a similar role to creepvine in its local ecosystem.
+        </desc>
+        <pda>
+            Deepvine differs substantially in appearance from its shallow-water counterpart, but genetic analysis
+            reveals a close relationship. Like creepvine, it acts as both food and shelter for the local population of
+            small fauna, supporting an ecosystem more rich in biomass than would typically be possible at this depth.
+
+            Unlike normal creepvine, however, deepvine has evolved to depend on chemosynthesis based on minerals ejected
+            by nearby geothermal activity in the lieu of sunlight. This is accomplished by the leaves harboring
+            extensive colonies of several species of bacteria which can perform biochemical reactions at far greater
+            rate and efficiency than would be possible without them.
+
+            Assessment: Inedibly toxic but the bacteria may be repurposed to improve the efficacy of chemical reactions
+        </pda>
+        <header>
+            DeepVine
+        </header>
+    </VENT_KELP>
+    <HEALING_FLOWER>
+        <name>
+            Salve Bush
+        </name>
+        <desc>
+            A plant with leaves possessing curative properties for physical, thermal, and chemical wounds.
+        </desc>
+        <pda>
+            Oils on the leaves of this plant act as natural analgesics, antiseptics, and anti-inflammatories, making
+            them extremely potent as a component in bandages and wound dressings, but unsuitable for consumption.
+
+            Assessment: Critical component of advanced healing equipment
+        </pda>
+        <header>
+            SalveBush
+        </header>
+    </HEALING_FLOWER>
+    <MOUNTAIN_GLOW>
+        <name>
+            Pyropod Pitcher
+        </name>
+        <desc>
+            Plant pods containing a complex mix of biological compounds, encased in a tough fibrous shell capable of
+            withstanding high temperatures.
+        </desc>
+        <pda>
+            Like several other apparent species on 4546B, pyropods are in fact two distinct organisms, but - unusually
+            for species encountered thus far - this relationship is not in fact symbiotic, but instead unquestionably
+            parasitic. The host plant's most notable characteristic is the hard vaselike structure it forms around
+            itself; this is perhaps an attempt at armoring itself against the parasite, though it is quite ineffective
+            if this is in fact its purpose.
+
+            The other plant takes the form of several glowing pods, each containing a noxious soup of chemicals. When
+            attached to the host plant, the parasite consumes its leaves and injects these compounds into the host
+            plant, triggering rapid chemical breakdown of its internal structures into nutrients which the parasite can
+            then consume. The resultant reaction heats the interior of the base to the point of measurably raising the
+            surrounding water temperature.
+
+            Assessment: Slightly dangerous but useful in crafting processes
+        </pda>
+        <header>
+            MountainGlow
+        </header>
+    </MOUNTAIN_GLOW>
+    <SANCTUARY_PLANT>
+        <name>
+            Eye Flame
+        </name>
+        <desc>
+            The glowing core harvested from an eye flame. Generates a voltage when subjected to mechanical, thermal, or
+            chemical stimulation.
+        </desc>
+        <pda>
+            Only encountered in a small ecological niche in a remote corner of the crash zone, this floral species may
+            have once been far more abundant; the remaining area where these plants are found may only be a small
+            remnant of what was once a larger region before the crash, but has since been replaced with a sandy
+            wasteland.
+
+            The main body of the plant consists of two layered bowls of upwards-facing violet petals, set atop a flat
+            ring of wide, firm, waxy leaves. While these leaves exhibit some luminescence and texture, they are not the
+            most remarkable aspect of this species.
+
+            At the center of the organism, lies a soft sac of electrochemically active - and extraordinarily luminescent
+            - tissue. When subjected to thermal, mechanical, or chemical stimulation, such as flexion or a change in
+            ambient pH, the cells in this organ start to generate an electrical potential, which over the entire body of
+            the organ can amount to a significant voltage. The utility of this mechanism is unknown, but it may serve
+            some role in the plant's reproductive lifecycle, perhaps signaling to the embedded seeds to begin the
+            development process.
+
+            Assessment: Applications in fabrication of electrically active materials
+        </pda>
+        <header>
+            SanctuaryPlant
+        </header>
+    </SANCTUARY_PLANT>
+    <TREE_BACTERIA>
+        <name>
+            Bacterial Colony
+        </name>
+        <desc>
+
+        </desc>
+        <pda>
+            The cave system inside the fossilized tree creates a sheltered environment where unique lifeforms can
+            thrive. One of the most visible of these takes the form of large, dome-shaped colonies of bacteria which
+            leach minerals from the cave walls to power their metabolism.
+
+            Assessment: Further study may yield insights into manipulation of biochemical reactions
+        </pda>
+    </TREE_BACTERIA>
+    <GEYSER_CORAL>
+        <name>
+            Geyser Coral
+        </name>
+        <desc>
+
+        </desc>
+        <pda>
+            This coral species filters trace minerals from volcanic emissions, specifically the superheated, turbulent,
+            mineral-rich effluent from geyser eruptions. This coral is extremely sensitive to the local conditions, and
+            is unlikely to be able to survive anywhere outside of this cave system. Furthermore, its presence indicates
+            such a volcanic feature deeper in the cave network.
+
+            Assessment: Further study will enable mechanical imitation of a similar filtration process
+        </pda>
+    </GEYSER_CORAL>
+    <DeepStalker>
+        <name>
+            Abyssal Stalker
+        </name>
+        <desc>
+            A deep-sea relative of the common stalker.
+        </desc>
+        <pda>
+            A relative of the stalkers found in shallow creepvine forests, this species has adapted to the low-light
+            conditions of its environment, using the darkness for camouflage in lieu of hiding in dense foliage.
+
+            One trait that has been preserved or even amplified, however, is the Stalker's attraction to metallic
+            materials; Abyssal Stalkers will congregate around sources of such materials, and will aggressively defend
+            them from potential rivals.
+
+            The purpose of the bioluminescent features on the stalker may be to aid this intimidation, or they may be
+            designed to attract small prey fish.
+        </pda>
+        <header>
+            deepstalker
+        </header>
+    </DeepStalker>
+    <VoidSpikeLevi>
+        <name>
+            Galvanic Leviathan
+        </name>
+        <desc>
+
+        </desc>
+        <pda>
+
+        </pda>
+        <header>
+            voidlevi
+        </header>
+    </VoidSpikeLevi>
+    <SeamothVoidStealth>
+        <name>
+            Acoustic Suppression Module
+        </name>
+        <desc>
+            Greatly reduces the detectability of basic seamoth systems to passive listeners.
+            Will not affect active echolocators, or creatures at close range.
+        </desc>
+        <pda>
+
+        </pda>
+    </SeamothVoidStealth>
+    <SeamothPowerSeal>
+        <name>
+            Electrical Sealant Module
+        </name>
+        <desc>
+            Applies an insulating coating to the seamoth exterior, significantly reducing the power loss when in
+            conductive environments.
+        </desc>
+        <pda>
+
+        </pda>
+    </SeamothPowerSeal>
+    <SeaMothSpeed>
+        <name>
+            Seamoth Propulsion Module
+        </name>
+        <desc>
+            An upgrade for the seamoth propulsor that increases base speed and allows for short bursts of even higher
+            speed.
+        </desc>
+        <pda>
+
+        </pda>
+    </SeaMothSpeed>
+    <SeamothHeatSinkModule>
+        <name>
+            Seamoth Heat Sink Module
+        </name>
+        <desc>
+            Allows the seamoth to dump large quantities of heat quickly, helping it survive in extremely hot
+            environments. Derived from spacecraft technology.
+        </desc>
+        <pda>
+
+        </pda>
+    </SeamothHeatSinkModule>
+    <SeamothHeatSink>
+        <name>
+            Seamoth Heat Sink
+        </name>
+        <desc>
+            A consumable item for the heat sink module to operate.
+        </desc>
+        <pda>
+
+        </pda>
+    </SeamothHeatSink>
+    <t2battery>
+        <name>
+            Azurite Battery
+        </name>
+        <desc>
+            A better battery, with significantly greater storage density. Its material construction precludes being
+            adapted into a vehicular power cell.
+        </desc>
+        <pda>
+
+        </pda>
+    </t2battery>
+    <CyclopsHeat>
+        <name>
+            Cyclops Heat Dissipation Module
+        </name>
+        <desc>
+            Provides the ability for the cyclops to shed excess heat in superheated environments, preventing serious
+            overheating and fire.
+        </desc>
+        <pda>
+
+        </pda>
+    </CyclopsHeat>
+    <redkey>
+        <name>
+            Red Tablet
+        </name>
+        <desc>
+            Ancient alien tablet with a red symbol.
+        </desc>
+        <pda>
+            This device is dominated by an illuminated red symbol resembling a capital 'R'.
+
+            Like other similar tablets, it presumably grants access to restricted spaces, with the special nature of
+            this tablet - both its rarity and its seeming authority - probably indicating a similarly exclusive
+            location, perhaps one only normally granting access to a select few.
+        </pda>
+        <category>
+            DownloadedData/Precursor/Scan
+        </category>
+    </redkey>
+    <whitekey>
+        <name>
+            White Tablet
+        </name>
+        <desc>
+            Ancient alien tablet with a bright white symbol.
+        </desc>
+        <pda>
+            This device glows brightly with a lit white symbol resembling a mushroom.
+
+            This tablet unlocks gates in an unknown location.
+        </pda>
+        <category>
+            DownloadedData/Precursor/Scan
+        </category>
+    </whitekey>
+    <SMDEPTH4><!-- do not remove, used for Website generation -->
+        <name>
+            Seamoth Depth Module Mk4
+        </name>
+        <desc>
+            Raises depth limit to 1300m.
+        </desc>
+        <pda>
+
+        </pda>
+    </SMDEPTH4>
+    <bioprocessor>
+        <name>
+            Bioprocessor
+        </name>
+        <desc>
+            Decomposes and recombines organic matter into useful raw chemicals.
+        </desc>
+        <pda>
+            This advanced machine is a key component of any main fabrication facility, and is capable of processing a
+            multitude of biological materials into useful chemical products for use in more standard fabricator-based
+            processes.
+
+            In addition to several units of the base material, it requires some quantity of enzymatic reagents to
+            facilitate the process, which will be gradually consumed over the duration of the production cycle. To
+            conduct these reactions in a reasonable length of time - though note that for some reactions this can still
+            be a subtantial duration - it will consume large quantities of power to maintain high temperatures and
+            aggressive mechanical mixing.
+
+            Efficiency can be increased in two ways:
+            - Power consumption firmware upgrades, capable of reducing the power cost per production cycle (sold
+            separately: not available in standard models)
+            - Addition of a microbiotic component to increase yields for the same quantity of input ingredients
+        </pda>
+    </bioprocessor>
+    <rebreathercharger>
+        <name>
+            Liquid Breathing Recharger
+        </name>
+        <desc>
+            Refills liquid breathing systems in proximity.
+        </desc>
+        <pda>
+            This pump will distribute fresh liquid breathing mix into any compatible equipped unit worn within the base,
+            thanks to an advanced network of pipes embedded in the walls of the seabase. Features a large distribution
+            tank which can be refilled at will.
+        </pda>
+    </rebreathercharger>
+    <geyserfilter>
+        <name>
+            Geyser Particulate Filter
+        </name>
+        <desc>
+            Collects certain trace minerals from volcanic activity.
+        </desc>
+        <pda>
+            The geyser particulate filter uses a mesh of platinum-coated, electrically-charged wire to attract certain
+            trace minerals present in the output of volcanic geysers, collecting them for use in fabrication. An
+            essential component of plasteel production, this device - or conceptual analogues - has been a mainstay of
+            deep-space outposts, be they scientific, military, or colony.
+        </pda>
+    </geyserfilter>
+    <enum>
+        <name>
+
+        </name>
+        <desc>
+
+        </desc>
+        <pda>
+
+        </pda>
+    </enum>
+    <enum>
+        <name>
+
+        </name>
+        <desc>
+
+        </desc>
+        <pda>
+
+        </pda>
+    </enum>
+    <enum>
+        <name>
+
+        </name>
+        <desc>
+
+        </desc>
+        <pda>
+
+        </pda>
+    </enum>
+</Root>
