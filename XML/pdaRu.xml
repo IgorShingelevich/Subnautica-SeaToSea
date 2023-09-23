@@ -1,0 +1,583 @@
+<Root>
+  <sunbeamdebrishint>
+	<name>
+		Потенциально пригодные обломкаи
+	</name>
+	<pda>
+		Разрушение  торгового корабля Солнечный Луч могло привести к разбросу части его груза и конструкционных материалов по территориям возле места, где он пытался приземлиться, или вдоль его траектории подлета (или ее продолжения). Это может обеспечить доступ к материалам, обычно недоступным на поверхности 4546B.
+
+		Однако эти материалы разбросаны на обширной территории, а местная фауна делает ручной поиск крайне нежелательным.
+	</pda>
+	<category>
+		DownloadedData/Codes
+	</category>
+  </sunbeamdebrishint>
+  <crashmesahint>
+	<name>
+		Источник сигнала спасательной капсулы 10
+	</name>
+	<pda>
+		Сигнал бедствия из спасательной капсулы 10 содержал поврежденные данные местоположения. Фотографические данные также были повреждены, но их можно было частично восстановить.
+		
+		Сведения:
+		-Капсула затонула в безжизненном песчаном районе с минимальной растительностью
+		-Значительная глубина в месте капсулы и еще более глубокая вода во всех направлениях от него
+		-Обнаружено несколько крупных представителей фауны.
+		-Направление - к югу от Авроры
+	</pda>
+	<category>
+		DownloadedData/Codes
+	</category>
+	<radio>
+		[distant reaper calls faintly audible throughout]
+		[quiet] Это спасательная капсула 10. Мы ПРЯМО РЯДОМ с одним из этих ужасных монстров. Мы...
+		
+		[other voice, whispering] Заткнись, оно нас услышит!
+		
+		[first person, whispering, offmic]  Если мы не пошлем сигнал бедствия, нам никогда отсюда не выбраться! Услышит нас оно или нет, рано или поздно ему станет любопытно, и оно доберется сюда!
+		
+		[quiet but not whispering] Мы приземлились за Авророй, едва не угодили в глубокую воду. Захватите тяжелое вооружение... оно вам понадобится.
+		
+		[second person] Какое оружие? Разве ты не слышал, что случилось на Обраксе... [cut off]
+	</radio>
+	<radioSound>
+		Sounds/vo/radio_crashmesa.ogg
+	</radioSound>
+	<header>
+		CrashMesaImage
+	</header>
+  </crashmesahint>
+  <mountaincavehint>
+	<name>
+		Unknown lifepod detection
+	</name>
+	<pda>		
+		Reported:
+		-Lifepod sunk in a comparatively sparsely populated location
+		-Depth in excess of 250m
+		-Numerous small to medium cave systems reported.
+		-Origin far to the north of the Aurora
+	</pda>
+	<category>
+		DownloadedData/Codes
+	</category>
+  </mountaincavehint>
+  <voidpod>
+	<name>
+		Lifepod 15 Crew Log
+	</name>
+	<pda>
+		I can't tell whether I'm cursed or the luckiest guy alive. On one hand, I saw what was coming and got to the pods before anyone else. I even got the pod all to myself by popping it off the Aurora before anyone else could get near.
+		
+		On the other hand, doing that landed me all the way out here in the middle of open water. The Aurora, and by proxy any hope of rescue, is miles away. Meanwhile, around me? Nothing. As far as the scanner can see, aside from the area the wreck is sitting, this whole region is water that might as well be infinitely deep.
+		
+		Well, it briefly picked up some kind of isolated chunk of land off to the southeast, but its like a kilometer and a half out, and the signal's crap. Given that the sonar says it's rated to a depth of 500 meters, it's gotta be pretty far down. I'll admit I'm kind of curious about what it is, but I'd be an idiot to leave the safety of this lifepod for some-
+		
+		What the HELL is-
+		
+		No, it can't be. Not out here! Yeah, I heard those radio calls about sea monsters soon after the ship came down. But I've got nothing like that out here. There isn't even fish for ME to eat, let alone something that would want to eat me. No, that was probably just some debris falling out of orbit or some-
+		
+		Great, now I've got to go out and patch the leak. At least I had the foresight to nick the repair tool from the cargo bay on the way to the lifepod, so that's gonna be easy. For once.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/voidpod-pda.ogg
+	</audio>
+  </voidpod>
+  <voidspike>
+	<name>
+		Lifepod 15 Crew Log #2
+	</name>
+	<pda>
+		Well that settles it. I'm screwed!
+		
+		No sooner than I work out that I'm isolated but safe, some monster the size of a train comes out of nowhere and smashes my pod to pieces. I guess I should consider myself lucky that there was enough wreckage for me to pull myself out of the water, and avoid that...thing, so that it just got bored and left. That and the fact that I managed to collect most of my equipment from what was left of the storage locker.
+		
+		There might be enough residual charge left in the fabricator for me to be able to recycle some of the scrap; maybe I can make a seaglide and a couple of air tanks.
+		
+		After that? I have the option of swimming to the Aurora...and all the monsters that picked off the other crew. Or I could go towards that mystery area that might not even exist. And if there's nothing good down there, I won't even make it back to the surface. Or I could stay floating here for eternity as I watch an endless stream of ships get blown out of the sky trying to rescue the one that came before them.
+		
+		I've got lots of options, it's just that all of them suck!
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/voidspike-pda.ogg
+	</audio>
+  </voidspike>
+  <dunearchhint>
+	<name>
+		Survivor Radio Signal Origin
+	</name>
+	<pda>
+		A radio signal without lifepod signatures, including location and photographic data. Presumably originated from another Aurora crewmember who survived planetfall.
+		
+		Reported:
+		-Signal contained properties matching the Aurora's onboard hardware
+		-Depth in excess of 300m
+		-Description of open sandy plains with little flora and only large fauna
+		-Nearby large rock arch reported
+	</pda>
+	<category>
+		DownloadedData/Codes
+	</category>
+	<header>
+	</header>
+  </dunearchhint>
+  <dunearch>
+	<name>
+		Trapped Survivor Crew Log
+	</name>
+	<pda>
+		What kind of evacuation policy expects and depends on not having any damage to the lifepods? Whatever hit the Aurora took out the whole starboard row of them, pods 26 to 49, completely toast, just like anyone unlucky enough to get left behind after the rest detached. Like me.
+		
+		Actually, thinking about it, I'm amazed that I'm still alive, what with having ridden the ship - or more likely, part of it - all the way down to the surface. However, that'll change real fast if I can't find a way out of here - my food is just about out, and while I don't ACTUALLY know how deep I am, I can hear the hull groaning under the pressure, so it's probably deep. Oh, and of course I haven't got a fabricator, a radio, medkits, anything. Just me and a bunch of boxes I can't even open with the tools at hand. As long as the hull holds, I've got starvation to look forward to. If it doesn't...well...then it'll be over quite a bit faster.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/dunearch.ogg
+	</audio>
+  </dunearch>
+  <bkelpbase>
+	<name>
+		Lifepod 1 Crew Log #1
+	</name>
+	<pda>
+		--todo--
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/bkelp-pda-entry-bcg.ogg
+	</audio>
+  </bkelpbase>
+  <bkelpbase2>
+	<name>
+		Lifepod 1 Crew Log #2
+	</name>
+	<pda>
+		The only reason I'm alive right now is because the chunk of the vehicle bay up there, the one that snagged my pod during the crash and dragged me down here with it, was packed full of vehicle parts, blueprints, and enough survival equipment to let me make a seamoth and a basic little hideout in this pit.
+		
+		From there, it's been nothing but headaches the entire way. I'm 600 meters below the surface, where the pressure is high enough that even with an air tank I can't last ten seconds out there. My seamoth wasn't doing much better until I managed to collect enough lithium - that's one thing that the bay didn't have, probably burned in the crash - to make a half ton of plasteel and reinforce the hull.
+		
+		And that's just the beginning! There's three ways out of this place, and none of them work as an exit:
+		Straight up is guarded by some giant roaring monster - I didn't get a good look, but I don't think I'd have lived to talk about if I had.
+		Out along the trench, meanwhile, takes me right past three bus-sized tesla coils in fishy shape, while I'm in a metal vehicle immersed in seawater. So that's out.
+		
+		So, that leaves the tunnel across the way, the one full of green fog. Sure, at first glance it doesn't look so threatening; it's bright, not very cramped, and full of resources.
+		
+		Don't let that fool you. That brine is NASTY stuff, some kind of acidic soup of salts. Get any on your skin and it leaves a burn worse than a soldering iron. Given time, the concentrated stuff running down the bottom will even eat through solid titanium. Even if you don't take a dip in the river, however, the stuff that diffuses into the water above is still corrosive enough to confine you in your vehicle unless you've got damn good protection.
+		
+		Speaking of protection, that's something your vehicle will need too, unless you like the brine causing the energy to leak out of your power cells like...air from a submerged chunk of starship. I thought I was clever, getting around that by bringing a bag full of power cells on one of my trips. I wish - all I had to show for it was a dead seamoth and 21 empty cells. Like I said, that brine is awful stuff. It wasn't until I managed to jury-rig a basic sealant upgrade that I could explore the area proper.
+		
+		Now comes the next problem: Three of the four ways out of that cave network are impassable, inhabited by a glowing serpent with a half dozen yellow eyes which will try and smash your seamoth the moment it spots you. And the fourth, the one I've been trying to navigate next? Sure, it seems safe at first, just a glowing tree and a bunch of harmless rays feeding on it, but not only does that dive even deeper, of course beyond the range of a seamoth even with all of the usual standard suite of upgrades - that meant more jury-rigging, of course - it leads right into a boiling hellscape of lava.
+		
+		It's far too hot down there for any kind of extended search; I've got to find another way out. Or I could try to rush one of the existing exits. Well, that or die trying. This base, nice as it is - for a prison on the bottom of the ocean, at least - is not where I want to spend all eternity.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/bkelpbase2.ogg
+	</audio>
+  </bkelpbase2>
+  <lrpowerseal>
+	<name>
+		Seamoth Debris Crew Log
+	</name>
+	<pda>
+		[Undecipherable screeching, impact, and flooding sounds]
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/lrpowersealpda.ogg
+	</audio>
+  </lrpowerseal>
+  <cragdiegg>
+	<name>
+		Who is Dragon Industries?
+	</name>
+	<pda>
+		Occasionally mentioned in public and private Alterra documents is another organization, usually referred to as "Dragon Industries". Attempts to determine the exact nature of this entity are somewhat stymied by the apparent repeated hostility between it and Alterra. One form this apparently took was mutual theft and destruction of information and technology, which further muddies the available evidence.
+		
+		Several novel technological breakthroughs are clearly attributable to Dragon Industries, however, including industrial turboshaft machinery, highly efficient resource refinement technologies in regular use in deep-space mining outposts, electronic warfare technology for midsize spacecraft, and planetary terraforming equipment which proved invaluable during the Expansion.
+		
+		Whatever their true nature, it does seem to be clear that DI, as it is often rendered, is or was a large organization with influence across multiple star systems, as references to it include what seem to be mentions of other colonies under its control, including the names "Nauvis" and "Alera", neither of which are the recognized official names of any human colony in known space. Other records indicate collaborations with a long-defunct R&amp;D organization which operated under the name - among many others - of "Aperture Science". Exactly what the relationship was between these two organizations is unknown, as the only available information concerns the design and construction of what seem to be elaborate tests of intellectual aptitude.
+		
+		While this data would seem to indicate that Dragon Industries is another Trans-Gov, an organization of this size and with this reach being this mysterious seems unlikely. Further research will be required.
+	</pda>
+	<category>
+		DownloadedData/PublicDocs
+	</category>
+  </cragdiegg>
+  <treaderpod>
+	<name>
+		Lifepod 9 Crew Log
+	</name>
+	<pda>
+		Ohhh, "it's only a small detour", they said. "There's probably nothing there", they said. To hear them tell it, we'll just pop over, find nothing, and be on our merry way with nothing to show for it but a nice fat bonus from the Mongolian States. I had a bad feeling, of course, but nooooo, noone listens to me! Why would they? I've only been acting as a deep space navigator for ten years! I've seen things go sideways from far less reckless decisions than this!
+		
+		And now that they got their way? I'm stuck here AT THE BOTTOM OF THIS WORTHLESS OCEAN, in a lifepod whose floatation systems might as well say "NOT RATED FOR EXPOSURE TO WATER"! And that's not all! I've got a fabricator, medical cabinet, and radio, but guess what? NONE OF THEM WORK WITHOUT POWER! Of which there's precious little when you've got 400 meters of water over your solar panels.
+		
+		Damn Alterra and damn everything they make! Thanks to them, things could NOT get worse!
+		
+		Something's exploding up there. I guess it makes me feel a little better knowing that someone else is having just a bad a day as-
+		
+		....What was that?
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/treaderpod.ogg
+	</audio>
+  </treaderpod>
+  <treadercave>
+	<name>
+		Lifepod 9 Crew Log #2
+	</name>
+	<pda>
+		Word of advice: If ever you think things can't get worse, just remember - they can! I was trapped at the seafloor, but at least I had air, food, and was shielded from stuff that would want to eat me. Now my pod gets stomped flat by some ugly bastards with legs on their face! I barely had time to strap on my mask and air tank!
+		
+		I managed to scrounge up some metal to build a small habitat to give me somewhere to breathe and rest, but this isn't gonna last. I need food. I refuse to starve to death down here. So that's priority number one.
+		
+		Unfortunately, my little farm isn't doing so well. I don't get it; they said the melons needed lots of water to grow, but when I put them outside, they shrivelled up and died like they weren't literally SURROUNDED by water! At least I'm smart enough to know water when I feel it, so I'm good there. At least there's lots of fish to eat in the meantime.
+		
+		You know what else there's a ton of down here? Riches! Diamonds, rubies, gold, you name it, there's huge deposits of it. Shame I'll probably never get a chance to get rich with it, what with the being STUCK AT THE BOTTOM OF THE OCEAN and all.
+
+		I think I see some rubies in the rocks in the ceiling, too. All I've gotta do is cut some of those vines loose. Maybe if I do get back I'll be rich enough to buy out all the people who sent us on this mission, just so I can fire them. That'll be the day.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/treadercave.ogg
+	</audio>
+  </treadercave>
+  <crashmesa>
+	<name>
+		Lifepod 10 Crew Log
+	</name>
+	<pda>
+		Roooooaaaaarrr!
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/reaper.ogg
+	</audio>
+  </crashmesa>
+  <mountainpodearly>
+	<name>
+		Lifepod 14 Crew Log #1
+	</name>
+	<pda>
+		[splashdown]
+		
+		Lorenz: [calm] Seems everything's working exactly as advertised. Soft...ish landing, upright and afloat; power's on; the fab works.
+		
+		Jules: [unimpressed] For now.
+		
+		Lorenz: [exasperated] Right. I forgot, one of the fundamental laws of nature is that when things are working perfectly it's just trying to lull you into a false sense of security before it all goes tits-up.
+		
+		Jules: [fed up] That's exactly how I'd say things have gone so far! Perfectly! What a GREAT way to describe the ship falling out of orbit and stranding us all here!
+		
+		Lorenz: Look, the ship isn't far away, and I know we'd have sent out a distress call. Rescue's probably already on its way. We just have to stay calm, stay put, and everything will turn out fine.
+		
+		Jules: Until we run out of food and water because there's four of us in a pod designed for two.
+		
+		Fordson: Hello!
+		
+		Jules: Thanks, Fordson, very helpful.
+		
+		Lorenz: So we ration our supplies a bit. Worst comes to worst, there's probably something in the water to sustain us, at least for the few days we need.
+		
+		Jules: So that's your plan, then? Just stay floating in this metal box until we either get plucked out of the water by rescue or run out of supplies?
+		
+		Lorenz: I like the sound of it. Perhaps it's a bit too well-thought out for you? Maybe you'd prefer something a bit more deranged, like venturing off into the unknown?
+		
+		Jules: If I do, I won't be letting you come with me.
+		
+		Lorenz: [pleased/exasperated] Best news I've had all day.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/mountainpodearly.ogg
+	</audio>
+  </mountainpodearly>
+  <mountainpodlate>
+	<name>
+		Lifepod 14 Crew Log #2
+	</name>
+	<pda>
+		[sounding very defeated]
+		
+		[heavy breathing for a few seconds]
+		
+		Lorenz: It's...it's been three days. I'm starving, I'm tired, I have a bruise the size of a grapefruit, and...I'll be honest. I'm COMPLETELY fed up at this point. I've had it with this damned planet. We didn't even make it a single day before some kind of beast tore the flotation system right off the pod and sent us to the seafloor. Ripped a pretty big hole in the hull, too.
+		
+		The others took off. Made a couple of seaglides and headed west. They swore they saw land on the way down, but I know the grim truth; this planet's nothing but ocean. I wonder how long they spent searching for a mirage before they met a good reminder they should have stayed back here. Maybe the same reminder that took out the pod.
+		
+		The water fried the radio, too: since we went under, the only sounds it's been making are deep garbled nonsense about 'tracking subjects'. So I've got to survive on my own until rescue gets here......If it gets here.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/mountainpodlate.ogg
+	</audio>
+  </mountainpodlate>
+  <mountaincave>
+	<name>
+		Mountain Cave Crew Log
+	</name>
+	<pda>
+		Lorenz: Surviving out here hasn't been easy, but it hasn't been quite as bad as I'd feared. Food and water have been pretty trivial - though those squishy pink fish are getting rarer than I'd like - and there's lots of materials to be had. I even managed to grab some crates full of supplies and tools from the wreck up top.
+		
+		Unfortunately, that's where the good news ends: the whole region is crawling with more of those monsters that destroyed the lifepod. One of 'em smashed my seamoth the moment I took it for a test drive. I made it out, but only barely. They do tend to keep to the open areas, at least, so I've so far been able to avoid them by holing up here in the cave, but I can't do that forever.
+		
+		Now, I'm not COMPLETELY out of ideas. I've got this blueprint for some kind of acoustic cloaking module; maybe it'll help me evade detection from those things. To make it, though, I'll need a lot of exotic refractory crystals. The good news? I've already found some by the thermal vents to the west, and three more around the one right here in this cave. Bad news? Three's not enough...I need like ten times that, maybe more.
+
+		Soooo...sooner or later I'm gonna have to risk it and go grab the ones off the vents outside and then look for more. This area hasn't had all that many, though. Maybe the mountains around here channel the currents through the vent areas and disturb whatever conditions those crystals need to form? I can't imagine where else I'd look; I haven't seen anywhere that's got similar levels of geothermal activity anywhere near here. Maybe I should check that other cave system to the west. Unfortunately it's got one of those leviathans patrolling the entrance, so I haven't had the courage to do that yet.
+		
+		But...god, if this works, I can make a new seamoth, and slip right past these blasted giants and head to the Aurora to wait for rescue. If it doesn't...
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/mountainbase.ogg
+	</audio>
+  </mountaincave>
+  <islandpda>
+	<name>
+		Mountain Island Crew Log
+	</name>
+	<pda>
+		Jules: I was right and Lorenz was wrong. There IS land here. Just...not very much of it. Certainly not enough to support three people. Not when it's mostly a spire of rock surrounded by sand.
+		
+		Fordson: And the-
+		
+		Jules: OK, yes, there's also some giant probably-alien building, too. But I don't think that we'd find much to eat in there either.
+		
+		Fordson: No, but it could-
+		
+		Jules [pissed off] Not that it matters, anyway. Not when we're locked out after SOMEONE dropped the mystery tablet twenty feet from the door. That thing is probably centuries old, survived out here who knows how long, and then you fumbled it. Onto a rock no less.
+		
+		Fordson: I said I was sorry...
+		
+		Jules: Why don't you make yourself more useful, perhaps go see if that cave over there has anything for us? To eat, perhaps?
+		
+		Fordson: What about-
+		
+		Jules: I know you already - so bravely - tested the edibility of those trees, but they won't last a week if all three of us start eating them, especially when they're mostly water and you kill it taking enough of it to fill yourself. So...you. &lt;b&gt;Cave&lt;/b&gt;. Find stuff. Goodbye.
+		
+		Fordson: [pause] Okaayyyyy...
+		
+		Jules: [distant] And don't come back until you find something! [close again] Maybe if I'm feeling generous I'll head back across the valley to the pod and tell Lorenz about this place. He's an insufferable bastard, but I don't quite feel like leaving him to die with nothing to eat, drink, or take shelter in. If for no other reason than rubbing the fact I was right in his face.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/mountainislandpda.ogg
+	</audio>
+  </islandpda>
+  <islandcave>
+	<name>
+		Mountain Island Crew Log #2
+	</name>
+	<pda>
+		Jules [traumatized]: What good is being right when the only thing it changes is how you die?
+		
+		Fordson did find something in the caves after all. Unfortunately, as usual for him, it was completely useless to us. Some kind of ring of more of that alien metal. Could be a statue for all I care.
+		
+		We also found some more of those tablets, but I'm not touching them. Not after what it did to the others. I'm sure they're cursed, along with rest of this alien trash. Hell, maybe we have that to thank for what happened to the ship, too. Maybe this whole damn planet's some kind of prison and those things are tracking devices that bring torment on anyone who's touched one.
+
+		Exhibit A - We've come out of this cave for fish on several occasions, and it's never come to anything. Buuuuuuut, after the other two dug up another tablet - and not just another one of those purple ones, either; this one was red as blood - on our very next trip out, we ended up face to face with the thing I'm sure killed the pod. Giant ugly beast, probably a hundred feet long. Four black eyes and a mouth big enough to swallow someone whole. I'm not just guessing, either - it grabbed Fordson with its jaws before any of us had a chance to react.
+		
+		The monster took chase after the other two of us. When we made it back to the cave it wasn't "we" at all - I'm the only one who escaped...and only in the barest sense too, given that I can still hear that thing every minute of every day I'm in here.
+		
+		Maybe it senses the tablet, which they left right next to our little cache. I'll probably have to get rid of it, but I've gotta find another way out of this cave first. I'm not going near the old exit ever again, especially holding that thing. But as soon as I do find a way into some deeper water - the deeper the better - down it goes. I do hope there's an exit on the west side of this island, away from that...monster.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/mountainislandcave.ogg
+	</audio>
+  </islandcave>
+  <rescuepdalog>
+	<name>
+		Rescue/Salvage Crew Report
+	</name>
+	<pda>
+		Lifepod located, no sign of target passenger.
+		
+		Search of immediate surroundings yields no findings.
+		
+		Possible ejection prior to impact, or the site may have been disturbed by native fauna.
+		
+		Local environment features many alcoves and small cave systems. Proceeding to survey these locations.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/khasarrescuepda.ogg
+	</audio>
+  </rescuepdalog>
+  <treepda>
+	<name>
+		Rescue/Salvage Crew Final Recording
+	</name>
+	<pda>
+		I've made the biggest - and last - mistake of my life. During my surveys around this large tree, I found an opening to a maze of internal passages. As a last resort before calling off the search, I decided to check the interior in case our VIP had somehow survived and found an air pocket.
+		
+		Not only has there been no sign of him in here, but the water movement through the tree creates strong currents at the chokepoints, and I couldn't push past it to make my way back out. All I could do was pass through even more currents, and now I'm lost, low on air, and have no good way out. And I'm spending my last minutes ranting into an audio log whose very location means that anyone who finds it is going to meet the same fate.
+		
+		If someone IS reading this, I lost a data card somewhere in this cave system. It's got a firmware upgrade on it for the laser cutter, makes it burn hotter so it can cut through thick reinforced titanium. Can't count the number of times that came in handy during rescue and salvage operations. It won't help you cut your way out of here - trust me, I tried - but maybe if you do live to see the outside again you'll find it useful somewhere else.
+		
+		As for me, I'm gonna go try my luck with that current one last time.
+	</pda>
+	<category>
+		DownloadedData/AuroraSurvivors
+	</category>
+	<audio>
+		Sounds/vo/mushtreepda.ogg
+	</audio>
+  </treepda>
+  <lostrivershortcircuit>
+	<name>
+		Hypersalinated Water
+	</name>
+	<pda>
+		Due to the multiple upward-facing openings, water with extremely high salt and other mineral content - which is denser than the more pure water above - collects in this cave system. This high concentration of free ions makes the water remarkably conductive, to the point where electrical charge can rapidly leak from areas where it is concentrated - such as electrical storage units - to the environment if they are exposed to the water. 
+		
+		This effect is most pronounced while inside the caustic brine, but sufficient ion diffusion occurs for leakage to still be significant while in clearer water.
+		
+		No known means is currently available to inhibit this phenomenon, though it is only of particular importance to vehicles as their power cells are the largest and densest electrical sources in present use.
+	</pda>
+	<category>
+		PlanetaryGeology
+	</category>
+	<header>
+		LostRiverImage
+	</header>
+  </lostrivershortcircuit>
+  <deepairuse>
+	<name>
+		Deep-Sea Respiration
+	</name>
+	<pda>
+		At the very high ambient pressures below 400m depth, the process of expelling waste gases is inefficient and includes significant quantities of otherwise usable air, even with a rebreather equipped. While this is not immediately lethal, and does not completely prevent exploration of deeper areas, it does significantly reduce swim range outside of vehicles, and will become increasingly more problematic at greater depths.
+		
+		A more advanced and powerful gas delivery system will be needed to eliminate these concerns.
+	</pda>
+	<category>
+		Advanced
+	</category>
+  </deepairuse>
+  <heatdamage>
+	<name>
+		Mechanical Overheating
+	</name>
+	<pda>
+		The high level of volcanic activity in this region has superheated the water to the point where it will not only rapidly kill an unprotected swimmer, but will even cause submersibles to rapidly overheat to the point of accruing damage. The seamoth is sufficiently durable to survive brief exposures to this environment, but extended journeys will require either outpost moonpools or the ability to survive free swimming to perform immediate repairs.
+		
+		This will not be an option for the cyclops; due to its much greater heat generation and increased surface area with which to absorb environmental heat, it is wholly unsuited for this environment unless it can be protected by an as-yet unknown mechanism.
+	</pda>
+	<category>
+		PlanetaryGeology
+	</category>
+	<header>
+		ILZHeatImage
+	</header>
+  </heatdamage>
+  <drfwarperheat>
+	<name>
+		Heat Expulsion Technology
+	</name>
+	<pda>
+		The need for warpers to operate in superheated environments necessitated new technological advances with regard to submerged objects being able to expel heat to their environment, even when said environment is at a higher temperature.
+		
+		This is generally considered impossible by human physics, being in violation of the second law of thermodynamics. However, the precursors have clearly overcome this barrier, as these entities are able to function in waters exceeding 300 degrees in temperature, well above that which would destroy even highly augmented organic tissue.
+		
+		How this technology works is not understood, but it can still be adapted for other purposes, such as similar heat expulsion from submersibles.
+	</pda>
+	<category>
+		DownloadedData/Precursor/Terminal
+	</category>
+  </drfwarperheat>
+  <needlaunchcargo>
+	<name>
+		Alterra Desired Research Sample Manifest
+	</name>
+	<pda>
+		In order to be granted permission to use the Neptune rocket to return to Federation space, Alterra requires that you compensate the expenses incurred with equivalent value in the form of research specimens. These can be collected from the surrounding environment and stored in the lockers onboard the rocket's intermediary stage.
+		
+		The desired cargo includes:
+	</pda>
+	<category>
+		Advanced
+	</category>
+  </needlaunchcargo>
+  <notvisitedallbiomes>
+	<name>
+		Biome Survey Required
+	</name>
+	<pda>
+		Alterra requires you perform a basic survey of the ecological niches present in this region of 4546B in order to be granted permission to depart.
+		
+		To satisfy this requirement, you need to collect data by visiting the following ecological regions:
+		-A biome with a great deal of flora and fauna biodiversity, well-exposed to sunlight
+		
+		-A deep reef dominated by large luminescent coral unique to the biome
+		
+		-A deep sparse forest of a unique species of kelp
+		
+		-A hot-water zone with flora adapted for that environment
+		
+		-An open sandy region with numerous predatory megafauna
+		
+		-A low-biodiversity region lacking large fauna
+		
+		-A secluded cave system with unique species
+		
+		-A landmass buoyed by lifeforms and host to many land plants
+		
+		-A fairly barren region with high topographic variation and several thermal vents
+		
+		-A forest composed of many long-lived corals
+		
+		-Shallow kelp forests
+		
+		-Sunken outcrops of land in a region with high volcanic activity on the seafloor
+	</pda>
+	<category>
+		Advanced
+	</category>
+  </notvisitedallbiomes>
+  <unfinishedexplore>
+	<name>
+		
+	</name>
+	<pda>
+		
+	</pda>
+	<category>
+		Advanced
+	</category>
+  </unfinishedexplore>
+</Root>
