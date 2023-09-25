@@ -1,0 +1,388 @@
+<Root>
+  <deepair>
+	<name>
+		
+	</name>
+	<desc>
+		Внимание: пройдена глубина 500 метров. Обнаружено экстремальное давление окружающей среды. Потребление кислорода достигло максимально допустимого уровня.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/500mwarn.ogg
+	</pda>
+  </deepair>
+  <lrpoison>
+	<name>
+		
+	</name>
+	<desc>
+		Тревога: химическая травма неизбежна. Немедленно покиньте этот район или создайте химическую защиту.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/lrpoisonwarn.ogg
+	</pda>
+  </lrpoison>
+  <voidspikeenter>
+	<name>
+		
+	</name>
+	<desc>
+		Сканеры ближнего действия показывают изобилие подвешенных массивов суши в нижележащем регионе. Обнаружены неизвестные минеральные залежи.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/voidspike.ogg
+	</pda>
+  </voidspikeenter>
+  <aurorafire>
+	<name>
+		
+	</name>
+	<desc>
+		Внимане: Обнаружены опасное присутствие огня. Защитный радиационный костюм не приспособлен для этой среды.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/aurorafirewarn.ogg
+	</pda>
+  </aurorafire>
+  <aurorafire_norad>
+	<name>
+		
+	</name>
+	<desc>
+		Внимание: обнаружены опасное присутствие огня.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/aurorafirewarn_norad.ogg
+	</pda>
+  </aurorafire_norad>
+  <underislandgeyserminerals>
+	<name>
+		
+	</name>
+	<desc>
+		Обнаружена интенсивная вулканическая активность на дне в этом районе, что приводит к высокой концентрации минеральных ресурсов.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/underislandgeyserminerals.ogg
+	</pda>
+  </underislandgeyserminerals>
+  <kelpcavedrone>
+	<name>
+		
+	</name>
+	<desc>
+		Обнаружены сигналы транспортных средств фабрикатора Альтерра в близлежащей пещерной системе, глубина 80 метров. Следует соблюдать осторожность из-за близлежащей вулканической активности.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/kelpcaveprompt.ogg
+	</pda>
+  </kelpcavedrone>
+  <kelpcavedronelate>
+	<name>
+		
+	</name>
+	<desc>
+		Обнаружены технологические артефакты в окрестностях спасательной капсулы 3. Рекомендуется дальнейшее исследование.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/kelpcavepromptlate.ogg
+	</pda>
+  </kelpcavedronelate>
+  <redgrasscave>
+	<name>
+		
+	</name>
+	<desc>
+		Сканирование указывает на наличие биологических образцов в этой пещерной системе, которые могут быть использованы для синтеза новых химических материалов.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/cavebioprompt.ogg
+	</pda>
+  </redgrasscave>
+  <kooshcave>
+	<name>
+		
+	</name>
+	<desc>
+		Местные пещеры, похоже, содержат высокие концентрации необычных залежей металлов.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/kooshcaveprompt.ogg
+	</pda>
+  </kooshcave>
+  <sanctuaryprompt>
+	<name>
+		
+	</name>
+	<desc>
+		Обнаружена неизвестная экологическая сигнатура в регионе, а также возможно уникальные формы жизни. Необходимо получить живые образцы, пока уровень радиации не сделает выживание маловероятным.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/sanctuaryprompt.ogg
+	</pda>
+  </sanctuaryprompt>
+  <treaderpoo>
+	<name>
+		
+	</name>
+	<desc>
+		Несмотря на низкую ценность, биологические материалы все еще могут быть использованы для выживания.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/treaderpooprompt.ogg
+	</pda>
+  </treaderpoo>
+  <dunearch>
+	<name>
+		
+	</name>
+	<desc>
+		Обнаружена неизвестная радиопередача в регионе. Невозможно идентифицировать сигнал спасательной капсулы. Результаты выводятся в банк данных.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/dunearchprompt.ogg
+	</pda>
+  </dunearch>
+  <followradio>
+	<name>
+		
+	</name>
+	<desc>
+		Исследование радиопередач, исходящих от выживших с Авроры, может обеспечить технологиями и помочь выживанию.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/radioprompt.ogg
+	</pda>
+  </followradio>
+  <needlaunchcargo>
+	<name>
+		
+	</name>
+	<desc>
+		Требуется дополнительный груз: доставьте на борт исследовательские образцы для Альтерры.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/cannot-launch-need-cargo.ogg
+	</pda>
+  </needlaunchcargo>
+  <unfinishedexplore>
+	<name>
+		
+	</name>
+	<desc>
+		Невозможно запустить ракету. Ваше исследование этого региона не завершено. Пожалуйста, обратитесь к банку данных для получения дополнительной информации.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/unfinished-explore.ogg
+	</pda>
+  </unfinishedexplore>
+  <notseenallbiomes>
+	<name>
+		
+	</name>
+	<desc>
+		Обнаружено несколько неисследованных экологических биомов. Ваша основная исследовательская задача - получить дополнительную информацию.
+	</desc>
+	<pda>
+		Sounds/pdaprompt/cannot-launch-missing-biomes.ogg
+	</pda>
+  </notseenallbiomes>
+  <bulkheadLaserCutterUpgrade>
+	<name>
+		Повышение температуры лазерного резака
+	</name>
+	<desc>
+		&lt;color=#FFA622FF&gt;Laser Cutter&lt;/color&gt;\n&lt;color=#74C8F8FF&gt;Temperature Upgrade&lt;/color&gt;
+	</desc>
+	<pda>
+		Теперь может резать усиленные титановые плиты
+	</pda>
+	<error>
+		Усиленные переборки требуют повышенных температур воздействия
+	</error>
+  </bulkheadLaserCutterUpgrade>
+  <bioprocessorBoost>
+	<name>
+		Улучшение эффективности биопроцессора
+	</name>
+	<desc>
+		&lt;color=#FFA622FF&gt;Bioprocessor&lt;/color&gt;\n&lt;color=#74C8F8FF&gt;Efficiency Upgrade&lt;/color&gt;
+	</desc>
+	<pda>
+		Теперь завершает изготовление с использованием на 33% меньше энергии
+	</pda>
+  </bioprocessorBoost>
+  <DockToChangeVehicleUpgrades>
+	<name>
+		
+	</name>
+	<desc>
+		Улучшения транспортных средств могут быть заменены только во время стыковки
+	</desc>
+	<pda>
+		
+	</pda>
+  </DockToChangeVehicleUpgrades>
+  <ItemNotDroppable>
+	<name>
+		
+	</name>
+	<desc>
+		Этот предмет можно подобрать, но нельзя выбросить.
+	</desc>
+	<pda>
+		
+	</pda>
+  </ItemNotDroppable>
+  <PrawnBayDoorHeatWarn>
+	<name>
+		
+	</name>
+	<desc>
+		ПРЕДУПРЕЖДЕНИЕ: Экстремальные температуры по ту сторону этого прохода
+	</desc>
+	<pda>
+		
+	</pda>
+  </PrawnBayDoorHeatWarn>
+  <LostRiverCachePanel>
+	<name>
+		
+	</name>
+	<desc>
+		Загрузить данные о биологии человека
+	</desc>
+	<pda>
+		
+	</pda>
+  </LostRiverCachePanel>
+  <NeedRepairDataBox>
+	<name>
+		
+	</name>
+	<desc>
+		Отремонтируйте блок данных, чтобы восстановить чертеж
+	</desc>
+	<pda>
+		
+	</pda>
+  </NeedRepairDataBox>
+  <SanctuaryPlantGrowing>
+	<name>
+		
+	</name>
+	<desc>
+		Выращивание нового ядра
+	</desc>
+	<pda>
+		
+	</pda>
+  </SanctuaryPlantGrowing>
+  <SanctuaryPlantClick>
+	<name>
+		
+	</name>
+	<desc>
+		Собрать ядро
+	</desc>
+	<pda>
+		
+	</pda>
+  </SanctuaryPlantClick>
+  <CampfireCooking>
+	<name>
+		
+	</name>
+	<desc>
+		Копчение рыбы
+	</desc>
+	<pda>
+		
+	</pda>
+  </CampfireCooking>
+  <CampfireClick>
+	<name>
+		
+	</name>
+	<desc>
+		Добавить сырую рыбу для копчения
+	</desc>
+	<pda>
+		
+	</pda>
+  </CampfireClick>
+  <SmokedNoExpire>
+	<name>
+		
+	</name>
+	<desc>
+		Остается свежей неопределенно долго.
+	</desc>
+	<pda>
+		
+	</pda>
+  </SmokedNoExpire>
+  <TrackerPage>
+	<name>
+		
+	</name>
+	<desc>
+		
+	</desc>
+	<pda>
+		Найдено в этой области:
+	</pda>
+	<category>
+		Результаты исследований
+	</category>
+	<incomplete>
+		Здесь есть что ещё исследовать.
+	</incomplete>
+  </TrackerPage>
+  <MercuryDesc>
+	<name>
+		
+	</name>
+	<desc>
+		Ртуть - ценный компонент для изготовления сложных схем, а её оксид полезен в качестве красного красителя.
+	</desc>
+	<pda>
+		Редкая руда, состоящая из оксидов ртути. Помимо многовековой истории прямого использования в качестве красного красителя, ртуть можно извлечь и переработать в передовых электронных системах.
+
+		Оценка: Необходима для продвинутого производства
+	</pda>
+  </MercuryDesc>
+  <EnzymePeeperDisplay>
+	<name>
+		Фермент Хост-Пипер
+	</name>
+	<desc>
+		
+	</desc>
+	<pda>
+		
+	</pda>
+  </EnzymePeeperDisplay>
+  <CraftingNodes>
+	<name>
+		
+	</name>
+	<desc>
+		
+	</desc>
+	<pda>
+		
+	</pda>
+	<chemistry>
+		Chemistry
+	</chemistry>
+	<ingots>
+		Металлические слитки
+	</ingots>
+	<ingotUnpack>
+		Распаковка металла
+	</ingotUnpack>
+	<medical>
+		Медицинский
+	</medical>
+  </CraftingNodes>
+</Root>
